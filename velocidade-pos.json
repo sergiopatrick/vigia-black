@@ -2,17 +2,20 @@
  "base": {
   "/": {
    "notas": [
+    27,
     27
    ]
   },
   "/cursos/": {
    "notas": [
-    31
+    31,
+    33
    ]
   },
   "/pos-graduacao-em-pediatria-a/": {
    "notas": [
-    29
+    29,
+    30
    ]
   }
  },
