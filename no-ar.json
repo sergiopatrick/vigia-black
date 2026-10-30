@@ -1,4 +1,12 @@
 {
  "base": {},
- "falhas": {}
+ "falhas": {
+  "pos|no-ar|/": {
+   "alertado": false,
+   "desde": "2026-10-30T12:45:40-03:00",
+   "desde_s": 1793375140.7398763,
+   "msg": "/ respondeu 429",
+   "vezes": 1
+  }
+ }
 }
