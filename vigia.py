@@ -114,8 +114,23 @@ def slack(texto, blocos=None):
     if not hook:
         log("[slack desligado]", texto)
         return
+    if "/triggers/" in hook:
+        # webhook do Workflow Builder do Slack da Sanar, que só aceita a variável de texto "mensagem"
+        partes = []
+        for bl in blocos or []:
+            if bl["type"] == "section":
+                partes.append(bl["text"]["text"])
+            elif bl["type"] == "image":
+                partes.append(f"Print {bl['image_url']}")
+            elif bl["type"] == "context":
+                partes += [e["text"] for e in bl["elements"]]
+        corpo = "\n".join(partes) or texto
+        corpo = re.sub(r"<(https?://[^|>]+)\|([^>]+)>", r"\2 \1", corpo)
+        payload = {"mensagem": corpo}
+    else:
+        payload = {"text": texto, "blocks": blocos or []}
     try:
-        r = httpx.post(hook, json={"text": texto, "blocks": blocos or []}, timeout=20)
+        r = httpx.post(hook, json=payload, timeout=20)
         if r.status_code != 200:
             log("slack respondeu", r.status_code, r.text[:200])
     except httpx.HTTPError as e:
