@@ -1,0 +1,400 @@
+{
+ "base": {
+  "/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/curso-analogos-glp-1/": {
+   "checkout": true,
+   "cta": false,
+   "form": false,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/curso-psicofarmacos/": {
+   "checkout": true,
+   "cta": false,
+   "form": false,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": false
+  },
+  "/cursos/": {
+   "cards": 27,
+   "cta": true,
+   "form": false,
+   "gtm": true,
+   "index": true
+  },
+  "/gestao-e-empreendedorismo-medico/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-cardiologia/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-clinica-medica/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-cuidados-paliativos/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-dermatologia/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-emergencias-pediatricas/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-endocrinologia/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-geriatria/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-ginecologia-clinica/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-medicina-da-dor/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-medicina-de-emergencia-a/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-medicina-de-emergencia-b/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-medicina-de-emergencia/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-medicina-de-familia-e-comunidade-a/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-medicina-de-familia-e-comunidade-b/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-medicina-de-familia-e-comunidade/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-medicina-do-esporte/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-medicina-do-estilo-de-vida/": {
+   "checkout": false,
+   "cta": false,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": false
+  },
+  "/pos-graduacao-em-medicina-do-sono/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-medicina-do-trabalho-a/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-medicina-do-trabalho-b/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-medicina-do-trabalho/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-medicina-endocanabinoide/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-neurologia-a/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-neurologia-b/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-neurologia/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-nutrologia/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-obesidade-e-emagrecimento/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-pediatria-a/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-pediatria-b/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-pediatria/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-pericias-medicas/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-psiquiatria-da-infancia-e-da-adolescencia/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-psiquiatria-forense/": {
+   "checkout": false,
+   "cta": false,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": false
+  },
+  "/pos-graduacao-em-psiquiatria/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "/pos-graduacao-em-terapia-intensiva/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
+  "_cursos": [
+   "/pos-graduacao-em-medicina-de-emergencia-a/",
+   "/pos-graduacao-em-medicina-de-familia-e-comunidade-a/",
+   "/pos-graduacao-em-pediatria-a/",
+   "/pos-graduacao-em-medicina-do-trabalho-a/",
+   "/pos-graduacao-em-medicina-de-emergencia/",
+   "/pos-graduacao-em-medicina-de-familia-e-comunidade/",
+   "/pos-graduacao-em-medicina-do-trabalho/",
+   "/pos-graduacao-em-pediatria/",
+   "/pos-graduacao-em-neurologia/",
+   "/pos-graduacao-em-psiquiatria-forense/",
+   "/pos-graduacao-em-medicina-do-estilo-de-vida/",
+   "/pos-graduacao-em-neurologia-a/",
+   "/pos-graduacao-em-dermatologia/",
+   "/pos-graduacao-em-cuidados-paliativos/",
+   "/pos-graduacao-em-emergencias-pediatricas/",
+   "/pos-graduacao-em-endocrinologia/",
+   "/pos-graduacao-em-geriatria/",
+   "/pos-graduacao-em-ginecologia-clinica/",
+   "/pos-graduacao-em-medicina-endocanabinoide/",
+   "/pos-graduacao-em-medicina-da-dor/",
+   "/pos-graduacao-em-medicina-de-emergencia-b/",
+   "/pos-graduacao-em-medicina-de-familia-e-comunidade-b/",
+   "/pos-graduacao-em-medicina-do-esporte/",
+   "/pos-graduacao-em-medicina-do-sono/",
+   "/pos-graduacao-em-medicina-do-trabalho-b/",
+   "/pos-graduacao-em-neurologia-b/",
+   "/pos-graduacao-em-obesidade-e-emagrecimento/",
+   "/pos-graduacao-em-pediatria-b/",
+   "/pos-graduacao-em-pericias-medicas/",
+   "/pos-graduacao-em-terapia-intensiva/",
+   "/pos-graduacao-em-psiquiatria-da-infancia-e-da-adolescencia/",
+   "/pos-graduacao-em-cardiologia/",
+   "/pos-graduacao-em-nutrologia/",
+   "/pos-graduacao-em-psiquiatria/",
+   "/pos-graduacao-em-clinica-medica/",
+   "/curso-analogos-glp-1/",
+   "/curso-psicofarmacos/",
+   "/gestao-e-empreendedorismo-medico/"
+  ],
+  "_rodizio": 40,
+  "checkout_ref": "https://checkout.cetrus.sanar.com.br/produto?productId=ddb14259-a555-4ccf-9d71-93310e2cca02&pricingConfigId=0e3b8c2b-b9ce-4246-9879-e8e28e20b826&utm_source=site-pos&utm_medium=organic&utm_campaign=navegacao-padrao"
+ },
+ "falhas": {}
+}
