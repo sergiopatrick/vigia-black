@@ -18,7 +18,21 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/ecocardiografia-avancada-i-patologias/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/ecocardiografia-fetal/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/ecocardiografia-funcional-para-neonatologistas-e-pediatras/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -38,12 +52,90 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/fellowship-em-cosmiatria-dra-thamara-morita/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ecocardiografia-dr-hugo-maues/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ecocardiografia-dr-jose-arruda/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ecocardiograma-avancado-dr-thiago-tomaz/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ecocardiograma-clinica-cardiocare/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-terapia-intensiva-dra-cristiane-monte/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ultrassonografia-ginecologica-avancada-endometriose-e-hycosy-dra-gabriella-machado/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-usg-da-mulher-dr-joao-paulo-guimaraes/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/implantes-hormonais-subcutaneos-teoria-e-pratica/": {
    "cta": true,
    "form": true,
    "gtm": true,
    "index": true,
    "turmas": true
+  },
+  "/cursos/pos-graduacao-em-ginecologia-e-obstetricia-sanar/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-em-terapia-intensiva-dr-ronaldo-taques/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-em-ultrassonografia-geral-dr-bernardo-coser-herdy-locatel/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-em-ultrassonografia-geral-dr-joao-paulo-guimaraes/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-em-ultrassonografia-geral-dr-monres-gomes/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
   },
   "/cursos/pos-graduacao-lato-sensu-ecocardiografia-fetal/": {
    "cta": true,
@@ -64,11 +156,24 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-medicina-da-dor/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-medicina-do-exercicio-e-do-esporte/": {
    "cta": true,
    "form": true,
    "gtm": true,
    "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-neurossonologia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-pneumologia-pediatrica/": {
    "cta": true,
@@ -78,6 +183,18 @@
    "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-ressonancia-magnetica-musculoesqueletica/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-alphasonic-londrina/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-multimed/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -105,6 +222,13 @@
    "turmas": true
   },
   "/cursos/tratamento-por-ondas-de-choque/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/ultrassonografia-em-anestesia/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -576,7 +700,7 @@
    "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-e-estetica-basica-dr-gilvan-alves-e-clinica-aepit/",
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/"
   ],
-  "_rodizio": 40
+  "_rodizio": 60
  },
  "falhas": {}
 }
