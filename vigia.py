@@ -577,6 +577,38 @@ def cmd_jornada(a):
     log(f"jornada {sk}: {len(res)} páginas, {len(falhas)} falhas, {desafios} desafios")
     salvar_no_git(f"jornada {sk} {ts()}")
     enviar(envios)
+    status_jornada(est, sk, s, itens, len(res), infos, desafios)
+
+
+def status_jornada(est, sk, s, itens, n_paginas, infos, desafios):
+    """Mensagem de toda hora, mesmo com tudo certo."""
+    def conta(chave):
+        sel = [i for i in itens if i["id"].endswith("|" + chave)]
+        return sum(1 for i in sel if i["ok"]), len(sel)
+
+    abertas = [f for f in est.d["falhas"].values() if f.get("alertado")]
+    atencao = [i for i in itens if not i["ok"] and i["sev"] != "critico"]
+    tempo = round(sum(v["s"] or 0 for v in infos.values()) / max(1, len(infos)), 1)
+    hora = agora().strftime("%Hh%M")
+    linhas = [f"{n_paginas} páginas testadas no computador e 5 no celular · abrem em {str(tempo).replace('.', ',')} s em média"]
+    partes = []
+    for chave, nome in (("checkout", "checkout com o curso certo"), ("valor", "preço igual ao do checkout"),
+                        ("turmas", "cursos com turma para escolher"), ("formulario", "formulários na página")):
+        ok, tot = conta(chave)
+        if tot:
+            partes.append(f"{nome} {ok}/{tot}")
+    if partes:
+        linhas.append(" · ".join(partes))
+    if atencao:
+        linhas.append(f":large_yellow_circle: {len(atencao)} {'ponto' if len(atencao) == 1 else 'pontos'} para olhar no resumo das 9h")
+    if desafios:
+        linhas.append(f"O WordPress.com pediu verificação em {desafios} páginas (não é queda)")
+    if abertas:
+        titulo = f":rotating_light: {s['nome']} · rodada das {hora} com {len(abertas)} {'problema' if len(abertas) == 1 else 'problemas'} em aberto"
+        linhas += [f"• {f['msg']}" for f in abertas[:5]]
+    else:
+        titulo = f":white_check_mark: {s['nome']} · rodada das {hora}, tudo funcionando"
+    slack(titulo, bloco_alerta(titulo, linhas))
 
 
 # ------------------------------------------------------------------ velocidade (PageSpeed Insights)
@@ -593,6 +625,7 @@ def lighthouse(url):
 
 def cmd_velocidade(_):
     key = os.environ.get("PSI_KEY")
+    medidas = []
     for sk, paginas in C.VELOCIDADE.items():
         est = Estado(f"velocidade-{sk}")
         for p in paginas:
@@ -629,9 +662,15 @@ def cmd_velocidade(_):
             b["notas"] = (b["notas"] + [m["nota"]])[-15:]
             est.evento(tipo="velocidade", site=sk, url=url, fonte=fonte, **m)
             log(f"velocidade {sk} {p}", m)
+            medidas.append((sk, p, m))
             time.sleep(5)
         est.salvar()
     salvar_no_git(f"velocidade {ts()}")
+    if medidas:
+        linhas = [f"{C.SITES[sk]['nome']} {p} · nota {m['nota']}/100 · LCP {str(m['lcp']).replace('.', ',')} s · CLS {m['cls']}"
+                  for sk, p, m in medidas]
+        titulo = f":bar_chart: Velocidade no celular · {agora():%Hh%M}"
+        slack(titulo, bloco_alerta(titulo, linhas))
 
 
 # ------------------------------------------------------------------ formulário de teste (envio real)
@@ -729,6 +768,9 @@ def cmd_formulario(a):
     log(f"formulário {sk}", resultado)
     salvar_no_git(f"formulario {sk} {ts()}")
     enviar(envios)
+    if resultado["ok"]:
+        titulo = f":white_check_mark: {s['nome']} · formulário de teste das {agora():%Hh%M} enviado e recebido pelo HubSpot"
+        slack(titulo, bloco_alerta(titulo, [f"Cadastro {email}"], url))
 
 
 # ------------------------------------------------------------------ resumo diário

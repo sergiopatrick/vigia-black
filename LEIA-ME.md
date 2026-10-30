@@ -7,7 +7,7 @@ Robô que testa pos.sanar.com.br e cetrus.com.br várias vezes por dia durante a
 | Tarefa | Quando (Brasília) | O que confere |
 |---|---|---|
 | `no-ar` | a cada 5 min | home e vitrine dos dois sites respondem, e o checkout responde para um curso real |
-| `jornada` | toda hora, aos 7 min | navegador real abre home, vitrine e cada curso, confere preço, botão de matrícula, checkout com o mesmo valor do site, turma disponível (Cetrus), formulário, tag de medição e Google (noindex). Também abre no celular |
+| `jornada` | toda hora, aos 7 min, com status no Slack mesmo quando está tudo certo | navegador real abre home, vitrine e cada curso, confere preço, botão de matrícula, checkout com o mesmo valor do site, turma disponível (Cetrus), formulário, tag de medição e Google (noindex). Também abre no celular |
 | `velocidade` | 8h, 13h e 19h | nota de performance, LCP, CLS e TBT no celular (PageSpeed com chave, ou Lighthouse no próprio servidor) |
 | `formulario` | 10h30 e 16h30 | envia um cadastro de teste de verdade em cada site e confere que o HubSpot aceitou |
 | `resumo` | 9h | resumo do dia anterior no Slack |
