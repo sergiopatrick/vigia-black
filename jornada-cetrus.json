@@ -18,6 +18,13 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/bloqueios-para-dor-pelvica-guiados-por-ultrassom/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/ecocardiografia-avancada-i-patologias/": {
    "cta": true,
    "form": true,
@@ -33,6 +40,13 @@
    "turmas": true
   },
   "/cursos/ecocardiografia-funcional-para-neonatologistas-e-pediatras/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/ecocardiografia-transesofagica-3d-hands-on/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -71,6 +85,18 @@
    "index": true
   },
   "/cursos/fellowship-em-cosmiatria-dra-thamara-morita/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ecocardiografia-clinica-duocor/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ecocardiografia-dr-anderson-lima/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -136,7 +162,25 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-intervencao-em-dor-dra-paula-jaegger/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-medicina-do-esporte-performance-e-emagrecimento-ensinacao/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-reproducao-humana-dr-marcelo-cavalcante-e-dr-marcelo-gondim/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ressonancia-magnetica-fetal-dra-patricia-soares-de-oliveira-szejnfeld/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -154,6 +198,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-ultrassonografia-ginecologica-avancada-e-endometriose-dra-tatiana-couto/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-ultrassonografia-ginecologica-avancada-endometriose-e-hycosy-dra-gabriella-machado/": {
    "cta": true,
    "form": true,
@@ -161,6 +211,18 @@
    "index": true
   },
   "/cursos/fellowship-em-ultrassonografia-ginecologica-e-obstetrica-dra-adriana-melo/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ultrassonografia-obstetrica-clinica-digimed-radiograph/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ultrassonografia-obstetrica-clinica-fetal-care/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -214,6 +276,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-usg-da-mulher-fetalcare/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-usg-dermatologico-dra-ana-rossol/": {
    "cta": true,
    "form": true,
@@ -229,6 +297,12 @@
   "/cursos/fellowship-ultrassom-obstetrico-morfologico-ginecologico-clinica-uspar/": {
    "cta": true,
    "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/graduacao-em-gestao-hospitalar/": {
+   "cta": true,
+   "form": false,
    "gtm": true,
    "index": true
   },
@@ -287,6 +361,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-em-terapia-intensiva-hospital-sos-cardio/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-em-ultrassonografia-geral-dr-bernardo-coser-herdy-locatel/": {
    "cta": true,
    "form": true,
@@ -317,6 +397,13 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-em-ultrassonografia-geral-integrada/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/pos-graduacao-lato-sensu-ecocardiografia-fetal/": {
    "cta": true,
    "form": true,
@@ -343,6 +430,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-e-estetica-dra-marcia-horowitz-e-dra-paula-morais/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": false
+  },
   "/cursos/pos-graduacao-lato-sensu-em-dermatologia-pediatrica/": {
    "cta": true,
    "form": true,
@@ -366,6 +459,13 @@
    "form": true,
    "gtm": true,
    "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-neurorradiologia-cranio-coluna-cabeca-e-pescoco/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-neurossonologia/": {
    "cta": true,
@@ -400,6 +500,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-centro-radiologico-campo-grande/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-clinica-digimed-radiograph/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -450,6 +556,12 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/produtividade-de-alta-performance-para-radiologistas/": {
+   "cta": false,
+   "form": false,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/tratamento-por-ondas-de-choque/": {
    "cta": true,
    "form": true,
@@ -477,6 +589,13 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/ultrassonografia-mamaria/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/ultrassonografia-obstetrica-morfologica-avancada/": {
    "cta": true,
    "form": true,
@@ -492,6 +611,13 @@
    "turmas": true
   },
   "/cursos/ultrassonografia-para-hepatologistas/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/ultrassonografia-point-of-care-neonatal/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -938,11 +1064,11 @@
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-danillo-loula-e-clinica-regional/",
    "/cursos/fellowship-em-ecocardiografia-dra-polyana-brandao/",
    "/cursos/fellowship-em-ecocardiografia-dr-thalles-barbosa/",
-   "/cursos/pos-graduacao-reproducao-humana-assistida/",
    "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-e-estetica-basica-dr-gilvan-alves-e-clinica-aepit/",
-   "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/"
+   "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
+   "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 100
+  "_rodizio": 120
  },
  "falhas": {}
 }
