@@ -8,12 +8,13 @@ case "${1:-}" in
   abrir)
     git fetch -q origin estado
     git worktree add -q -B estado estado origin/estado
+    git config user.name "vigia-black"
+    git config user.email "vigia-black@users.noreply.github.com"
     ;;
   salvar)
     cd estado || exit 1
     git add -A
-    git -c user.name="vigia-black" -c user.email="vigia-black@users.noreply.github.com" \
-      commit -qm "${2:-estado}" || exit 0
+    git commit -qm "${2:-estado}" || exit 0
     for i in 1 2 3 4 5 6; do
       git push -q origin estado && exit 0
       sleep $((RANDOM % 8 + 2))
