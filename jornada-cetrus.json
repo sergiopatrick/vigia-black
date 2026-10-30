@@ -58,6 +58,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-cirurgia-minimamente-invasiva-de-pe-e-tornozelo-dr-andre-perin/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-cosmiatria-dra-juliana-martins/": {
    "cta": true,
    "form": true,
@@ -65,6 +71,12 @@
    "index": true
   },
   "/cursos/fellowship-em-cosmiatria-dra-thamara-morita/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ecocardiografia-dr-edmundo-camara/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -118,6 +130,18 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-ginecologia-funcional-e-regenerativa-dra-eliana-zucchi/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-reproducao-humana-dr-marcelo-cavalcante-e-dr-marcelo-gondim/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-terapia-intensiva-dra-cristiane-monte/": {
    "cta": true,
    "form": true,
@@ -136,7 +160,67 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-ultrassonografia-ginecologica-e-obstetrica-dra-adriana-melo/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ultrassonografia-obstetrica-dr-joao-paulo-guimaraes/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ultrassonografia-obstetrica-dr-jose-antonio-martins/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ultrassonografia-obstetrica-dr-luiz-franca/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ultrassonografia-obstetrica-dra-rosy-ane/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ultrassonografia-obstetrica-e-morfologica-doppler-dra-izabela-pires-franco/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ultrassonografia-obstetrica-materno-fetal-dr-luiz-miguel-miltri/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-us-obstetrica-morfologica-e-doppler-dr-sergio-matos/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-usg-da-mulher-dr-joao-paulo-guimaraes/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-usg-dermatologico-dra-ana-rossol/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": false
+  },
+  "/cursos/fellowship-endoscopia-digestiva-alta-diagnostica-dr-marco-aurelio/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -179,6 +263,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-em-pericias-medicas-sanar/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-em-psiquiatria-sanar/": {
    "cta": true,
    "form": true,
@@ -203,6 +293,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-em-ultrassonografia-geral-dr-breno-moll-arruda-e-ana-leonor-riascos/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-em-ultrassonografia-geral-dr-joao-paulo-guimaraes/": {
    "cta": true,
    "form": true,
@@ -210,6 +306,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-em-ultrassonografia-geral-dr-monres-gomes/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-em-ultrassonografia-geral-ensinacao-sobral/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -228,6 +330,13 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-cardiologia-pediatrica/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-colonoscopia-diagnostica/": {
    "cta": true,
    "form": true,
@@ -235,6 +344,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-dermatologia-pediatrica/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-endocrinologia/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -291,6 +406,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-clinica-medmais/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-maisa-prado/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -821,7 +942,7 @@
    "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-e-estetica-basica-dr-gilvan-alves-e-clinica-aepit/",
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/"
   ],
-  "_rodizio": 80
+  "_rodizio": 100
  },
  "falhas": {}
 }
