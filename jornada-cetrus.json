@@ -1,7 +1,7 @@
 {
  "base": {
   "/": {
-   "cta": false,
+   "cta": true,
    "form": false,
    "gtm": true,
    "index": true
@@ -79,6 +79,12 @@
    "index": true
   },
   "/cursos/fellowship-em-cirurgia-minimamente-invasiva-de-pe-e-tornozelo-dr-andre-perin/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-cirurgia-minimamente-invasiva-de-pe-e-tornozelo-dr-gabriel-ferraz/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -511,6 +517,54 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/neurorradiologia-anatomia-sequencias-malformacoes/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/neurorradiologia-cabeca-e-pescoco/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/neurorradiologia-coluna/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/neurorradiologia-doencas-desmielinizantes-neurodegenerativas/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/neurorradiologia-doencas-infecciosas/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/neurorradiologia-hipofise-pineal-facomatoses-epilepsia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/neurorradiologia-patologias-vasculares-traumatismo-craniano/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/neurorradiologia-tumores-snc-oms-2021/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pacote-basico-em-ultrassonografia-em-ginecologia-e-obstetricia/": {
    "cta": true,
    "form": true,
@@ -530,6 +584,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-em-emergencias-pediatricas-sanar/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-em-geriatria-sanar/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -783,6 +843,70 @@
    "form": false,
    "gtm": true,
    "index": true
+  },
+  "/cursos/ressonancia-magnetica-atm-e-cotovelo/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/ressonancia-magnetica-bacia-e-quadril/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/ressonancia-magnetica-coluna-vertebral-plexo-braquial/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/ressonancia-magnetica-do-joelho/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/ressonancia-magnetica-doencas-reumatologicas-osteoartrites-infeccoes/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/ressonancia-magnetica-lesoes-medicina-esportiva-musculares/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/ressonancia-magnetica-ombro-e-medula-ossea/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/ressonancia-magnetica-pe-e-tornozelo/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/ressonancia-magnetica-punho-mao-nervos-perifericos/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/ressonancia-magnetica-tumores-musculoesqueleticos/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
   },
   "/cursos/tratamento-por-ondas-de-choque/": {
    "cta": true,
@@ -1310,7 +1434,7 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 160
+  "_rodizio": 180
  },
  "falhas": {}
 }
