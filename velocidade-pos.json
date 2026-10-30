@@ -1,0 +1,20 @@
+{
+ "base": {
+  "/": {
+   "notas": [
+    27
+   ]
+  },
+  "/cursos/": {
+   "notas": [
+    31
+   ]
+  },
+  "/pos-graduacao-em-pediatria-a/": {
+   "notas": [
+    29
+   ]
+  }
+ },
+ "falhas": {}
+}
