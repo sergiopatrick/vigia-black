@@ -18,6 +18,13 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/atualizacao-em-ecocardiografia-fetal/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/bloqueios-para-dor-pelvica-guiados-por-ultrassom/": {
    "cta": true,
    "form": true,
@@ -102,6 +109,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-dependencia-quimica-e-transtornos-adictivos-dr-rogerio-jesus/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-ecocardiografia-clinica-duocor/": {
    "cta": true,
    "form": true,
@@ -156,6 +169,18 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-ecocardiografia-fetal-dr-marcelo-kozak/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ecocardiografia-fetal-dra-sandra-mattos/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-ecocardiograma-avancado-dr-thiago-tomaz/": {
    "cta": true,
    "form": true,
@@ -180,7 +205,19 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-intervencao-em-dor-dr-fabio-aragao/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-intervencao-em-dor-dr-francisco-morato/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-intervencao-em-dor-dr-monres-gomes/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -193,6 +230,12 @@
    "index": true
   },
   "/cursos/fellowship-em-medicina-do-esporte-performance-e-emagrecimento-ensinacao/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-medicina-intensiva-dr-andre-gobatto/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -343,6 +386,12 @@
    "index": false
   },
   "/cursos/fellowship-endoscopia-digestiva-alta-diagnostica-dr-marco-aurelio/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-intervencao-em-dor-dr-matheus-bortoluci/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -589,6 +638,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-em-endocrinologia-sanar/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-em-geriatria-sanar/": {
    "cta": true,
    "form": true,
@@ -607,6 +662,36 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-em-medicina-de-familia-e-comunidade-sanar/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-em-medicina-do-esporte-sanar/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-em-medicina-do-sono-sanar/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-em-medicina-do-trabalho-sanar/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-em-medicina-endocanabinoide-sanar/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-em-pediatria-sanar/": {
    "cta": true,
    "form": true,
@@ -614,6 +699,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-em-pericias-medicas-sanar/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-em-psiquiatria-da-infancia-e-adolescencia-sanar/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -692,6 +783,13 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-alergia-e-imunologia-pediatrica-online/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-cardiointensivismo-pediatrico/": {
    "cta": true,
    "form": true,
@@ -717,6 +815,12 @@
    "form": true,
    "gtm": true,
    "index": false
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-dermatologia-pediatrica-online/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-dermatologia-pediatrica/": {
    "cta": true,
@@ -799,7 +903,19 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-marcio-brandao/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-maisa-prado/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-drs-guilherme-e-amanda-chandretti/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -837,6 +953,12 @@
    "gtm": true,
    "index": true,
    "turmas": true
+  },
+  "/cursos/preparatorio-prova-de-titulo-em-ortopedia-e-traumatologia-2a-fase/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
   },
   "/cursos/produtividade-de-alta-performance-para-radiologistas/": {
    "cta": false,
@@ -1434,7 +1556,7 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 180
+  "_rodizio": 200
  },
  "falhas": {}
 }
