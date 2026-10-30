@@ -1,0 +1,59 @@
+name: Velocidade, formulário e resumo
+
+# Horários em UTC (Brasília = UTC-3)
+#   velocidade 08h, 13h e 19h · formulário de teste 10h e 16h · resumo 09h
+on:
+  schedule:
+    - cron: "0 11,16,22 * * *"
+    - cron: "30 13,19 * * *"
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+    inputs:
+      tarefa:
+        description: "velocidade, formulario ou resumo"
+        required: true
+        default: resumo
+
+permissions:
+  contents: write
+
+jobs:
+  rotina:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -q -r requirements.txt
+      - name: Qual tarefa
+        id: t
+        run: |
+          case "${{ github.event.schedule }}" in
+            "0 11,16,22 * * *") echo "tarefa=velocidade" >> "$GITHUB_OUTPUT" ;;
+            "30 13,19 * * *")   echo "tarefa=formulario" >> "$GITHUB_OUTPUT" ;;
+            "0 12 * * *")       echo "tarefa=resumo" >> "$GITHUB_OUTPUT" ;;
+            *)                  echo "tarefa=${{ inputs.tarefa }}" >> "$GITHUB_OUTPUT" ;;
+          esac
+      - if: steps.t.outputs.tarefa == 'formulario'
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ hashFiles('requirements.txt') }}
+      - if: steps.t.outputs.tarefa == 'formulario'
+        run: python -m playwright install --with-deps chromium
+      - run: ./estado.sh abrir
+      - name: Rodar
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          PSI_KEY: ${{ secrets.PSI_KEY }}
+          HUBSPOT_TOKEN: ${{ secrets.HUBSPOT_TOKEN }}
+          VIGIA_EMAIL_TESTE: ${{ secrets.VIGIA_EMAIL_TESTE }}
+          VIGIA_TELEFONE_TESTE: ${{ secrets.VIGIA_TELEFONE_TESTE }}
+        run: |
+          case "${{ steps.t.outputs.tarefa }}" in
+            formulario) python vigia.py formulario --site pos; sleep 20; python vigia.py formulario --site cetrus ;;
+            *)          python vigia.py "${{ steps.t.outputs.tarefa }}" ;;
+          esac

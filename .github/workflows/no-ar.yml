@@ -1,0 +1,29 @@
+name: No ar (a cada 5 min)
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: no-ar
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  no-ar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -q -r requirements.txt
+      - run: ./estado.sh abrir
+      - run: python vigia.py no-ar
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
