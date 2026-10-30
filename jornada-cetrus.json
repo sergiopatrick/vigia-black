@@ -66,6 +66,13 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/elastografia-hepatica-por-ultrassom/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/ergoespirometria-e-reabilitacao-cardiovascular/": {
    "cta": true,
    "form": true,
@@ -110,6 +117,12 @@
    "index": true
   },
   "/cursos/fellowship-em-dependencia-quimica-e-transtornos-adictivos-dr-rogerio-jesus/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ecocardiografia-cardiocore/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -163,6 +176,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-ecocardiografia-dr-luis-guilherme-campos/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-ecocardiografia-dra-joicely-costa/": {
    "cta": true,
    "form": true,
@@ -205,6 +224,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-intervencao-em-dor-claudia-ferrara/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-intervencao-em-dor-dr-fabio-aragao/": {
    "cta": true,
    "form": true,
@@ -218,6 +243,12 @@
    "index": true
   },
   "/cursos/fellowship-em-intervencao-em-dor-dr-monres-gomes/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-intervencao-em-dor-dr-ramires-fahfe/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -277,6 +308,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-ultrassonografia-geral-dr-rafael-valois/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-ultrassonografia-ginecologica-avancada-e-endometriose-dra-tatiana-couto/": {
    "cta": true,
    "form": true,
@@ -308,6 +345,12 @@
    "index": true
   },
   "/cursos/fellowship-em-ultrassonografia-obstetrica-clinica-fetali/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ultrassonografia-obstetrica-clinica-prodclin/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -834,6 +877,13 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-intervencao-em-dor/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-medicina-da-dor/": {
    "cta": true,
    "form": true,
@@ -845,6 +895,13 @@
    "form": true,
    "gtm": true,
    "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-neurointensivismo/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-neurorradiologia-cranio-coluna-cabeca-e-pescoco/": {
    "cta": true,
@@ -867,11 +924,32 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-radiologia-e-diagnostico-por-imagem/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-ressonancia-magnetica-musculoesqueletica/": {
    "cta": true,
    "form": true,
    "gtm": true,
    "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-dermatologica/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-em-emergencias-e-uti-point-of-care/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-alphasonic-londrina/": {
    "cta": true,
@@ -903,7 +981,37 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-clinica-voluta/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-balduino-martins/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-fredrico-veloso-e-clinica-sao-miguel/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-marcio-brandao/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-wiliam-joubert/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-edna-cristina-padula-castro-prieto/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -922,6 +1030,25 @@
    "index": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-multimed/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-ultramed/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-musculoesqueletica/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-pediatrica-e-neonatal/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1556,7 +1683,7 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 200
+  "_rodizio": 220
  },
  "falhas": {}
 }
