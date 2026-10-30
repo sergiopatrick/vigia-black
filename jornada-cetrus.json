@@ -1,0 +1,19 @@
+{
+ "base": {
+  "/": {
+   "cta": false,
+   "form": false,
+   "gtm": true,
+   "index": true
+  },
+  "/vitrine/": {
+   "cards": 17,
+   "cta": false,
+   "form": false,
+   "gtm": true,
+   "index": true
+  },
+  "_rodizio": 20
+ },
+ "falhas": {}
+}
