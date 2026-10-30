@@ -27,8 +27,13 @@ def disparar(workflow, tarefa=None):
     cmd = ["gh", "workflow", "run", workflow]
     if tarefa:
         cmd += ["-f", f"tarefa={tarefa}"]
-    r = subprocess.run(cmd, capture_output=True, text=True)
-    log("disparo", workflow, tarefa or "", "ok" if r.returncode == 0 else r.stderr.strip()[:200])
+    for tentativa in range(6):  # a API do GitHub devolve 500 de vez em quando
+        r = subprocess.run(cmd, capture_output=True, text=True)
+        if r.returncode == 0:
+            log("disparo", workflow, tarefa or "", "ok")
+            return
+        log("disparo", workflow, tarefa or "", "falhou", r.stderr.strip()[:120])
+        time.sleep(20)
 
 
 def main():

@@ -37,5 +37,5 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           if [ "$(TZ=America/Sao_Paulo date +%Y-%m-%d)" \< "2026-12-01" ]; then
-            gh workflow run relogio.yml
+            for i in 1 2 3 4 5 6; do gh workflow run relogio.yml && break; sleep 20; done
           fi
