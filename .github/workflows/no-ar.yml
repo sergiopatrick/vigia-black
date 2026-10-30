@@ -1,8 +1,6 @@
-name: No ar (a cada 5 min)
+name: No ar (manual, o relógio roda a cada 5 min)
 
 on:
-  schedule:
-    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 concurrency:

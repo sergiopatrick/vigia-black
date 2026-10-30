@@ -14,6 +14,10 @@ Robô que testa pos.sanar.com.br e cetrus.com.br várias vezes por dia durante a
 
 A Sanar Pós tem todos os cursos testados toda hora. O Cetrus tem cerca de 430 cursos, então entram 20 por hora em rodízio e todos passam a cada 22 horas. Curso que precisa ser testado toda hora vai em `prioritarias` no `config.py`.
 
+## Quem dispara os horários
+
+O agendamento do GitHub atrasa e pula rodadas de 5 minutos (no primeiro dia não disparou nenhuma em uma hora), então quem marca o tempo é o workflow **Relógio do vigia** (`relogio.py`). Ele fica ligado por cerca de 5h45, roda o `no-ar` de 5 em 5 minutos e dispara a jornada e as rotinas na hora certa. No fim, religa a si mesmo. Um cron de 2 em 2 horas religa o relógio se a corrente quebrar. Para pausar tudo, desligue o workflow Relógio do vigia em Actions.
+
 ## Como ele decide alertar
 
 Cada página tem uma linha de base aprendida na primeira rodada saudável (tinha preço, tinha formulário, tinha turma, o valor batia com o checkout). Alerta só quando algo que existia some, então decisão de cadastro (curso sem preço de propósito) não vira alarme.
@@ -47,4 +51,4 @@ python3.12 -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python vigia.py formulario --site cetrus --simular   # preenche e não envia
 ```
 
-Para pausar tudo, desligar os workflows em Actions.
+Para pausar tudo, desligar o workflow Relógio do vigia em Actions.

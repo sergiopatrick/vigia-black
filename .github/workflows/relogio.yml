@@ -1,0 +1,41 @@
+name: Relógio do vigia
+
+# Fica ligado ~5h45, roda o no-ar de 5 em 5 min e dispara jornada, velocidade, formulário e resumo
+# na hora certa. No fim religa a si mesmo. O cron só serve para religar se a corrente quebrar.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */2 * * *"
+
+concurrency:
+  group: relogio
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  relogio:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -q -r requirements.txt
+      - run: ./estado.sh abrir
+      - run: python relogio.py
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          GH_TOKEN: ${{ github.token }}
+      - name: Religar o relógio
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "$(TZ=America/Sao_Paulo date +%Y-%m-%d)" \< "2026-12-01" ]; then
+            gh workflow run relogio.yml
+          fi

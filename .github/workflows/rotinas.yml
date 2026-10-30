@@ -1,12 +1,8 @@
 name: Velocidade, formulário e resumo
 
-# Horários em UTC (Brasília = UTC-3)
-#   velocidade 08h, 13h e 19h · formulário de teste 10h e 16h · resumo 09h
+# Disparado pelo relógio (relogio.py), em horário de Brasília
+#   velocidade 8h, 13h e 19h · formulário de teste 10h30 e 16h30 · resumo 9h
 on:
-  schedule:
-    - cron: "0 11,16,22 * * *"
-    - cron: "30 13,19 * * *"
-    - cron: "0 12 * * *"
   workflow_dispatch:
     inputs:
       tarefa:
