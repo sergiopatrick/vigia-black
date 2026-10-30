@@ -300,6 +300,120 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/formacao-avancada-em-ecocardiografia-transesofagica-e-3d/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/formacao-basica-em-ecocardiografia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/formacao-basica-em-infiltracao-guiada-por-ultrassom-musculoesqueletica/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/formacao-basica-em-ultrassonografia-de-penis-testiculo-e-hernias/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/formacao-basica-em-ultrassonografia-e-biopsia-de-mama/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/formacao-basica-em-ultrassonografia-para-o-paciente-critico/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/formacao-completa-em-intervencao-musculoesqueletica-e-articular/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/formacao-completa-em-ultrassonografia-em-medicina-interna/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/formacao-em-infiltracao-musculoesqueletica-e-ondas-de-choque/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/formacao-em-intervencao-da-coluna-vertebral/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/formacao-em-laser-e-estetica-intima/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/formacao-em-laser-estetica-intima-e-implantes-hormonais/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/formacao-em-radiofrequencia-guiada-por-ultrassom/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/formacao-em-ultrassonografia-e-puncao-de-tireoide/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/formacao-em-ultrassonografia-em-ginecologia-e-obstetricia-com-imagem-3d-4d/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/formacao-em-ultrassonografia-infiltracao-musculoesqueletica/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/formacao-em-ultrassonografia-vascular-com-pratica-intensiva/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/formacao-em-ultrassonografia-vascular/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/formacao-inicial-em-ultrassonografia-obstetrica-morfologica-e-3d/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/graduacao-em-gestao-hospitalar/": {
    "cta": true,
    "form": false,
@@ -312,6 +426,12 @@
    "gtm": true,
    "index": true,
    "turmas": true
+  },
+  "/cursos/pacote-basico-em-ultrassonografia-em-ginecologia-e-obstetricia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
   },
   "/cursos/pos-graduacao-em-ecocardiografia-dr-edmundo-camara/": {
    "cta": true,
@@ -729,7 +849,6 @@
    "/cursos/pos-graduacao-em-pericias-medicas-sanar/",
    "/cursos/fellowship-em-ultrassonografia-obstetrica-dra-rosy-ane/",
    "/cursos/fellowship-em-ultrassonografia-obstetrica-e-morfologica-doppler-dra-izabela-pires-franco/",
-   "/cursos/fellowship-em-us-obstetrica-morfologica-e-doppler-dr-sergio-matos/",
    "/cursos/fellowship-em-ultrassonografia-obstetrica-dr-jose-antonio-martins/",
    "/cursos/fellowship-em-ultrassonografia-obstetrica-dr-luiz-franca/",
    "/cursos/fellowship-em-ultrassonografia-obstetrica-materno-fetal-dr-luiz-miguel-miltri/",
@@ -1068,7 +1187,7 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 120
+  "_rodizio": 140
  },
  "falhas": {}
 }
