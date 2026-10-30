@@ -323,17 +323,23 @@ LER_PAGINA = r"""
 """
 
 
-def lista_cursos(cli, s, est):
-    try:
-        xml = cli.get(s["base"] + s["sitemap"]).text
-        urls = [u for u in re.findall(r"<loc>([^<]+)</loc>", xml) if "/wp-content/" not in u]
-        caminhos = [urlparse(u).path for u in urls]
-        caminhos = [p for p in caminhos if p not in s["ignorar"]]
-        if caminhos:
-            est.d["base"]["_cursos"] = caminhos
-    except httpx.HTTPError:
-        pass
-    return est.d["base"].get("_cursos", [])
+def lista_cursos(ctx, cli, s, est):
+    """Lista de cursos do sitemap. Primeiro pelo navegador (o CDN do WordPress.com barra leitor
+    de fora depois de poucas requisições), depois por httpx, por último a última lista boa."""
+    url = s["base"] + s["sitemap"]
+    xml = ""
+    for tentativa in (lambda: ctx.request.get(nc(url), timeout=30000).text(), lambda: cli.get(nc(url)).text):
+        try:
+            xml = tentativa()
+        except Exception:
+            xml = ""
+        if "<loc>" in xml:
+            break
+    urls = [u for u in re.findall(r"<loc>([^<]+)</loc>", xml) if "/wp-content/" not in u]
+    caminhos = [p for p in (urlparse(u).path for u in urls) if p not in s["ignorar"]]
+    if caminhos:
+        est.d["base"]["_cursos"] = caminhos
+    return est.d["base"].get("_cursos", []), bool(caminhos)
 
 
 def escolher(s, est, cursos):
@@ -488,16 +494,20 @@ def cmd_jornada(a):
     est = Estado(f"jornada-{sk}")
     base = est.d["base"]
     cli = httpx.Client(headers={"User-Agent": UA_HTTP}, timeout=30, follow_redirects=True)
-    cursos = lista_cursos(cli, s, est)
-    alvo = s["fixas"] + escolher(s, est, cursos) + [p for p in os.environ.get("VIGIA_EXTRA", "").split(",") if p]
     clicar = s["formulario"]["abrir"]
-    log(f"jornada {sk}: {len(alvo)} páginas ({len(cursos)} cursos no sitemap)")
-
     itens, novos, infos, desafios = [], {}, {}, 0
     with sync_playwright() as pw:
         nav = pw.chromium.launch()
         ctx = nav.new_context(viewport={"width": 1366, "height": 900}, locale="pt-BR")
         page = ctx.new_page()
+        cursos, lista_nova = lista_cursos(ctx, cli, s, est)
+        alvo = s["fixas"] + escolher(s, est, cursos) + [p for p in os.environ.get("VIGIA_EXTRA", "").split(",") if p]
+        log(f"jornada {sk}: {len(alvo)} páginas ({len(cursos)} cursos, lista {'atual' if lista_nova else 'guardada'})")
+        if not cursos:
+            itens.append({"id": f"{sk}|lista-cursos", "site": sk, "ok": False, "sev": "critico", "url": s["base"] + s["sitemap"],
+                          "msg": "Não consegui ler a lista de cursos do site, esta rodada só testou home e vitrine"})
+        else:
+            itens.append({"id": f"{sk}|lista-cursos", "site": sk, "ok": True, "sev": "critico", "msg": "", "url": ""})
 
         def rodar(lista):
             nonlocal desafios
