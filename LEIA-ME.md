@@ -18,7 +18,7 @@ A Sanar Pós tem todos os cursos testados toda hora. O Cetrus tem cerca de 430 c
 
 Cada página tem uma linha de base aprendida na primeira rodada saudável (tinha preço, tinha formulário, tinha turma, o valor batia com o checkout). Alerta só quando algo que existia some, então decisão de cadastro (curso sem preço de propósito) não vira alarme.
 
-Falha crítica é conferida de novo depois de 4 minutos dentro da mesma rodada. No `no-ar`, precisa falhar em duas rodadas seguidas. Só então vai para o Slack, com print. Enquanto continuar quebrado, manda lembrete a cada 2 horas. Quando volta, avisa que voltou e quanto tempo durou. Se uma mudança ficar mais de 12 horas alertada, o robô entende que é o novo normal e para de lembrar.
+Falha crítica é conferida de novo depois de 5 minutos dentro da mesma rodada. No `no-ar`, precisa falhar em duas rodadas seguidas. Só então vai para o Slack, com print. Enquanto continuar quebrado, manda lembrete a cada 2 horas. Quando volta, avisa que voltou e quanto tempo durou. Se uma mudança ficar mais de 12 horas alertada, o robô entende que é o novo normal e para de lembrar.
 
 O desafio "Checking your browser" do WordPress.com não é queda. O robô registra como bloqueio e só avisa se ficar cego em metade das páginas da rodada.
 

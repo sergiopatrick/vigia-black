@@ -40,5 +40,5 @@ VELOCIDADE = {
 }
 
 PAUSA_ENTRE_PAGINAS = 6       # segundos; o WordPress.com bloqueia rajada
-RECONFERIR_EM = 240           # segundos até a segunda conferência de uma falha crítica
+RECONFERIR_EM = 300           # segundos até a segunda conferência de uma falha crítica
 LEMBRAR_A_CADA = 2 * 3600     # alerta ainda aberto ganha lembrete a cada 2 h
