@@ -109,6 +109,9 @@ def salvar_no_git(msg):
 
 # ------------------------------------------------------------------ Slack
 
+EMOJI = {":rotating_light:": "🚨", ":white_check_mark:": "✅", ":hourglass:": "⏳", ":bar_chart:": "📊",
+         ":wave:": "👋", ":warning:": "⚠️", ":large_yellow_circle:": "🟡"}
+
 def slack(texto, blocos=None):
     hook = os.environ.get("SLACK_WEBHOOK_URL")
     if not hook:
@@ -126,6 +129,9 @@ def slack(texto, blocos=None):
                 partes += [e["text"] for e in bl["elements"]]
         corpo = "\n".join(partes) or texto
         corpo = re.sub(r"<(https?://[^|>]+)\|([^>]+)>", r"\2 \1", corpo)
+        for cod, emo in EMOJI.items():
+            corpo = corpo.replace(cod, emo)
+        corpo = re.sub(r"(^|\s)[*_]([^*_\n]+)[*_](?=\s|$)", r"\1\2", corpo, flags=re.M)
         payload = {"mensagem": corpo}
     else:
         payload = {"text": texto, "blocks": blocos or []}
@@ -201,7 +207,7 @@ def enviar(envios):
             emoji = ":rotating_light:" if tipo == "alerta" else ":hourglass:"
             texto = f"{emoji} {site} · {msg}"
             slack(texto, bloco_alerta(f"{emoji} {site} · {msg}",
-                                      [f"Página {it.get('url', '')}", f"Desde {agora().strftime('%d/%m %H:%M')}"],
+                                      [f"Desde {agora().strftime('%d/%m %H:%M')}"],
                                       it.get("url"), url_print(it.get("print"))))
 
 

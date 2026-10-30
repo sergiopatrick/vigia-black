@@ -1,6 +1,6 @@
 # Vigia da Black
 
-Robô que testa pos.sanar.com.br e cetrus.com.br várias vezes por dia durante a Black November de 2026 e avisa o canal #ping-site no Slack da Sanar quando algo quebra. Para sozinho em 01/12/2026 (`FIM` em `config.py`).
+Robô que testa pos.sanar.com.br e cetrus.com.br várias vezes por dia durante a Black November de 2026 e avisa o canal #vigia-dos-sites no Slack da Sanar quando algo quebra. Para sozinho em 01/12/2026 (`FIM` em `config.py`).
 
 ## O que roda e quando
 
@@ -28,7 +28,7 @@ Configurar em Settings, Secrets and variables, Actions.
 
 | Segredo | Para quê | Obrigatório |
 |---|---|---|
-| `SLACK_WEBHOOK_URL` | webhook do canal #ping-site no Slack da Sanar | sim |
+| `SLACK_WEBHOOK_URL` | webhook do canal #vigia-dos-sites no Slack da Sanar | sim |
 | `VIGIA_EMAIL_TESTE` | e-mail base do cadastro de teste, vira `nome+vigia-pos-AAAAMMDDHHMM@dominio` | para o formulário |
 | `VIGIA_TELEFONE_TESTE` | telefone do cadastro de teste | para o formulário |
 | `HUBSPOT_TOKEN` | token de app privado com leitura de contatos, confirma que o lead chegou | não |
