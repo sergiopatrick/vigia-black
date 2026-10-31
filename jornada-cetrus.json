@@ -80,6 +80,12 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/fellowship-em-artroscopia-de-pe-e-tornozelo-dra-tania-mann/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-cirurgia-de-catarata-hoftalon/": {
    "cta": true,
    "form": true,
@@ -104,7 +110,19 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-cosmiatria-dra-gabriela-maldonado/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-cosmiatria-dra-juliana-martins/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-cosmiatria-dra-talita-siqueira/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -182,6 +200,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-ecocardiografia-dra-flavia-vernin/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-ecocardiografia-dra-joicely-costa/": {
    "cta": true,
    "form": true,
@@ -213,6 +237,12 @@
    "index": true
   },
   "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-clinica-endhos/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dr-rafael-negrao-e-dr-jose-carlos-pardal/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -290,7 +320,25 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-terapia-intensiva-dr-fabio-lacerda/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-terapia-intensiva-dr-paulo-gottardo/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-terapia-intensiva-dra-cristiane-monte/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ultrassonografia-dermatologica-dr-estevao-vargas/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -326,7 +374,19 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-ultrassonografia-ginecologica-avancada-endometriose-e-hycosy-dra-maria-capriglione/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-ultrassonografia-ginecologica-e-obstetrica-dra-adriana-melo/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ultrassonografia-obstetrica-avancada-dr-orlando-gomes/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -356,7 +416,25 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-ultrassonografia-obstetrica-dr-eduardo-becker/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ultrassonografia-obstetrica-dr-felipe-fonseca/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-ultrassonografia-obstetrica-dr-igor-clausius/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ultrassonografia-obstetrica-dr-jair-braga/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -386,6 +464,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-ultrassonografia-obstetrica-dra-nadia-reis/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-ultrassonografia-obstetrica-dra-rosy-ane/": {
    "cta": true,
    "form": true,
@@ -398,6 +482,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-ultrassonografia-obstetrica-instituto-ensinacao/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-ultrassonografia-obstetrica-materno-fetal-dr-luiz-miguel-miltri/": {
    "cta": true,
    "form": true,
@@ -405,6 +495,12 @@
    "index": true
   },
   "/cursos/fellowship-em-us-obstetrica-morfologica-e-doppler-dr-sergio-matos/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-us-tv-avancado-e-endometriose-dr-fernando-guastella/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -427,6 +523,12 @@
    "form": true,
    "gtm": true,
    "index": false
+  },
+  "/cursos/fellowship-em-usg-ginecologica-e-endometriose-dra-suzy-cunha/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
   },
   "/cursos/fellowship-endoscopia-digestiva-alta-diagnostica-dr-marco-aurelio/": {
    "cta": true,
@@ -777,6 +879,18 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-em-ultrassonografia-geral-amaral-costa/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-em-ultrassonografia-geral-csi/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-em-ultrassonografia-geral-dr-bernardo-coser-herdy-locatel/": {
    "cta": true,
    "form": true,
@@ -802,6 +916,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-em-ultrassonografia-geral-ensinacao-sobral/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-em-ultrassonografia-geral-instituto-ensinacao/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1683,7 +1803,7 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 220
+  "_rodizio": 240
  },
  "falhas": {}
 }
