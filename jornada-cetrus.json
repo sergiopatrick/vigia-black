@@ -1552,7 +1552,8 @@
    "cta": true,
    "form": true,
    "gtm": true,
-   "index": true
+   "index": true,
+   "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-colposcopia-e-ptgi/": {
    "cta": true,
@@ -1734,7 +1735,8 @@
    "cta": true,
    "form": true,
    "gtm": true,
-   "index": true
+   "index": true,
+   "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-medicina-fetal/": {
    "cta": true,
@@ -1829,7 +1831,8 @@
    "cta": true,
    "form": true,
    "gtm": true,
-   "index": true
+   "index": true,
+   "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-rm-e-tc-cardiaca/": {
    "cta": true,
@@ -3143,7 +3146,7 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 33
+  "_rodizio": 53
  },
  "falhas": {}
 }
