@@ -1,4 +1,12 @@
 {
  "base": {},
- "falhas": {}
+ "falhas": {
+  "cetrus|no-ar|/": {
+   "alertado": false,
+   "desde": "2026-10-31T13:20:27-03:00",
+   "desde_s": 1793463627.2725747,
+   "msg": "/ respondeu 429",
+   "vezes": 1
+  }
+ }
 }
