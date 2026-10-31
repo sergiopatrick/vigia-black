@@ -25,6 +25,24 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/artroscopia-basica-do-tornozelo/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/artroscopia-de-quadril-com-treinamento-em-cadaver-fresh-frozen/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/artroscopia-do-punho-com-treinamento-em-cadaver-fresh-frozen/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/atualizacao-em-ecocardiografia-fetal/": {
    "cta": true,
    "form": true,
@@ -89,6 +107,12 @@
    "gtm": true,
    "index": true,
    "turmas": true
+  },
+  "/cursos/cirurgia-percutanea-de-pe-com-treinamento-em-cadaver-fresh-frozen/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
   },
   "/cursos/colposcopia/": {
    "cta": true,
@@ -182,7 +206,8 @@
    "cta": true,
    "form": true,
    "gtm": true,
-   "index": true
+   "index": true,
+   "turmas": true
   },
   "/cursos/ecocardiografia-tridimensional/": {
    "cta": true,
@@ -1452,7 +1477,8 @@
    "cta": true,
    "form": true,
    "gtm": true,
-   "index": true
+   "index": true,
+   "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-alergia-e-imunologia-pediatrica-online/": {
    "cta": true,
@@ -1804,6 +1830,13 @@
    "form": true,
    "gtm": true,
    "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-rm-e-tc-cardiaca/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-terapia-intensiva-dr-brenno-cardoso-gomes-dr-rafael-deucher/": {
    "cta": true,
@@ -2327,6 +2360,18 @@
    "gtm": true,
    "index": true,
    "turmas": true
+  },
+  "/cursos/retalhos-microcirurgicos-de-membro-inferiores-em-cadaver-fresh-frozen/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/retalhos-microcirurgicos-de-membro-superior-em-cadaver-fresh-frozen/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
   },
   "/cursos/rm-neuro-doencas-desmielinizantes-demenciais-e-da-hipofise/": {
    "cta": true,
@@ -3098,7 +3143,7 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 440
+  "_rodizio": 33
  },
  "falhas": {}
 }
