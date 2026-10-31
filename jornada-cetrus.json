@@ -773,6 +773,13 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/histeroscopia-avancada-laser-sistema-chroma-e-mini-ressectoscopio/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/histeroscopia/": {
    "cta": true,
    "form": true,
@@ -821,6 +828,12 @@
    "gtm": true,
    "index": true,
    "turmas": true
+  },
+  "/cursos/monitoria-em-ultrassonografia-em-ginecologia-e-obstetricia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
   },
   "/cursos/neurorradiologia-anatomia-sequencias-malformacoes/": {
    "cta": true,
@@ -1063,6 +1076,13 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-ecocardiografia-fetal-hibrida/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/pos-graduacao-lato-sensu-ecocardiografia-fetal/": {
    "cta": true,
    "form": true,
@@ -1076,7 +1096,21 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-alergia-e-imunologia-pediatrica/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-cardiointensivismo-pediatrico/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-cardiointensivismo/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1090,11 +1124,24 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-cirurgia-robotica-em-urologia-dr-fernando-bray/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-colonoscopia-diagnostica/": {
    "cta": true,
    "form": true,
    "gtm": true,
    "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-colposcopia-e-ptgi/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-e-estetica-dra-marcia-horowitz-e-dra-paula-morais/": {
    "cta": true,
@@ -1114,11 +1161,31 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-ecocardiografia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ecografia-vascular-com-doppler/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-endocrinologia/": {
    "cta": true,
    "form": true,
    "gtm": true,
    "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-endoscopia-de-coluna/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-ginecologia-avancada-e-procedimentos/": {
    "cta": true,
@@ -1131,6 +1198,20 @@
    "form": true,
    "gtm": true,
    "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ginecologia-endocrina-e-reprodutiva/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-histeroscopia-cirurgica-ambulatorial/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-intervencao-em-dor/": {
    "cta": true,
@@ -1255,6 +1336,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-cassio-lamego/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-fredrico-veloso-e-clinica-sao-miguel/": {
    "cta": true,
    "form": true,
@@ -1316,6 +1403,13 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-hibrida-em-colposcopia-e-ptgi/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/pos-graduacao-lato-sensu-hibrida-em-medicina-fetal/": {
    "cta": true,
    "form": true,
@@ -1328,6 +1422,41 @@
    "form": true,
    "gtm": true,
    "index": true
+  },
+  "/cursos/pos-graduacao-medicina-do-trabalho/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pos-graduacao-pediatria-ambulatorial-puericultura/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pos-graduacao-pet-ct/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pos-graduacao-pneumologia-clinica-funcao-pulmonar/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pos-graduacao-psiquiatria-clinica/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
   },
   "/cursos/pratica-em-biopsia-mamaria/": {
    "cta": true,
@@ -1366,6 +1495,12 @@
   "/cursos/produtividade-de-alta-performance-para-radiologistas/": {
    "cta": false,
    "form": false,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/programa-de-monitoria-em-ultrassonografia-geral/": {
+   "cta": true,
+   "form": true,
    "gtm": true,
    "index": true
   },
@@ -2078,7 +2213,7 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 280
+  "_rodizio": 300
  },
  "falhas": {}
 }
