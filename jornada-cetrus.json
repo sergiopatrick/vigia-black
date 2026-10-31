@@ -1187,6 +1187,13 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-endoscopia-digestiva-alta-diagnostica/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-ginecologia-avancada-e-procedimentos/": {
    "cta": true,
    "form": true,
@@ -1194,6 +1201,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica-dras-ilena-budel-e-rhuana-malanche/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1212,6 +1225,12 @@
    "gtm": true,
    "index": true,
    "turmas": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-imagem-da-mama-2/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-intervencao-em-dor/": {
    "cta": true,
@@ -1233,6 +1252,13 @@
    "index": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-medicina-fetal/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-medicina-regenerativa-musculoesqueletica/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1267,7 +1293,27 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-procedimentos-guiados-por-ultrassonografia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-psiquiatria-clinica-dr-andre-tavares/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-radiologia-e-diagnostico-por-imagem/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ressonancia-magnetica-da-mama/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1288,6 +1334,13 @@
    "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-em-emergencias-e-uti-point-of-care/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-em-reumatologia/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1360,6 +1413,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-danielly-sombra/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-edna-cristina-padula-castro-prieto/": {
    "cta": true,
    "form": true,
@@ -1397,11 +1456,25 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-obstetrica-morfologica-e-doppler/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-pediatrica-e-neonatal/": {
    "cta": true,
    "form": true,
    "gtm": true,
    "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-us-ginecologica-avancada-e-endometriose/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-hibrida-em-colposcopia-e-ptgi/": {
    "cta": true,
@@ -1418,6 +1491,18 @@
    "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-ultrassonografia-geral-clinica-ceu-diagnosticos/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-us-geral/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-us-ginecologia-e-obstetricia/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1518,6 +1603,13 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/radiofrequencia-e-bloqueios-de-articulacoes-guiados-por-ultrassom-com-treinamento-em-cadaver-fresh-frozen/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/ressonancia-magnetica-atm-e-cotovelo/": {
    "cta": true,
    "form": true,
@@ -1582,7 +1674,28 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/terapia-hormonal-na-menopausa-da-ciencia-a-pratica-clinica/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/terapias-peptidicas-na-pratica-medica/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/tratamento-por-ondas-de-choque/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/treinamento-intensivo-em-estetica-e-cirurgia-intima/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1631,6 +1744,13 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/ultrassonografia-em-acesso-venoso-central/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/ultrassonografia-em-anestesia/": {
    "cta": true,
    "form": true,
@@ -1650,6 +1770,13 @@
    "form": true,
    "gtm": true,
    "index": true
+  },
+  "/cursos/ultrassonografia-em-reumatologia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
   },
   "/cursos/ultrassonografia-em-tireoide-com-doppler-e-com-biopsia-us-cervical-e-de-glandulas-salivares/": {
    "cta": true,
@@ -1729,6 +1856,13 @@
    "turmas": true
   },
   "/cursos/ultrassonografia-point-of-care-neonatal/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/ultrassonografia-prostatica-com-biopsia-transretal/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -2213,7 +2347,7 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 300
+  "_rodizio": 320
  },
  "falhas": {}
 }
