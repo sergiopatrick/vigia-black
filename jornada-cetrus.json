@@ -180,6 +180,13 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/ecografia-vascular-carotidas-e-vertebrais/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/elastografia-hepatica-por-ultrassom/": {
    "cta": true,
    "form": true,
@@ -195,6 +202,13 @@
    "turmas": true
   },
   "/cursos/ergoespirometria-e-reabilitacao-cardiovascular/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/ergometria/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -363,6 +377,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-ecocardiografia-fetal-dr-alexandre-machado/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-ecocardiografia-fetal-dr-marcelo-kozak/": {
    "cta": true,
    "form": true,
@@ -448,6 +468,12 @@
    "index": true
   },
   "/cursos/fellowship-em-intervencao-em-dor-claudia-ferrara/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-intervencao-em-dor-dr-andre-felix/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -975,6 +1001,13 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/ginecologia-endocrina-e-reprodutiva-avancada/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/graduacao-em-gestao-hospitalar/": {
    "cta": true,
    "form": false,
@@ -1003,6 +1036,13 @@
    "turmas": true
   },
   "/cursos/infertilidade-e-disfuncao-sexual-masculina/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/infiltracao-as-cegas-do-aparelho-locomotor/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1051,6 +1091,13 @@
    "turmas": true
   },
   "/cursos/medicina-canabinoide-pratica-clinica-e-prescricao/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/medicina-regenerativa-extensao-para-intervencionistas-em-dor/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1220,6 +1267,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-em-terapia-intensiva-dr-anfremom-damazonas/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-em-terapia-intensiva-dr-rodrigo-biondi/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1403,6 +1456,12 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-cirurgia-robotica-em-ginecologia-dr-fernando-bray/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-cirurgia-robotica-em-urologia-dr-fernando-bray/": {
    "cta": true,
    "form": true,
@@ -1421,6 +1480,12 @@
    "gtm": true,
    "index": true,
    "turmas": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-e-estetica-dra-fernanda-ventin/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-e-estetica-dra-marcia-horowitz-e-dra-paula-morais/": {
    "cta": true,
@@ -1503,6 +1568,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica-raissa-amaral/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica/": {
    "cta": true,
    "form": true,
@@ -1510,6 +1581,13 @@
    "index": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-ginecologia-endocrina-e-reprodutiva/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ginecologia-regenerativa/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1592,6 +1670,12 @@
    "gtm": true,
    "index": true,
    "turmas": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-neuropediatria-em-transtornos-do-neurodesenvolvimento/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-neurorradiologia-cranio-coluna-cabeca-e-pescoco/": {
    "cta": true,
@@ -1737,6 +1821,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-clinica-prodclin/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-clinica-voluta/": {
    "cta": true,
    "form": true,
@@ -1815,6 +1905,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-gigliane-rezende/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-maisa-prado/": {
    "cta": true,
    "form": true,
@@ -1884,6 +1980,12 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-usg-da-mulher-dra-laina-nonato/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-hibrida-em-colposcopia-e-ptgi/": {
    "cta": true,
    "form": true,
@@ -1923,6 +2025,13 @@
    "index": true
   },
   "/cursos/pos-graduacao-medicina-do-trabalho/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pos-graduacao-nutrologia-manejo-obesidade/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -2210,6 +2319,13 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/ultrassonografia-do-abdomen-pediatrico/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/ultrassonografia-do-quadril-pediatrico-avancado/": {
    "cta": true,
    "form": true,
@@ -2251,7 +2367,21 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/ultrassonografia-em-ginecologia-e-obstetricia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/ultrassonografia-em-hernias-da-regiao-inguinal-e-da-parede-abdominal/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/ultrassonografia-em-medicina-interna/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -2846,7 +2976,7 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 400
+  "_rodizio": 420
  },
  "falhas": {}
 }
