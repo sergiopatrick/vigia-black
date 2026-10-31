@@ -32,7 +32,21 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/doppler-em-ginecologia-e-obstetricia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/ecocardiografia-avancada-i-patologias/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/ecocardiografia-avancada-ii-strain/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -66,7 +80,21 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/ecografia-vascular-arterial-e-venoso-de-membros-inferiores/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/elastografia-hepatica-por-ultrassom/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/emergencias-obstetricas/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -711,6 +739,20 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/infiltracao-da-coluna-guiada-por-ultrassom/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/insercao-de-diu-e-implante-subdermico/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/neurorradiologia-anatomia-sequencias-malformacoes/": {
    "cta": true,
    "form": true,
@@ -915,7 +957,19 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-em-ultrassonografia-geral-dra-luara-boson-dr-estevao-vargas/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-em-ultrassonografia-geral-ensinacao-sobral/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-em-ultrassonografia-geral-imagem-plena/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -997,6 +1051,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica-dras-ilena-budel-e-rhuana-malanche/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-intervencao-em-dor/": {
    "cta": true,
    "form": true,
@@ -1015,6 +1075,13 @@
    "form": true,
    "gtm": true,
    "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-medicina-fetal/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-neurointensivismo/": {
    "cta": true,
@@ -1201,6 +1268,20 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/pratica-em-ginecologia-e-obstetricia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pratica-em-medicina-interna/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/preparatorio-prova-de-titulo-em-ortopedia-e-traumatologia-2a-fase/": {
    "cta": true,
    "form": true,
@@ -1284,7 +1365,28 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/ultrassonografia-avancada-do-assoalho-pelvico-e-canal-anal/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/ultrassonografia-da-bolsa-testicular-e-penis/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/ultrassonografia-do-quadril-pediatrico-avancado/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/ultrassonografia-do-quadril-pediatrico-fundamentos-do-metodo-de-graf/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1311,6 +1413,13 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/ultrassonografia-em-tireoide-com-doppler-e-com-biopsia-us-cervical-e-de-glandulas-salivares/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/ultrassonografia-em-urologia/": {
    "cta": true,
    "form": true,
@@ -1325,7 +1434,28 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/ultrassonografia-musculoesqueletica/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/ultrassonografia-obstetrica-morfologica-avancada/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/ultrassonografia-obstetrica-morfologica-de-1o-trimestre/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/ultrassonografia-obstetrica-morfologica-de-2o-trimestre/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1340,6 +1470,13 @@
    "turmas": true
   },
   "/cursos/ultrassonografia-para-hepatologistas/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/ultrassonografia-para-mapeamento-de-lipedema/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1803,7 +1940,7 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 240
+  "_rodizio": 260
  },
  "falhas": {}
 }
