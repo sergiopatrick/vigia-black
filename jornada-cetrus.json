@@ -32,6 +32,24 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/atualizacao-na-avaliacao-ecocardiografica-das-valvopatias-aorticas-e-mitrais/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/avaliacao-ultrassonografica-do-colo-uterino-na-predicao-do-parto-prematuro/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/bi-rads/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/biopsia-transperineal-de-prostata/": {
    "cta": true,
    "form": false,
@@ -44,6 +62,12 @@
    "gtm": true,
    "index": true,
    "turmas": true
+  },
+  "/cursos/calculos-hemodinamicos-em-ecocardiografia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
   },
   "/cursos/capacitacao-em-doppler-peniano-com-farmaco-inducao/": {
    "cta": true,
@@ -215,6 +239,12 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/estudo-ultrassonografico-das-hernias-abdominais/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-clinico-cirugico-em-endoscopia-da-coluna-dr-andre-de-sa/": {
    "cta": true,
    "form": true,
@@ -359,6 +389,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-ecocardiografia-dr-thalles-barbosa/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-ecocardiografia-dra-flavia-vernin/": {
    "cta": true,
    "form": true,
@@ -366,6 +402,12 @@
    "index": true
   },
   "/cursos/fellowship-em-ecocardiografia-dra-joicely-costa/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ecocardiografia-dra-polyana-brandao/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -546,6 +588,12 @@
    "index": true
   },
   "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-dra-cintia-barros/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1090,6 +1138,12 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/massas-anexiais-e-iota/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/medicina-canabinoide-pratica-clinica-e-prescricao/": {
    "cta": true,
    "form": true,
@@ -1481,6 +1535,12 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-e-estetica-basica-dr-gilvan-alves-e-clinica-aepit/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-e-estetica-dra-fernanda-ventin/": {
    "cta": true,
    "form": true,
@@ -1757,6 +1817,13 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-tomografia-e-ressonancia-em-abdomen-e-torax/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-aplicada-a-anestesiologia/": {
    "cta": true,
    "form": true,
@@ -1852,6 +1919,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-cassio-lamego/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-danillo-loula-e-clinica-regional/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -2066,6 +2139,12 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/pos-graduacao-reproducao-humana-assistida/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-ultrassonografia-geral/": {
    "cta": true,
    "form": true,
@@ -2120,6 +2199,12 @@
    "gtm": true,
    "index": true,
    "turmas": true
+  },
+  "/cursos/preparatorio-em-radiologia-e-diagnostico-por-imagem/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
   },
   "/cursos/preparatorio-intensivo-para-a-prova-de-titulo-em-dor/": {
    "cta": true,
@@ -2243,6 +2328,19 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/rm-neuro-doencas-desmielinizantes-demenciais-e-da-hipofise/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/sedacao-com-oxido-nitroso-para-procedimentos-medicos-ambulatoriais/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/tecnicas-anestesicas-para-procedimentos-dermatologicos-e-esteticos-ambulatoriais/": {
    "cta": true,
    "form": true,
@@ -2270,6 +2368,12 @@
    "gtm": true,
    "index": true,
    "turmas": true
+  },
+  "/cursos/translucencia-nucal/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
   },
   "/cursos/tratamento-cirurgico-da-paralisia-facial/": {
    "cta": true,
@@ -2340,7 +2444,19 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/ultrassonografia-do-trato-gastrointestinal/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/ultrassonografia-doppler-em-ginecologia-e-obstetricia-dra-christine-rondon/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/ultrassonografia-dos-niveis-cervicais-e-linfonodos/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -2448,6 +2564,12 @@
    "gtm": true,
    "index": true,
    "turmas": true
+  },
+  "/cursos/ultrassonografia-obstetrica-morfologica-de-2-trimestre-dra-christine-rondon/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
   },
   "/cursos/ultrassonografia-obstetrica-morfologica-de-2o-trimestre/": {
    "cta": true,
@@ -2976,7 +3098,7 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 420
+  "_rodizio": 440
  },
  "falhas": {}
 }
