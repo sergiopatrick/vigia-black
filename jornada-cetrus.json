@@ -32,6 +32,12 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/biopsia-transperineal-de-prostata/": {
+   "cta": true,
+   "form": false,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/bloqueios-para-dor-pelvica-guiados-por-ultrassom/": {
    "cta": true,
    "form": true,
@@ -182,7 +188,19 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/fellowship-clinico-cirugico-em-endoscopia-da-coluna-dr-andre-de-sa/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-artroscopia-de-pe-e-tornozelo-dra-tania-mann/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-artroscopia-de-quadril-dr-davi-veiga/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -314,6 +332,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-ecocardiografia-drs-alvaro-santana-e-railson-brandao/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-ecocardiografia-fetal-dr-marcelo-kozak/": {
    "cta": true,
    "form": true,
@@ -333,6 +357,12 @@
    "index": true
   },
   "/cursos/fellowship-em-ecocardiograma-clinica-cardiocare/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-amice-clinica-e-dr-romulo-pereira/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -411,6 +441,12 @@
    "index": true
   },
   "/cursos/fellowship-em-microcirurgia-neurologica-dr-feres-chaddad/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-dra-cintia-barros/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -668,7 +704,19 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-ultrassonografia-geral-maringa/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/formacao-avancada-em-ecocardiografia-transesofagica-e-3d/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/formacao-avancada-em-ultrassonografia-urologica/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -880,6 +928,12 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/intervencoes-na-mama-guiadas-por-ultrassonografia/": {
+   "cta": true,
+   "form": false,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/laserterapia-e-radiofrequencia-fracionada-para-ginecologistas/": {
    "cta": true,
    "form": true,
@@ -1057,6 +1111,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-em-terapia-intensiva-dra-cassia-righy-e-dr-bruno-goncalves/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-em-terapia-intensiva-drs-aguinaldo-bicalho-e-heigler-franco/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1375,6 +1435,13 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-pneumologia-pediatrica-online/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-pneumologia-pediatrica/": {
    "cta": true,
    "form": true,
@@ -1410,6 +1477,12 @@
    "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-ressonancia-magnetica-musculoesqueletica/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-terapia-intensiva-dr-bruno-leite/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1454,6 +1527,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-clinica-ceico/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-clinica-digimed-radiograph/": {
    "cta": true,
    "form": true,
@@ -1478,6 +1557,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-carlos-alberto-de-melo-liborio-filho/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-cassio-lamego/": {
    "cta": true,
    "form": true,
@@ -1485,6 +1570,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-fredrico-veloso-e-clinica-sao-miguel/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-lairton-do-monte/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1527,6 +1618,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-multimed/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-ultra-radiologia/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1585,6 +1682,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-ultrassonografia-geral-de-carli-radiologia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-us-geral/": {
    "cta": true,
    "form": true,
@@ -1632,6 +1735,12 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/pos-graduacao-ultrassonografia-geral/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pratica-em-biopsia-de-tireoide/": {
    "cta": true,
    "form": true,
@@ -1640,6 +1749,13 @@
    "turmas": true
   },
   "/cursos/pratica-em-biopsia-mamaria/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pratica-em-ecocardiografia/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1673,6 +1789,12 @@
    "gtm": true,
    "index": true,
    "turmas": true
+  },
+  "/cursos/preparatorio-intensivo-para-a-prova-de-titulo-em-dor/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
   },
   "/cursos/preparatorio-prova-de-titulo-em-ortopedia-e-traumatologia-2a-fase/": {
    "cta": true,
@@ -2477,7 +2599,7 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 340
+  "_rodizio": 360
  },
  "falhas": {}
 }
