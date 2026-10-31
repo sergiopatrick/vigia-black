@@ -32,7 +32,35 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/capacitacao-em-doppler-peniano-com-farmaco-inducao/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/capacitacao-imersiva-em-ecmo/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/colposcopia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/doppler-em-ginecologia-e-obstetricia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/doppler-em-medicina-interna/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -61,6 +89,13 @@
    "turmas": true
   },
   "/cursos/ecocardiografia-funcional-para-neonatologistas-e-pediatras/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/ecocardiografia-pediatrica/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -444,6 +479,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-ultrassonografia-obstetrica-dr-christine-rondon/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-ultrassonografia-obstetrica-dr-eduardo-becker/": {
    "cta": true,
    "form": true,
@@ -732,7 +773,21 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/histeroscopia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/implantes-hormonais-subcutaneos-teoria-e-pratica/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/infertilidade-e-disfuncao-sexual-masculina/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -746,7 +801,21 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/infiltracao-musculoesqueletica-guiada-por-ultrassom/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/insercao-de-diu-e-implante-subdermico/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/laserterapia-e-radiofrequencia-fracionada-para-ginecologistas/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1051,6 +1120,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-ginecologia-avancada-e-procedimentos/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica-dras-ilena-budel-e-rhuana-malanche/": {
    "cta": true,
    "form": true,
@@ -1294,6 +1369,20 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/radiofrequencia-e-bloqueios-da-coluna-vertebral-guiada-por-radioscopia-com-treinamento-em-cadaver/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/radiofrequencia-e-bloqueios-da-coluna-vertebral-guiados-por-ultrassom-com-treinamento-em-cadaver-fresh-frozen/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/ressonancia-magnetica-atm-e-cotovelo/": {
    "cta": true,
    "form": true,
@@ -1379,6 +1468,13 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/ultrassonografia-dermatologica/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/ultrassonografia-do-quadril-pediatrico-avancado/": {
    "cta": true,
    "form": true,
@@ -1401,6 +1497,13 @@
    "turmas": true
   },
   "/cursos/ultrassonografia-em-anestesia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/ultrassonografia-em-hernias-da-regiao-inguinal-e-da-parede-abdominal/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1483,7 +1586,28 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/ultrassonografia-point-of-care-em-emergencia-e-uti/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/ultrassonografia-point-of-care-neonatal/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/ultrassonografia-transfontanelar/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/ultrassonografia-transvaginal-com-contraste-histerossonossalpingografia-hycosy/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1497,7 +1621,21 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/ultrassonografia-transvaginal/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/valvopatias-e-avaliacao-de-proteses-cardiacas-por-ecocardiografia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/vulvovaginites-e-corrimento-vaginal-de-repeticao/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1940,7 +2078,7 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 260
+  "_rodizio": 280
  },
  "falhas": {}
 }
