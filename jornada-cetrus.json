@@ -1020,6 +1020,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/formacao-em-radiofrequencia-guiada-por-radioscopia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/formacao-em-radiofrequencia-guiada-por-ultrassom/": {
    "cta": true,
    "form": true,
@@ -3146,7 +3152,7 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 113
+  "_rodizio": 133
  },
  "falhas": {}
 }
