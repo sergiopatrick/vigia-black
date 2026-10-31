@@ -59,6 +59,13 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/cirurgia-do-plexo-braquial-acessos-e-transferencias-nervosas-distais/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/colposcopia/": {
    "cta": true,
    "form": true,
@@ -75,6 +82,12 @@
   "/cursos/curso-de-ultrassonografia-mamaria/": {
    "cta": true,
    "form": false,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/dicas-discussao-de-casos-clinicos-em-medicina-fetal/": {
+   "cta": true,
+   "form": true,
    "gtm": true,
    "index": true
   },
@@ -213,6 +226,12 @@
    "index": true
   },
   "/cursos/fellowship-em-cirurgia-ginecologica-minimamente-invasiva-dr-mauricio-kitamura/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-cirurgia-ginecologica-minimamente-invasiva-dra-juliane-castro/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -380,6 +399,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dr-helmut-poti/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dr-luciano-estrela-dr-alvaro-modesto/": {
    "cta": true,
    "form": true,
@@ -405,6 +430,12 @@
    "index": true
   },
   "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dra-keila-matos/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-instituto-falcao/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -440,6 +471,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-intervencao-em-dor-dr-pedro-ferro-dra-sandra-santos/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-intervencao-em-dor-dr-pedro-luiz-ferreira/": {
    "cta": true,
    "form": true,
@@ -453,6 +490,12 @@
    "index": true
   },
   "/cursos/fellowship-em-intervencao-em-dor-dra-paula-jaegger/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-intervencao-em-dor-drs-raimundo-junior-e-juliana-prado/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -477,6 +520,12 @@
    "index": true
   },
   "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-dra-cintia-barros/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -693,6 +742,12 @@
    "index": true
   },
   "/cursos/fellowship-em-usg-da-mulher-dr-joao-paulo-guimaraes/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-usg-da-mulher-dra-luanna-melo/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1158,6 +1213,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-em-terapia-intensiva-dr-andrei-leonardo/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-em-terapia-intensiva-dr-anfremom-damazonas/": {
    "cta": true,
    "form": true,
@@ -1165,6 +1226,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-em-terapia-intensiva-dr-ronaldo-taques/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-em-terapia-intensiva-dr-thiago-wawginiak/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1288,6 +1355,20 @@
    "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-alergia-e-imunologia-pediatrica/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-alergia-e-imunologia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-andrologia/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1479,6 +1560,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-medicina-do-esporte-dr-rodrigo-sasson/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-medicina-do-exercicio-e-do-esporte/": {
    "cta": true,
    "form": true,
@@ -1514,6 +1601,13 @@
    "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-neurossonologia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-patologias-obstetricas-e-pre-natal-de-alto-risco/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1578,6 +1672,13 @@
    "form": true,
    "gtm": true,
    "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-aplicada-a-anestesiologia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-dermatologica/": {
    "cta": true,
@@ -1684,6 +1785,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-thiago-ribeiro-dr-carlos-frota/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-vinicius-carvalho-e-dr-hugo-bernar/": {
    "cta": true,
    "form": true,
@@ -1727,6 +1834,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-ultra-radiologia/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-ultraclinica/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -2042,6 +2155,13 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/termografia-medica-point-of-care-na-dor-cronica/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/tratamento-cirurgico-da-paralisia-facial/": {
    "cta": true,
    "form": true,
@@ -2103,6 +2223,12 @@
    "gtm": true,
    "index": true,
    "turmas": true
+  },
+  "/cursos/ultrassonografia-doppler-em-ginecologia-e-obstetricia-dra-christine-rondon/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
   },
   "/cursos/ultrassonografia-em-3d-4d/": {
    "cta": true,
@@ -2720,7 +2846,7 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 380
+  "_rodizio": 400
  },
  "falhas": {}
 }
