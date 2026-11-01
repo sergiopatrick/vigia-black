@@ -565,7 +565,10 @@ def cmd_jornada(a):
         if nv and all(i["ok"] for i in its if i["sev"] == "critico"):
             # linha de base só aprende com página saudável
             base[p] = {**base.get(p, {}), **{k: v for k, v in nv.items() if v not in (None, False) or k not in base.get(p, {})}}
-            if sk == "pos" and info.get("checkout") and not base.get("checkout_ref"):
+            # A referência do teste de checkout acompanha o site, com o link da última página
+            # saudável. Congelada no primeiro link, ela venceu com as condições de outubro
+            # (31/10 21h) e o "no ar" acusou checkout fora do ar por 12 h sem estar.
+            if sk == "pos" and info.get("checkout"):
                 base["checkout_ref"] = info["checkout"][0]
         infos[p] = {"s": info.get("s"), "erros_js": info.get("erros_js"), "status": info.get("status")}
 
