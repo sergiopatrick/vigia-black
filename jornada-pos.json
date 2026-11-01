@@ -393,8 +393,281 @@
    "/curso-psicofarmacos/",
    "/gestao-e-empreendedorismo-medico/"
   ],
-  "_rodizio": 70,
+  "_rodizio": 72,
   "checkout_ref": "https://checkout.cetrus.sanar.com.br/produto?productId=ddb14259-a555-4ccf-9d71-93310e2cca02&pricingConfigId=0e3b8c2b-b9ce-4246-9879-e8e28e20b826&utm_source=site-pos&utm_medium=organic&utm_campaign=navegacao-padrao"
  },
- "falhas": {}
+ "falhas": {
+  "pos|/gestao-e-empreendedorismo-medico/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-cardiologia/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-clinica-medica/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-cuidados-paliativos/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-dermatologia/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-emergencias-pediatricas/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-endocrinologia/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-geriatria/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-ginecologia-clinica/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-medicina-da-dor/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-medicina-de-emergencia-a/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-medicina-de-emergencia-b/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-medicina-de-emergencia/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-medicina-de-familia-e-comunidade-a/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-medicina-de-familia-e-comunidade-b/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-medicina-de-familia-e-comunidade/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-medicina-do-esporte/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-medicina-do-sono/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-medicina-do-trabalho-a/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-medicina-do-trabalho-b/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-medicina-do-trabalho/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-medicina-endocanabinoide/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-neurologia-a/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-neurologia-b/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-neurologia/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-nutrologia/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-obesidade-e-emagrecimento/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-pediatria-a/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-pediatria-b/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-pediatria/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-pericias-medicas/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-psiquiatria-da-infancia-e-da-adolescencia/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-psiquiatria/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  },
+  "pos|/pos-graduacao-em-terapia-intensiva/|checkout": {
+   "alertado": true,
+   "desde": "2026-10-31T21:34:40-03:00",
+   "desde_s": 1793493280.2358747,
+   "msg": "Checkout do curso com problema, checkout respondeu erro 400",
+   "ultimo_alerta": 1793493280.2358747,
+   "vezes": 1
+  }
+ }
 }
