@@ -6,15 +6,8 @@
    "desde": "2026-10-31T21:00:43-03:00",
    "desde_s": 1793491243.9410527,
    "msg": "Checkout fora do ar (checkout respondeu erro 400)",
-   "ultimo_alerta": 1793528437.0672646,
-   "vezes": 148
-  },
-  "pos|no-ar|/cursos/": {
-   "alertado": false,
-   "desde": "2026-11-01T09:15:35-03:00",
-   "desde_s": 1793535335.5939035,
-   "msg": "/cursos/ respondeu 429",
-   "vezes": 1
+   "ultimo_alerta": 1793535641.1113193,
+   "vezes": 149
   }
  }
 }
