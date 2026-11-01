@@ -1285,3 +1285,8 @@
 {"ts": "2026-10-31T21:05:26-03:00", "tipo": "no-ar", "site": "cetrus", "url": "https://cetrus.com.br/vitrine/", "ok": true, "s": 3.8}
 {"ts": "2026-10-31T21:05:30-03:00", "tipo": "no-ar", "site": "checkout", "ok": false}
 {"ts": "2026-10-31T21:05:30-03:00", "tipo": "alerta", "id": "checkout|no-ar", "msg": "Checkout fora do ar (checkout respondeu erro 400)", "url": "https://checkout.cetrus.sanar.com.br/produto?productId=ddb14259-a555-4ccf-9d71-93310e2cca02&pricingConfigId=0e3b8c2b-b9ce-4246-9879-e8e28e20b826&utm_source=site-pos&utm_medium=organic&utm_campaign=navegacao-padrao"}
+{"ts": "2026-10-31T21:10:16-03:00", "tipo": "no-ar", "site": "pos", "url": "https://pos.sanar.com.br/", "ok": true, "s": 2.2}
+{"ts": "2026-10-31T21:10:21-03:00", "tipo": "no-ar", "site": "pos", "url": "https://pos.sanar.com.br/cursos/", "ok": true, "s": 2.0}
+{"ts": "2026-10-31T21:10:28-03:00", "tipo": "no-ar", "site": "cetrus", "url": "https://cetrus.com.br/", "ok": true, "s": 3.9}
+{"ts": "2026-10-31T21:10:35-03:00", "tipo": "no-ar", "site": "cetrus", "url": "https://cetrus.com.br/vitrine/", "ok": true, "s": 4.0}
+{"ts": "2026-10-31T21:10:39-03:00", "tipo": "no-ar", "site": "checkout", "ok": false}
