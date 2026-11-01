@@ -1,13 +1,20 @@
 {
  "base": {},
  "falhas": {
+  "cetrus|no-ar|/": {
+   "alertado": false,
+   "desde": "2026-11-01T06:50:26-03:00",
+   "desde_s": 1793526626.4256275,
+   "msg": "/ respondeu 429",
+   "vezes": 1
+  },
   "checkout|no-ar": {
    "alertado": true,
    "desde": "2026-10-31T21:00:43-03:00",
    "desde_s": 1793491243.9410527,
    "msg": "Checkout fora do ar (checkout respondeu erro 400)",
    "ultimo_alerta": 1793521235.5932186,
-   "vezes": 118
+   "vezes": 119
   }
  }
 }
