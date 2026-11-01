@@ -3152,9 +3152,17 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 206
+  "_rodizio": 226
  },
  "falhas": {
+  "cetrus|/cursos/fellowship-em-us-tv-avancado-e-endometriose-dr-fernando-guastella/|formulario": {
+   "alertado": true,
+   "desde": "2026-11-01T15:23:05-03:00",
+   "desde_s": 1793557385.1130526,
+   "msg": "Formulário de contato sumiu da página",
+   "ultimo_alerta": 1793557385.1130526,
+   "vezes": 1
+  },
   "cetrus|/cursos/pos-graduacao-lato-sensu-em-endocrinologia-na-pediatria/|abre": {
    "alertado": true,
    "desde": "2026-11-01T01:22:36-03:00",
