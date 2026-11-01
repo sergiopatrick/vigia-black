@@ -135,12 +135,19 @@ def slack(texto, blocos=None):
         payload = {"mensagem": corpo}
     else:
         payload = {"text": texto, "blocks": blocos or []}
-    try:
-        r = httpx.post(hook, json=payload, timeout=20)
+    for tentativa in range(4):
+        try:
+            r = httpx.post(hook, json=payload, timeout=20)
+        except httpx.HTTPError as e:
+            log("slack falhou", e)
+            return
+        if r.status_code == 429 and tentativa < 3:
+            # o Slack recusa rajada; em 31/10 às 21h os 34 alertas de checkout se perderam assim
+            time.sleep(min(int(r.headers.get("Retry-After") or 5), 60))
+            continue
         if r.status_code != 200:
             log("slack respondeu", r.status_code, r.text[:200])
-    except httpx.HTTPError as e:
-        log("slack falhou", e)
+        return
 
 
 def bloco_alerta(titulo, linhas, url=None, imagem=None):
@@ -188,27 +195,52 @@ def avisar(est, itens, confirmar=1):
             continue
         if not f["alertado"]:
             f.update(alertado=True, ultimo_alerta=agora_s)
-            envios.append(("alerta", it, it["msg"]))
+            envios.append(("alerta", {**it, "desde": f["desde"]}, it["msg"]))
             est.evento(tipo="alerta", id=it["id"], msg=it["msg"], url=it.get("url"))
         elif agora_s - f.get("ultimo_alerta", 0) >= C.LEMBRAR_A_CADA:
             f["ultimo_alerta"] = agora_s
             horas = round((agora_s - f["desde_s"]) / 3600, 1)
-            envios.append(("lembrete", it, f"{it['msg']} (continua há {horas} h)"))
+            envios.append(("lembrete", {**it, "desde": f["desde"]}, f"{it['msg']} (continua há {horas} h)"))
     return envios
 
 
+def desde_txt(it):
+    """Início da falha, não a hora do aviso (o lembrete dizia "Desde" com a hora do envio)."""
+    try:
+        return datetime.fromisoformat(it["desde"]).astimezone(TZ).strftime("%d/%m %H:%M")
+    except (KeyError, TypeError, ValueError):
+        return agora().strftime("%d/%m %H:%M")
+
+
 def enviar(envios):
+    """Mais de 3 avisos do mesmo tipo e site viram uma mensagem só, e há pausa entre os envios."""
+    grupos = {}
     for tipo, it, msg in envios:
-        site = C.SITES.get(it.get("site"), {}).get("nome", it.get("site", ""))
-        if tipo == "ok":
-            slack(f":white_check_mark: {site} · {msg}",
-                  bloco_alerta(f":white_check_mark: {site} · voltou ao normal", [it["msg"], msg], it.get("url")))
-        else:
-            emoji = ":rotating_light:" if tipo == "alerta" else ":hourglass:"
-            texto = f"{emoji} {site} · {msg}"
-            slack(texto, bloco_alerta(f"{emoji} {site} · {msg}",
-                                      [f"Desde {agora().strftime('%d/%m %H:%M')}"],
-                                      it.get("url"), url_print(it.get("print"))))
+        grupos.setdefault((tipo, it.get("site")), []).append((it, msg))
+    emojis = {"ok": ":white_check_mark:", "alerta": ":rotating_light:", "lembrete": ":hourglass:"}
+    for (tipo, sk), lista in grupos.items():
+        site = C.SITES.get(sk, {}).get("nome", sk or "")
+        if len(lista) > 3:
+            resumo = {"ok": "voltaram ao normal", "alerta": "falhas novas", "lembrete": "falhas continuam"}[tipo]
+            titulo = f"{emojis[tipo]} {site} · {len(lista)} {resumo}"
+            linhas = []
+            for it, msg in lista[:15]:
+                texto = f"{it['msg']} ({msg})" if tipo == "ok" else f"{msg}, desde {desde_txt(it)}"
+                linhas.append(f"{texto} · <{it['url']}|abrir>" if it.get("url") else texto)
+            if len(lista) > 15:
+                linhas.append(f"e mais {len(lista) - 15}")
+            slack(titulo, bloco_alerta(titulo, linhas))
+            time.sleep(1.2)
+            continue
+        for it, msg in lista:
+            if tipo == "ok":
+                slack(f":white_check_mark: {site} · {msg}",
+                      bloco_alerta(f":white_check_mark: {site} · voltou ao normal", [it["msg"], msg], it.get("url")))
+            else:
+                texto = f"{emojis[tipo]} {site} · {msg}"
+                slack(texto, bloco_alerta(texto, [f"Desde {desde_txt(it)}"],
+                                          it.get("url"), url_print(it.get("print"))))
+            time.sleep(1.2)
 
 
 # ------------------------------------------------------------------ checkout (API pública do próprio checkout)
