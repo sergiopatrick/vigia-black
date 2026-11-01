@@ -1,13 +1,27 @@
 {
  "base": {},
  "falhas": {
+  "cetrus|no-ar|/": {
+   "alertado": false,
+   "desde": "2026-11-01T07:55:23-03:00",
+   "desde_s": 1793530523.940353,
+   "msg": "/ respondeu 429",
+   "vezes": 1
+  },
+  "cetrus|no-ar|/vitrine/": {
+   "alertado": false,
+   "desde": "2026-11-01T07:55:23-03:00",
+   "desde_s": 1793530523.940353,
+   "msg": "/vitrine/ respondeu 429",
+   "vezes": 1
+  },
   "checkout|no-ar": {
    "alertado": true,
    "desde": "2026-10-31T21:00:43-03:00",
    "desde_s": 1793491243.9410527,
    "msg": "Checkout fora do ar (checkout respondeu erro 400)",
    "ultimo_alerta": 1793528437.0672646,
-   "vezes": 131
+   "vezes": 132
   }
  }
 }
