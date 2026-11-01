@@ -1,13 +1,4 @@
 {
  "base": {},
- "falhas": {
-  "checkout|no-ar": {
-   "alertado": true,
-   "desde": "2026-10-31T21:00:43-03:00",
-   "desde_s": 1793491243.9410527,
-   "msg": "Checkout fora do ar (checkout respondeu erro 400)",
-   "ultimo_alerta": 1793535641.1113193,
-   "vezes": 155
-  }
- }
+ "falhas": {}
 }
