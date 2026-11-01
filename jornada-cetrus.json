@@ -3152,7 +3152,24 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 353
+  "_rodizio": 373
  },
- "falhas": {}
+ "falhas": {
+  "cetrus|/cursos/pos-graduacao-lato-sensu-em-endocrinologia-na-pediatria/|abre": {
+   "alertado": true,
+   "desde": "2026-11-01T01:22:36-03:00",
+   "desde_s": 1793506956.4936779,
+   "msg": "Página fora do ar, respondeu 429",
+   "ultimo_alerta": 1793506956.4936779,
+   "vezes": 1
+  },
+  "cetrus|/cursos/pos-graduacao-lato-sensu-em-terapia-intensiva-dr-brenno-cardoso-gomes-dr-rafael-deucher/|abre": {
+   "alertado": true,
+   "desde": "2026-11-01T01:22:36-03:00",
+   "desde_s": 1793506956.4936779,
+   "msg": "Página fora do ar, respondeu 429",
+   "ultimo_alerta": 1793506956.4936779,
+   "vezes": 1
+  }
+ }
 }
