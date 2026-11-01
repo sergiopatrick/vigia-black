@@ -42,3 +42,15 @@ VELOCIDADE = {
 PAUSA_ENTRE_PAGINAS = 6       # segundos; o WordPress.com bloqueia rajada
 RECONFERIR_EM = 300           # segundos até a segunda conferência de uma falha crítica
 LEMBRAR_A_CADA = 2 * 3600     # alerta ainda aberto ganha lembrete a cada 2 h
+
+# Medição do WP Rocket na Sanar Pós (rocket.py), toda hora aos 37 min, até ROCKET_FIM
+ROCKET_FIM = "2026-11-09"
+ROCKET_PAGINAS = [
+    "/", "/cursos/", "/sobre/", "/materiais-gratuitos/", "/coordenadores/",
+    "/melhores-pos-graduacoes-para-medicos/", "/area/atencao-primaria-e-saude-publica/",
+    "/pos-graduacao-em-cardiologia/",        # produto v2
+    "/pos-graduacao-em-endocrinologia/",     # produto v2
+    "/pos-graduacao-em-terapia-intensiva/",  # produto v1
+    "/curso-psicofarmacos/",                 # curso livre
+    "/coordenadores/dr-saulo-ciasca/",
+]

@@ -1,0 +1,29 @@
+name: WP Rocket na Sanar Pós (toda hora)
+
+# Registra se o HTML servido veio otimizado pelo WP Rocket, por página e aparelho (rocket.py).
+# Disparado pelo relógio aos 37 min. O cron é reserva, e o rocket.py ignora a segunda rodada da mesma hora.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "37 * * * *"
+
+concurrency:
+  group: rocket
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  rocket:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -q -r requirements.txt
+      - run: ./estado.sh abrir
+      - run: python rocket.py medir

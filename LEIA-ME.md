@@ -11,6 +11,7 @@ Robô que testa pos.sanar.com.br e cetrus.com.br várias vezes por dia durante a
 | `velocidade` | 8h, 13h e 19h | nota de performance, LCP, CLS e TBT no celular (PageSpeed com chave, ou Lighthouse no próprio servidor) |
 | `formulario` | 10h30 e 16h30 | envia um cadastro de teste de verdade em cada site e confere que o HubSpot aceitou |
 | `resumo` | 9h | resumo do dia anterior no Slack |
+| `rocket.py medir` | toda hora, aos 37 min, até `ROCKET_FIM` | só na Sanar Pós, sem Slack. Registra por página e aparelho se o HTML veio otimizado pelo WP Rocket (CSS e JS em `cache/min`, CSS crítico, CSS assíncrono) e quando aquela versão foi gerada. `python rocket.py resumo` monta a tabela |
 
 A Sanar Pós tem todos os cursos testados toda hora. O Cetrus tem cerca de 430 cursos, então entram 20 por hora em rodízio e todos passam a cada 22 horas. Curso que precisa ser testado toda hora vai em `prioritarias` no `config.py`.
 
@@ -40,7 +41,7 @@ Configurar em Settings, Secrets and variables, Actions.
 
 ## Estado
 
-Fica no branch `estado`. Um arquivo por tarefa e site (falhas abertas e linha de base), eventos por dia em `eventos/AAAA-MM-DD/` e prints das falhas em `prints/`.
+Fica no branch `estado`. Um arquivo por tarefa e site (falhas abertas e linha de base), eventos por dia em `eventos/AAAA-MM-DD/`, prints das falhas em `prints/` e a medição do WP Rocket em `rocket/AAAA-MM-DD.jsonl`.
 
 ## Rodar na mão
 

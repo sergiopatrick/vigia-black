@@ -5,6 +5,7 @@ O agendamento do GitHub atrasa e pula rodadas, então este script fica rodando d
 
   a cada 5 min      no-ar, aqui mesmo
   toda hora, :07    jornada (workflow próprio, os dois sites em paralelo)
+  toda hora, :37    rocket, medição do WP Rocket na Sanar Pós (workflow próprio)
   8h, 13h e 19h     velocidade
   10h30 e 16h30     formulario
   9h                resumo
@@ -49,6 +50,9 @@ def main():
         if t.minute == 7 and ("jornada", chave_min) not in feitos:
             feitos.add(("jornada", chave_min))
             disparar("jornada.yml")
+        if t.minute == 37 and ("rocket", chave_min) not in feitos:
+            feitos.add(("rocket", chave_min))
+            disparar("rocket.yml")
         tarefa = AGENDA.get((t.hour, t.minute))
         if tarefa and (tarefa, chave_min) not in feitos:
             feitos.add((tarefa, chave_min))
