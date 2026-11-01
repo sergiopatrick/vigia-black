@@ -1,11 +1,18 @@
 {
  "base": {},
  "falhas": {
-  "pos|no-ar|/cursos/": {
+  "cetrus|no-ar|/": {
    "alertado": false,
-   "desde": "2026-11-01T10:15:40-03:00",
-   "desde_s": 1793538940.5256536,
-   "msg": "/cursos/ respondeu 429",
+   "desde": "2026-11-01T10:20:19-03:00",
+   "desde_s": 1793539219.059139,
+   "msg": "/ respondeu 429",
+   "vezes": 1
+  },
+  "cetrus|no-ar|/vitrine/": {
+   "alertado": false,
+   "desde": "2026-11-01T10:20:19-03:00",
+   "desde_s": 1793539219.059139,
+   "msg": "/vitrine/ respondeu 429",
    "vezes": 1
   }
  }
