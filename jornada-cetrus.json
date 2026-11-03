@@ -2913,7 +2913,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-alergia-e-imunologia-pediatrica-online/",
    "/cursos/pos-graduacao-lato-sensu-em-dermatologia-pediatrica-online/",
    "/cursos/pos-graduacao-em-endocrinologia-sanar/",
-   "/cursos/fellowship-intervencao-em-dor-dr-matheus-bortoluci/",
    "/cursos/fellowship-em-intervencao-em-dor-dr-fabio-aragao/",
    "/cursos/fellowship-em-ecocardiografia-fetal-dr-marcelo-kozak/",
    "/cursos/atualizacao-em-ecocardiografia-fetal/",
@@ -3079,7 +3078,6 @@
    "/cursos/preparatorio-intensivo-para-a-prova-de-titulo-em-dor/",
    "/cursos/formacao-avancada-em-ultrassonografia-urologica/",
    "/cursos/pos-graduacao-lato-sensu-em-pneumologia-pediatrica-online/",
-   "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-amice-clinica-e-dr-romulo-pereira/",
    "/cursos/fellowship-em-ecocardiografia-drs-alvaro-santana-e-railson-brandao/",
    "/cursos/pos-graduacao-em-terapia-intensiva-drs-aguinaldo-bicalho-e-heigler-franco/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-clinica-ceico/",
@@ -3152,7 +3150,7 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 272
+  "_rodizio": 292
  },
  "falhas": {
   "cetrus|/cursos/pos-graduacao-em-ultrassonografia-geral-dra-luara-boson-dr-estevao-vargas/|abre": {
