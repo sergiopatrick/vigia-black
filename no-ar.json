@@ -1,19 +1,4 @@
 {
  "base": {},
- "falhas": {
-  "cetrus|no-ar|/": {
-   "alertado": false,
-   "desde": "2026-11-02T23:45:30-03:00",
-   "desde_s": 1793673930.04387,
-   "msg": "/ respondeu 429",
-   "vezes": 1
-  },
-  "cetrus|no-ar|/vitrine/": {
-   "alertado": false,
-   "desde": "2026-11-02T23:45:30-03:00",
-   "desde_s": 1793673930.04387,
-   "msg": "/vitrine/ respondeu 429",
-   "vezes": 1
-  }
- }
+ "falhas": {}
 }
