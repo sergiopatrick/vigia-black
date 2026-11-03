@@ -3152,7 +3152,16 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 232
+  "_rodizio": 252
  },
- "falhas": {}
+ "falhas": {
+  "cetrus|/cursos/pos-graduacao-em-ultrassonografia-geral-dra-luara-boson-dr-estevao-vargas/|abre": {
+   "alertado": true,
+   "desde": "2026-11-03T11:22:31-03:00",
+   "desde_s": 1793715751.5938818,
+   "msg": "Página não abriu no navegador (TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:)",
+   "ultimo_alerta": 1793715751.5938818,
+   "vezes": 1
+  }
+ }
 }
