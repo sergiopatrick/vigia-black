@@ -1,12 +1,4 @@
 {
  "base": {},
- "falhas": {
-  "pos|no-ar|/cursos/": {
-   "alertado": false,
-   "desde": "2026-11-02T21:25:30-03:00",
-   "desde_s": 1793665530.2518616,
-   "msg": "/cursos/ respondeu 429",
-   "vezes": 1
-  }
- }
+ "falhas": {}
 }
