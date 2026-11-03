@@ -1,4 +1,12 @@
 {
  "base": {},
- "falhas": {}
+ "falhas": {
+  "cetrus|no-ar|/vitrine/": {
+   "alertado": false,
+   "desde": "2026-11-03T01:35:25-03:00",
+   "desde_s": 1793680525.4900236,
+   "msg": "/vitrine/ respondeu 429",
+   "vezes": 1
+  }
+ }
 }
