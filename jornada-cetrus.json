@@ -444,6 +444,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-ecocardiografia-fetal-cardio-crianca/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-ecocardiografia-fetal-dr-alexandre-machado/": {
    "cta": true,
    "form": true,
@@ -3151,7 +3157,7 @@
    "/cursos/pos-graduacao-reproducao-humana-assistida/",
    "/cursos/fellowship-em-ecocardiografia-fetal-cardio-crianca/"
   ],
-  "_rodizio": 412
+  "_rodizio": 432
  },
  "falhas": {
   "cetrus|/cursos/pos-graduacao-em-ultrassonografia-geral-dra-luara-boson-dr-estevao-vargas/|abre": {
