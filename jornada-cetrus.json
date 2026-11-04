@@ -1614,7 +1614,8 @@
    "cta": true,
    "form": true,
    "gtm": true,
-   "index": true
+   "index": true,
+   "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-ecografia-vascular-com-doppler/": {
    "cta": true,
@@ -1716,7 +1717,8 @@
    "cta": true,
    "form": true,
    "gtm": true,
-   "index": true
+   "index": true,
+   "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-intervencao-em-dor/": {
    "cta": true,
@@ -2804,7 +2806,6 @@
    "/cursos/ultrassonografia-em-reproducao-humana/",
    "/cursos/fellowship-em-ecocardiografia-dr-jarbas-marques-aracaju-se/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-centro-radiologico-campo-grande/",
-   "/cursos/pos-graduacao-em-ecocardiografia-dr-edmundo-camara/",
    "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-clinica-endhos/",
    "/cursos/pos-graduacao-em-emergencias-pediatricas-sanar/",
    "/cursos/pos-graduacao-em-pediatria-sanar/",
@@ -2828,7 +2829,6 @@
    "/cursos/fellowship-em-ultrassonografia-ginecologica-e-obstetrica-dra-adriana-melo/",
    "/cursos/fellowship-em-reproducao-humana-dr-marcelo-cavalcante-e-dr-marcelo-gondim/",
    "/cursos/fellowship-em-cirurgia-minimamente-invasiva-de-pe-e-tornozelo-dr-andre-perin/",
-   "/cursos/fellowship-em-ecocardiografia-dr-edmundo-camara/",
    "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-e-estetica-dra-marcia-horowitz-e-dra-paula-morais/",
    "/cursos/pos-graduacao-lato-sensu-em-neurorradiologia-cranio-coluna-cabeca-e-pescoco/",
    "/cursos/pos-graduacao-em-ultrassonografia-geral-integrada/",
@@ -3060,7 +3060,6 @@
    "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dra-keila-matos/",
    "/cursos/medicina-canabinoide-pratica-clinica-e-prescricao/",
    "/cursos/tratamento-cirurgico-da-paralisia-facial/",
-   "/cursos/ecocardiografia-tridimensional/",
    "/cursos/intervencao-e-manejo-das-cefaleias-2/",
    "/cursos/ressonancia-magnetica-da-mama/",
    "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-estetica-basica-dr-adriano-loyola/",
@@ -3156,9 +3155,12 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/",
    "/cursos/fellowship-em-ecocardiografia-fetal-cardio-crianca/",
-   "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica-dra-mariana-guedes/"
+   "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica-dra-mariana-guedes/",
+   "/cursos/ecocardiografia-tridimensional/",
+   "/cursos/pos-graduacao-em-ecocardiografia-dr-edmundo-camara/",
+   "/cursos/fellowship-em-ecocardiografia-dr-edmundo-camara/"
   ],
-  "_rodizio": 286
+  "_rodizio": 306
  },
  "falhas": {}
 }
