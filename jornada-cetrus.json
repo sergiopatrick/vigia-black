@@ -3157,7 +3157,7 @@
    "/cursos/pos-graduacao-reproducao-humana-assistida/",
    "/cursos/fellowship-em-ecocardiografia-fetal-cardio-crianca/"
   ],
-  "_rodizio": 106
+  "_rodizio": 126
  },
  "falhas": {
   "cetrus|/cursos/pos-graduacao-em-ultrassonografia-geral-dra-luara-boson-dr-estevao-vargas/|abre": {
@@ -3166,6 +3166,14 @@
    "desde_s": 1793715751.5938818,
    "msg": "Página não abriu no navegador (TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:)",
    "ultimo_alerta": 1793715751.5938818,
+   "vezes": 1
+  },
+  "cetrus|/|abre": {
+   "alertado": true,
+   "desde": "2026-11-04T02:25:50-03:00",
+   "desde_s": 1793769950.5352297,
+   "msg": "Página não abriu no navegador (TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:)",
+   "ultimo_alerta": 1793769950.5352297,
    "vezes": 1
   }
  }
