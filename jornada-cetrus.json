@@ -3150,7 +3150,6 @@
    "/cursos/ultrassonografia-obstetrica-morfologica-de-2-trimestre-dra-christine-rondon/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-danillo-loula-e-clinica-regional/",
    "/cursos/fellowship-em-ecocardiografia-dra-polyana-brandao/",
-   "/cursos/fellowship-em-ecocardiografia-dr-thalles-barbosa/",
    "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-e-estetica-basica-dr-gilvan-alves-e-clinica-aepit/",
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/",
@@ -3158,9 +3157,10 @@
    "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica-dra-mariana-guedes/",
    "/cursos/ecocardiografia-tridimensional/",
    "/cursos/pos-graduacao-em-ecocardiografia-dr-edmundo-camara/",
-   "/cursos/fellowship-em-ecocardiografia-dr-edmundo-camara/"
+   "/cursos/fellowship-em-ecocardiografia-dr-edmundo-camara/",
+   "/cursos/fellowship-em-ecocardiografia-dr-thalles-barbosa/"
   ],
-  "_rodizio": 346
+  "_rodizio": 366
  },
  "falhas": {}
 }
