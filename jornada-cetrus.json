@@ -1662,6 +1662,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica-dra-mariana-guedes/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica-dras-ilena-budel-e-rhuana-malanche/": {
    "cta": true,
    "form": true,
@@ -3158,9 +3164,16 @@
    "/cursos/fellowship-em-ecocardiografia-dr-edmundo-camara/",
    "/cursos/fellowship-em-ecocardiografia-dr-thalles-barbosa/",
    "/cursos/monitoria-em-ultrassonografia-em-ginecologia-e-obstetricia/",
-   "/cursos/programa-de-monitoria-em-ultrassonografia-geral/"
+   "/cursos/programa-de-monitoria-em-ultrassonografia-geral/",
+   "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-e-estetica-ambulatorial/",
+   "/cursos/fellowship-colonoscopia-diagnostica-gastrocenter/",
+   "/cursos/pos-graduacao-histeroscopia-cirurgica-joao-pessoa/",
+   "/cursos/pos-graduacao-ultrassonografia-geral-mossoro-rn/",
+   "/cursos/pos-graduacao-ultrassonografia-geral-patos-pb/",
+   "/cursos/pos-graduacao-ultrassonografia-da-mulher-irece-ba/",
+   "/cursos/fellowship-em-ecocardiografia-dra-isabela-nobre/"
   ],
-  "_rodizio": 406
+  "_rodizio": 426
  },
  "falhas": {}
 }
