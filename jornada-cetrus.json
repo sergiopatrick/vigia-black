@@ -3011,8 +3011,6 @@
    "/cursos/fellowship-em-ultrassonografia-obstetrica-dr-christine-rondon/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-cassio-lamego/",
    "/cursos/pos-graduacao-lato-sensu-em-cirurgia-robotica-em-urologia-dr-fernando-bray/",
-   "/cursos/programa-de-monitoria-em-ultrassonografia-geral/",
-   "/cursos/monitoria-em-ultrassonografia-em-ginecologia-e-obstetricia/",
    "/cursos/pos-graduacao-lato-sensu-em-histeroscopia-cirurgica-ambulatorial/",
    "/cursos/pos-graduacao-lato-sensu-em-ginecologia-endocrina-e-reprodutiva/",
    "/cursos/pos-graduacao-lato-sensu-ecocardiografia-fetal-hibrida/",
@@ -3158,9 +3156,11 @@
    "/cursos/ecocardiografia-tridimensional/",
    "/cursos/pos-graduacao-em-ecocardiografia-dr-edmundo-camara/",
    "/cursos/fellowship-em-ecocardiografia-dr-edmundo-camara/",
-   "/cursos/fellowship-em-ecocardiografia-dr-thalles-barbosa/"
+   "/cursos/fellowship-em-ecocardiografia-dr-thalles-barbosa/",
+   "/cursos/monitoria-em-ultrassonografia-em-ginecologia-e-obstetricia/",
+   "/cursos/programa-de-monitoria-em-ultrassonografia-geral/"
   ],
-  "_rodizio": 386
+  "_rodizio": 406
  },
  "falhas": {}
 }
