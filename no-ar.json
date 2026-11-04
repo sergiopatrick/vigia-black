@@ -1,12 +1,4 @@
 {
  "base": {},
- "falhas": {
-  "checkout|no-ar": {
-   "alertado": false,
-   "desde": "2026-11-04T13:55:41-03:00",
-   "desde_s": 1793811341.4804816,
-   "msg": "Checkout fora do ar (checkout respondeu erro 401)",
-   "vezes": 1
-  }
- }
+ "falhas": {}
 }

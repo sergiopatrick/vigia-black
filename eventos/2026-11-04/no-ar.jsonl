@@ -838,3 +838,9 @@
 {"ts": "2026-11-04T13:55:30-03:00", "tipo": "no-ar", "site": "cetrus", "url": "https://cetrus.com.br/", "ok": true, "s": 3.9}
 {"ts": "2026-11-04T13:55:37-03:00", "tipo": "no-ar", "site": "cetrus", "url": "https://cetrus.com.br/vitrine/", "ok": true, "s": 4.1}
 {"ts": "2026-11-04T13:55:41-03:00", "tipo": "no-ar", "site": "checkout", "ok": false}
+{"ts": "2026-11-04T14:00:05-03:00", "tipo": "no-ar", "site": "pos", "url": "https://pos.sanar.com.br/", "ok": true, "s": 2.2}
+{"ts": "2026-11-04T14:00:10-03:00", "tipo": "no-ar", "site": "pos", "url": "https://pos.sanar.com.br/cursos/", "ok": true, "s": 2.4}
+{"ts": "2026-11-04T14:00:21-03:00", "tipo": "no-ar", "site": "cetrus", "url": "https://cetrus.com.br/", "ok": true, "s": 7.9}
+{"ts": "2026-11-04T14:00:29-03:00", "tipo": "no-ar", "site": "cetrus", "url": "https://cetrus.com.br/vitrine/", "ok": true, "s": 4.9}
+{"ts": "2026-11-04T14:00:33-03:00", "tipo": "no-ar", "site": "checkout", "ok": true}
+{"ts": "2026-11-04T14:00:33-03:00", "tipo": "oscilacao", "id": "checkout|no-ar", "msg": "Checkout fora do ar (checkout respondeu erro 401)"}
