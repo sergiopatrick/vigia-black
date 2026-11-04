@@ -276,6 +276,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-colonoscopia-diagnostica-gastrocenter/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-artroscopia-de-pe-e-tornozelo-dra-tania-mann/": {
    "cta": true,
    "form": true,
@@ -421,6 +427,12 @@
    "index": true
   },
   "/cursos/fellowship-em-ecocardiografia-dra-flavia-vernin/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ecocardiografia-dra-isabela-nobre/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1472,6 +1484,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-histeroscopia-cirurgica-joao-pessoa/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-cirurgia-geral-robotica-dr-fernando-bray/": {
    "cta": true,
    "form": true,
@@ -1568,6 +1586,13 @@
    "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-colposcopia-e-ptgi/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-e-estetica-ambulatorial/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -2196,6 +2221,24 @@
    "turmas": true
   },
   "/cursos/pos-graduacao-reproducao-humana-assistida/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-ultrassonografia-da-mulher-irece-ba/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-ultrassonografia-geral-mossoro-rn/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-ultrassonografia-geral-patos-pb/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -3173,7 +3216,7 @@
    "/cursos/pos-graduacao-ultrassonografia-da-mulher-irece-ba/",
    "/cursos/fellowship-em-ecocardiografia-dra-isabela-nobre/"
   ],
-  "_rodizio": 426
+  "_rodizio": 446
  },
  "falhas": {}
 }
