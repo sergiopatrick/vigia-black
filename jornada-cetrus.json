@@ -3124,7 +3124,6 @@
    "/cursos/fellowship-clinico-cirugico-em-endoscopia-da-coluna-dr-andre-de-sa/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-carlos-alberto-de-melo-liborio-filho/",
    "/cursos/fellowship-em-artroscopia-de-quadril-dr-davi-veiga/",
-   "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-dra-cintia-barros/",
    "/cursos/pratica-em-ecocardiografia/",
    "/cursos/pos-graduacao-lato-sensu-em-terapia-intensiva-dr-bruno-leite/",
    "/cursos/preparatorio-intensivo-para-a-prova-de-titulo-em-dor/",
@@ -3215,9 +3214,10 @@
    "/cursos/pos-graduacao-ultrassonografia-geral-patos-pb/",
    "/cursos/pos-graduacao-ultrassonografia-da-mulher-irece-ba/",
    "/cursos/fellowship-em-ecocardiografia-dra-isabela-nobre/",
-   "/cursos/fellowship-em-cirurgia-de-endometriose-profunda-multiorgaos-dr-melisandro-lacerda-e-dr-tarcisio-carneiro/"
+   "/cursos/fellowship-em-cirurgia-de-endometriose-profunda-multiorgaos-dr-melisandro-lacerda-e-dr-tarcisio-carneiro/",
+   "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-dra-cintia-barros/"
   ],
-  "_rodizio": 352
+  "_rodizio": 372
  },
  "falhas": {}
 }
