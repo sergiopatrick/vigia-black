@@ -300,6 +300,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-cirurgia-de-endometriose-profunda-multiorgaos-dr-melisandro-lacerda-e-dr-tarcisio-carneiro/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-cirurgia-ginecologica-minimamente-invasiva-dr-mauricio-kitamura/": {
    "cta": true,
    "form": true,
@@ -3085,7 +3091,6 @@
    "/cursos/ultrassonografia-em-reumatologia/",
    "/cursos/pos-graduacao-lato-sensu-us-geral/",
    "/cursos/pos-graduacao-lato-sensu-us-ginecologia-e-obstetricia/",
-   "/cursos/pos-graduacao-lato-sensu-em-procedimentos-guiados-por-ultrassonografia/",
    "/cursos/terapias-peptidicas-na-pratica-medica/",
    "/cursos/terapia-hormonal-na-menopausa-da-ciencia-a-pratica-clinica/",
    "/cursos/pos-graduacao-lato-sensu-em-psiquiatria-clinica-dr-andre-tavares/",
@@ -3197,7 +3202,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-danillo-loula-e-clinica-regional/",
    "/cursos/fellowship-em-ecocardiografia-dra-polyana-brandao/",
    "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-e-estetica-basica-dr-gilvan-alves-e-clinica-aepit/",
-   "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/",
    "/cursos/fellowship-em-ecocardiografia-fetal-cardio-crianca/",
    "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica-dra-mariana-guedes/",
@@ -3215,9 +3219,11 @@
    "/cursos/pos-graduacao-ultrassonografia-da-mulher-irece-ba/",
    "/cursos/fellowship-em-cirurgia-de-endometriose-profunda-multiorgaos-dr-melisandro-lacerda-e-dr-tarcisio-carneiro/",
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-dra-cintia-barros/",
-   "/cursos/fellowship-em-ecocardiografia-dra-isabela-nobre/"
+   "/cursos/fellowship-em-ecocardiografia-dra-isabela-nobre/",
+   "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
+   "/cursos/pos-graduacao-lato-sensu-em-procedimentos-guiados-por-ultrassonografia/"
   ],
-  "_rodizio": 412
+  "_rodizio": 432
  },
  "falhas": {}
 }
