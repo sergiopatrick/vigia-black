@@ -3223,7 +3223,16 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-lato-sensu-em-procedimentos-guiados-por-ultrassonografia/"
   ],
-  "_rodizio": 217
+  "_rodizio": 237
  },
- "falhas": {}
+ "falhas": {
+  "cetrus|/cursos/fellowship-em-us-tv-avancado-e-endometriose-dr-fernando-guastella/|formulario": {
+   "alertado": true,
+   "desde": "2026-11-06T03:24:15-03:00",
+   "desde_s": 1793946255.841958,
+   "msg": "Formulário de contato sumiu da página",
+   "ultimo_alerta": 1793946255.841958,
+   "vezes": 1
+  }
+ }
 }
