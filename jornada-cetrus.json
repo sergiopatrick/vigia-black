@@ -3158,7 +3158,6 @@
    "/cursos/fellowship-em-ultrassonografia-obstetrica-dra-mariana-rialto-e-dr-willian-eckert/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-vinicius-carvalho-e-dr-hugo-bernar/",
    "/cursos/pos-graduacao-lato-sensu-em-cardiologia-pediatrica-online/",
-   "/cursos/fellowship-em-ecocardiografia-dr-edson-de-oliveira/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-ultramef/",
    "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dr-luciano-estrela-dr-alvaro-modesto/",
    "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dr-newton-teixeira/",
@@ -3236,9 +3235,15 @@
    "/cursos/fellowship-em-ecocardiografia-congenita-dr-edmundo-camara/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-luis-fabrini/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-danillo-loula-e-clinica-regional/",
-   "/cursos/pos-graduacao-lato-sensu-em-obesidade-emagrecimento-e-terapias-glp-1/"
+   "/cursos/pos-graduacao-lato-sensu-em-obesidade-emagrecimento-e-terapias-glp-1/",
+   "/cursos/fellowship-em-ecocardiografia-dr-edson-de-oliveira/",
+   "/cursos/fellowship-ultrassonografia-ginecologica-avancada-multimed/",
+   "/cursos/fellowship-em-intervencao-em-dor-dr-david-sadigursky/",
+   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-adriana-melo-dr-hugo-cesar/",
+   "/cursos/fellowship-em-ecocardiografia-dra-mariana-jabur/",
+   "/cursos/fellowship-ultrassonografia-musculoesqueletica-pelotas/"
   ],
-  "_rodizio": 20
+  "_rodizio": 40
  },
  "falhas": {
   "cetrus|/cursos/fellowship-em-us-tv-avancado-e-endometriose-dr-fernando-guastella/|formulario": {
