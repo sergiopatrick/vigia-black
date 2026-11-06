@@ -1830,6 +1830,13 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-obesidade-emagrecimento-e-terapias-glp-1/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-patologias-obstetricas-e-pre-natal-de-alto-risco/": {
    "cta": true,
    "form": true,
@@ -2024,6 +2031,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-lairton-do-monte/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-luis-fabrini/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -3225,7 +3238,7 @@
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-danillo-loula-e-clinica-regional/",
    "/cursos/pos-graduacao-lato-sensu-em-obesidade-emagrecimento-e-terapias-glp-1/"
   ],
-  "_rodizio": 417
+  "_rodizio": 437
  },
  "falhas": {
   "cetrus|/cursos/fellowship-em-us-tv-avancado-e-endometriose-dr-fernando-guastella/|formulario": {
