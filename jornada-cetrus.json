@@ -3198,7 +3198,6 @@
    "/cursos/ginecologia-endocrina-e-reprodutiva-avancada/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-gigliane-rezende/",
    "/cursos/ultrassonografia-obstetrica-morfologica-de-2-trimestre-dra-christine-rondon/",
-   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-danillo-loula-e-clinica-regional/",
    "/cursos/fellowship-em-ecocardiografia-dra-polyana-brandao/",
    "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-e-estetica-basica-dr-gilvan-alves-e-clinica-aepit/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/",
@@ -3221,9 +3220,12 @@
    "/cursos/fellowship-em-ecocardiografia-dra-isabela-nobre/",
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/pos-graduacao-lato-sensu-em-procedimentos-guiados-por-ultrassonografia/",
-   "/cursos/fellowship-em-ecocardiografia-congenita-dr-edmundo-camara/"
+   "/cursos/fellowship-em-ecocardiografia-congenita-dr-edmundo-camara/",
+   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-luis-fabrini/",
+   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-danillo-loula-e-clinica-regional/",
+   "/cursos/pos-graduacao-lato-sensu-em-obesidade-emagrecimento-e-terapias-glp-1/"
   ],
-  "_rodizio": 377
+  "_rodizio": 397
  },
  "falhas": {
   "cetrus|/cursos/fellowship-em-us-tv-avancado-e-endometriose-dr-fernando-guastella/|formulario": {
