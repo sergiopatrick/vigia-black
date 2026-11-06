@@ -860,7 +860,7 @@
   },
   "/cursos/fellowship-em-us-tv-avancado-e-endometriose-dr-fernando-guastella/": {
    "cta": true,
-   "form": true,
+   "form": false,
    "gtm": true,
    "index": true
   },
@@ -3241,18 +3241,10 @@
    "/cursos/fellowship-em-intervencao-em-dor-dr-david-sadigursky/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-adriana-melo-dr-hugo-cesar/",
    "/cursos/fellowship-em-ecocardiografia-dra-mariana-jabur/",
-   "/cursos/fellowship-ultrassonografia-musculoesqueletica-pelotas/"
+   "/cursos/fellowship-ultrassonografia-musculoesqueletica-pelotas/",
+   "/cursos/fellowship-em-ecocardiografia-dr-fellipe-lima/"
   ],
-  "_rodizio": 40
+  "_rodizio": 60
  },
- "falhas": {
-  "cetrus|/cursos/fellowship-em-us-tv-avancado-e-endometriose-dr-fernando-guastella/|formulario": {
-   "alertado": true,
-   "desde": "2026-11-06T03:24:15-03:00",
-   "desde_s": 1793946255.841958,
-   "msg": "Formulário de contato sumiu da página",
-   "ultimo_alerta": 1793946255.841958,
-   "vezes": 1
-  }
- }
+ "falhas": {}
 }
