@@ -570,6 +570,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-intervencao-em-dor-dr-david-sadigursky/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-intervencao-em-dor-dr-fabio-aragao/": {
    "cta": true,
    "form": true,
@@ -937,6 +943,12 @@
    "index": true
   },
   "/cursos/fellowship-ultrassonografia-geral-maringa/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-ultrassonografia-ginecologica-avancada-multimed/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -2061,6 +2073,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-wiliam-joubert/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-adriana-melo-dr-hugo-cesar/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -3244,7 +3262,7 @@
    "/cursos/fellowship-ultrassonografia-musculoesqueletica-pelotas/",
    "/cursos/fellowship-em-ecocardiografia-dr-fellipe-lima/"
   ],
-  "_rodizio": 420
+  "_rodizio": 440
  },
  "falhas": {}
 }
