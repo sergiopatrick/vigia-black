@@ -396,6 +396,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-ecocardiografia-dr-fellipe-lima/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-ecocardiografia-dr-hugo-maues/": {
    "cta": true,
    "form": true,
@@ -445,6 +451,12 @@
    "index": true
   },
   "/cursos/fellowship-em-ecocardiografia-dra-joicely-costa/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ecocardiografia-dra-mariana-jabur/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -949,6 +961,12 @@
    "index": true
   },
   "/cursos/fellowship-ultrassonografia-ginecologica-avancada-multimed/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-ultrassonografia-musculoesqueletica-pelotas/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -3262,7 +3280,7 @@
    "/cursos/fellowship-ultrassonografia-musculoesqueletica-pelotas/",
    "/cursos/fellowship-em-ecocardiografia-dr-fellipe-lima/"
   ],
-  "_rodizio": 440
+  "_rodizio": 460
  },
  "falhas": {}
 }
