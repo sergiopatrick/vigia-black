@@ -878,7 +878,7 @@
   },
   "/cursos/fellowship-em-us-tv-avancado-e-endometriose-dr-fernando-guastella/": {
    "cta": true,
-   "form": false,
+   "form": true,
    "gtm": true,
    "index": true
   },
@@ -3280,7 +3280,7 @@
    "/cursos/fellowship-ultrassonografia-musculoesqueletica-pelotas/",
    "/cursos/fellowship-em-ecocardiografia-dr-fellipe-lima/"
   ],
-  "_rodizio": 217
+  "_rodizio": 237
  },
  "falhas": {}
 }
