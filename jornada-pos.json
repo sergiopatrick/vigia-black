@@ -393,8 +393,8 @@
    "/curso-psicofarmacos/",
    "/gestao-e-empreendedorismo-medico/"
   ],
-  "_rodizio": 74,
-  "checkout_ref": "https://checkout.cetrus.sanar.com.br/produto?productId=d3d08d6c-ebaf-4bf3-9091-cb71cf08be81&pricingConfigId=e357703d-c3e6-42c2-ac29-c14f5e4d0c42&utm_source=site-pos&utm_medium=organic&utm_campaign=navegacao-padrao"
+  "_rodizio": 76,
+  "checkout_ref": "https://checkout.cetrus.sanar.com.br/produto?productId=ff7fe2b7-4db3-4721-bc11-fd0112d0ac0b&pricingConfigId=103b8ba7-f77f-4b4e-978e-a764f25d3260&utm_source=site-pos&utm_medium=organic&utm_campaign=navegacao-padrao"
  },
  "falhas": {
   "pos|/|celular": {
@@ -402,7 +402,7 @@
    "desde": "2026-11-09T15:19:05-03:00",
    "desde_s": 1794248345.4709215,
    "msg": "Layout estourando a largura no celular",
-   "vezes": 1
+   "vezes": 2
   }
  }
 }
