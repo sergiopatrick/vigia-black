@@ -3268,7 +3268,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-procedimentos-guiados-por-ultrassonografia/",
    "/cursos/fellowship-em-ecocardiografia-congenita-dr-edmundo-camara/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-luis-fabrini/",
-   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-danillo-loula-e-clinica-regional/",
    "/cursos/pos-graduacao-lato-sensu-em-obesidade-emagrecimento-e-terapias-glp-1/",
    "/cursos/fellowship-em-ecocardiografia-dr-edson-de-oliveira/",
    "/cursos/fellowship-ultrassonografia-ginecologica-avancada-multimed/",
@@ -3278,9 +3277,10 @@
    "/cursos/fellowship-ultrassonografia-musculoesqueletica-pelotas/",
    "/cursos/fellowship-em-ecocardiografia-dr-fellipe-lima/",
    "/cursos/fellowship-em-cirurgia-de-endometriose-profunda-multiorgaos-dr-melisandro-lacerda-e-dr-tarcisio-carneiro/",
-   "/cursos/fellowship-em-intervencao-em-dor-drs-raimundo-junior-e-juliana-prado/"
+   "/cursos/fellowship-em-intervencao-em-dor-drs-raimundo-junior-e-juliana-prado/",
+   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-danillo-loula-e-clinica-regional/"
   ],
-  "_rodizio": 171
+  "_rodizio": 191
  },
  "falhas": {
   "cetrus|/cursos/fellowship-em-ecocardiografia-dr-joao-marcos-barbosa/|abre": {
