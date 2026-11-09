@@ -3020,7 +3020,6 @@
    "/cursos/pos-graduacao-em-medicina-de-familia-e-comunidade-sanar/",
    "/cursos/pos-graduacao-em-medicina-endocanabinoide-sanar/",
    "/cursos/pos-graduacao-lato-sensu-em-alergia-e-imunologia-pediatrica-online/",
-   "/cursos/pos-graduacao-lato-sensu-em-dermatologia-pediatrica-online/",
    "/cursos/pos-graduacao-em-endocrinologia-sanar/",
    "/cursos/fellowship-em-intervencao-em-dor-dr-fabio-aragao/",
    "/cursos/fellowship-em-ecocardiografia-fetal-dr-marcelo-kozak/",
@@ -3129,9 +3128,7 @@
    "/cursos/pos-graduacao-lato-sensu-hibrida-em-colposcopia-e-ptgi/",
    "/cursos/pos-graduacao-lato-sensu-em-ecocardiografia/",
    "/cursos/pos-graduacao-lato-sensu-em-endoscopia-de-coluna/",
-   "/cursos/pos-graduacao-lato-sensu-em-ecografia-vascular-com-doppler/",
    "/cursos/pos-graduacao-lato-sensu-em-us-ginecologica-avancada-e-endometriose/",
-   "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica/",
    "/cursos/pos-graduacao-lato-sensu-em-imagem-da-mama-2/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-obstetrica-morfologica-e-doppler/",
    "/cursos/pos-graduacao-lato-sensu-em-medicina-regenerativa-musculoesqueletica/",
@@ -3217,7 +3214,6 @@
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial/",
    "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dr-helmut-poti/",
    "/cursos/pos-graduacao-em-terapia-intensiva-dr-andrei-leonardo/",
-   "/cursos/pos-graduacao-lato-sensu-em-alergia-e-imunologia/",
    "/cursos/pos-graduacao-lato-sensu-em-medicina-do-esporte-dr-rodrigo-sasson/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-aplicada-a-anestesiologia/",
    "/cursos/pos-graduacao-lato-sensu-em-andrologia/",
@@ -3244,7 +3240,6 @@
    "/cursos/ecografia-vascular-carotidas-e-vertebrais/",
    "/cursos/ginecologia-endocrina-e-reprodutiva-avancada/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-gigliane-rezende/",
-   "/cursos/ultrassonografia-obstetrica-morfologica-de-2-trimestre-dra-christine-rondon/",
    "/cursos/fellowship-em-ecocardiografia-dra-polyana-brandao/",
    "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-e-estetica-basica-dr-gilvan-alves-e-clinica-aepit/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/",
@@ -3278,9 +3273,14 @@
    "/cursos/fellowship-em-ecocardiografia-dr-fellipe-lima/",
    "/cursos/fellowship-em-cirurgia-de-endometriose-profunda-multiorgaos-dr-melisandro-lacerda-e-dr-tarcisio-carneiro/",
    "/cursos/fellowship-em-intervencao-em-dor-drs-raimundo-junior-e-juliana-prado/",
-   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-danillo-loula-e-clinica-regional/"
+   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-danillo-loula-e-clinica-regional/",
+   "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica/",
+   "/cursos/pos-graduacao-lato-sensu-em-dermatologia-pediatrica-online/",
+   "/cursos/pos-graduacao-lato-sensu-em-ecografia-vascular-com-doppler/",
+   "/cursos/ultrassonografia-obstetrica-morfologica-de-2-trimestre-dra-christine-rondon/",
+   "/cursos/pos-graduacao-lato-sensu-em-alergia-e-imunologia/"
   ],
-  "_rodizio": 211
+  "_rodizio": 231
  },
  "falhas": {
   "cetrus|/cursos/fellowship-em-ecocardiografia-dr-joao-marcos-barbosa/|abre": {
