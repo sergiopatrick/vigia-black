@@ -3263,7 +3263,6 @@
    "/cursos/pos-graduacao-ultrassonografia-geral-mossoro-rn/",
    "/cursos/pos-graduacao-ultrassonografia-geral-patos-pb/",
    "/cursos/pos-graduacao-ultrassonografia-da-mulher-irece-ba/",
-   "/cursos/fellowship-em-cirurgia-de-endometriose-profunda-multiorgaos-dr-melisandro-lacerda-e-dr-tarcisio-carneiro/",
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-dra-cintia-barros/",
    "/cursos/fellowship-em-ecocardiografia-dra-isabela-nobre/",
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
@@ -3278,9 +3277,10 @@
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-adriana-melo-dr-hugo-cesar/",
    "/cursos/fellowship-em-ecocardiografia-dra-mariana-jabur/",
    "/cursos/fellowship-ultrassonografia-musculoesqueletica-pelotas/",
-   "/cursos/fellowship-em-ecocardiografia-dr-fellipe-lima/"
+   "/cursos/fellowship-em-ecocardiografia-dr-fellipe-lima/",
+   "/cursos/fellowship-em-cirurgia-de-endometriose-profunda-multiorgaos-dr-melisandro-lacerda-e-dr-tarcisio-carneiro/"
   ],
-  "_rodizio": 31
+  "_rodizio": 51
  },
  "falhas": {}
 }
