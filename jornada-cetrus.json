@@ -3212,7 +3212,6 @@
    "/cursos/pos-graduacao-em-terapia-intensiva-dr-thiago-wawginiak/",
    "/cursos/fellowship-em-usg-da-mulher-dra-luanna-melo/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-ultraclinica/",
-   "/cursos/fellowship-em-intervencao-em-dor-drs-raimundo-junior-e-juliana-prado/",
    "/cursos/fellowship-em-intervencao-em-dor-dr-pedro-ferro-dra-sandra-santos/",
    "/cursos/fellowship-em-cirurgia-ginecologica-minimamente-invasiva-dra-juliane-castro/",
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial/",
@@ -3278,9 +3277,10 @@
    "/cursos/fellowship-em-ecocardiografia-dra-mariana-jabur/",
    "/cursos/fellowship-ultrassonografia-musculoesqueletica-pelotas/",
    "/cursos/fellowship-em-ecocardiografia-dr-fellipe-lima/",
-   "/cursos/fellowship-em-cirurgia-de-endometriose-profunda-multiorgaos-dr-melisandro-lacerda-e-dr-tarcisio-carneiro/"
+   "/cursos/fellowship-em-cirurgia-de-endometriose-profunda-multiorgaos-dr-melisandro-lacerda-e-dr-tarcisio-carneiro/",
+   "/cursos/fellowship-em-intervencao-em-dor-drs-raimundo-junior-e-juliana-prado/"
   ],
-  "_rodizio": 151
+  "_rodizio": 171
  },
  "falhas": {
   "cetrus|/cursos/fellowship-em-ecocardiografia-dr-joao-marcos-barbosa/|abre": {
@@ -3297,14 +3297,6 @@
    "desde_s": 1794234122.4880855,
    "msg": "Página fora do ar, respondeu 429",
    "ultimo_alerta": 1794234122.4880855,
-   "vezes": 1
-  },
-  "cetrus|robo-bloqueado": {
-   "alertado": true,
-   "desde": "2026-11-09T15:15:20-03:00",
-   "desde_s": 1794248120.3696797,
-   "msg": "O robô foi barrado pelo WordPress.com em 20 páginas, os testes desta hora ficaram cegos",
-   "ultimo_alerta": 1794248120.3696797,
    "vezes": 1
   }
  }
