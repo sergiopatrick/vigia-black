@@ -3280,24 +3280,7 @@
    "/cursos/ultrassonografia-obstetrica-morfologica-de-2-trimestre-dra-christine-rondon/",
    "/cursos/pos-graduacao-lato-sensu-em-alergia-e-imunologia/"
   ],
-  "_rodizio": 48
+  "_rodizio": 68
  },
- "falhas": {
-  "cetrus|/cursos/fellowship-em-ecocardiografia-dr-joao-marcos-barbosa/|abre": {
-   "alertado": true,
-   "desde": "2026-11-09T11:22:02-03:00",
-   "desde_s": 1794234122.4880855,
-   "msg": "Página fora do ar, respondeu 429",
-   "ultimo_alerta": 1794234122.4880855,
-   "vezes": 1
-  },
-  "cetrus|/cursos/pos-graduacao-em-terapia-intensiva-dra-cassia-righy-e-dr-bruno-goncalves/|abre": {
-   "alertado": true,
-   "desde": "2026-11-09T11:22:02-03:00",
-   "desde_s": 1794234122.4880855,
-   "msg": "Página fora do ar, respondeu 429",
-   "ultimo_alerta": 1794234122.4880855,
-   "vezes": 1
-  }
- }
+ "falhas": {}
 }
