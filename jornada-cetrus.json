@@ -3255,7 +3255,6 @@
    "/cursos/fellowship-colonoscopia-diagnostica-gastrocenter/",
    "/cursos/pos-graduacao-histeroscopia-cirurgica-joao-pessoa/",
    "/cursos/pos-graduacao-ultrassonografia-geral-mossoro-rn/",
-   "/cursos/pos-graduacao-ultrassonografia-geral-patos-pb/",
    "/cursos/pos-graduacao-ultrassonografia-da-mulher-irece-ba/",
    "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-dra-cintia-barros/",
    "/cursos/fellowship-em-ecocardiografia-dra-isabela-nobre/",
@@ -3278,9 +3277,10 @@
    "/cursos/pos-graduacao-lato-sensu-em-dermatologia-pediatrica-online/",
    "/cursos/pos-graduacao-lato-sensu-em-ecografia-vascular-com-doppler/",
    "/cursos/ultrassonografia-obstetrica-morfologica-de-2-trimestre-dra-christine-rondon/",
-   "/cursos/pos-graduacao-lato-sensu-em-alergia-e-imunologia/"
+   "/cursos/pos-graduacao-lato-sensu-em-alergia-e-imunologia/",
+   "/cursos/pos-graduacao-ultrassonografia-geral-patos-pb/"
   ],
-  "_rodizio": 128
+  "_rodizio": 148
  },
  "falhas": {}
 }
