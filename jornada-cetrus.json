@@ -3242,7 +3242,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-gigliane-rezende/",
    "/cursos/fellowship-em-ecocardiografia-dra-polyana-brandao/",
    "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-e-estetica-basica-dr-gilvan-alves-e-clinica-aepit/",
-   "/cursos/pos-graduacao-reproducao-humana-assistida/",
    "/cursos/fellowship-em-ecocardiografia-fetal-cardio-crianca/",
    "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica-dra-mariana-guedes/",
    "/cursos/ecocardiografia-tridimensional/",
@@ -3281,9 +3280,12 @@
    "/cursos/pos-graduacao-ultrassonografia-geral-patos-pb/",
    "/cursos/fellowship-em-artroscopia-de-quadril-dr-marcelo-morozowski/",
    "/cursos/fellowship-em-ultrassonografia-pediatrica-clinica-medmais/",
-   "/cursos/pos-graduacao-lato-sensu-em-reumatologia/"
+   "/cursos/pos-graduacao-lato-sensu-em-reumatologia/",
+   "/cursos/pos-graduacao-lato-sensu-em-geriatria-clinica-e-cuidados-paliativos-dra-joana-noschang/",
+   "/cursos/pos-graduacao-ultrassonografia-pediatrica-salvador/",
+   "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 168
+  "_rodizio": 188
  },
  "falhas": {}
 }
