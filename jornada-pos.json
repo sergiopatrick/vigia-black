@@ -25,7 +25,7 @@
    "valor": false
   },
   "/cursos/": {
-   "cards": 27,
+   "cards": 28,
    "cta": true,
    "form": false,
    "gtm": true,
@@ -327,6 +327,15 @@
    "preco": true,
    "valor": true
   },
+  "/pos-graduacao-em-psiquiatria-forense-da-sanar/": {
+   "checkout": true,
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "preco": true,
+   "valor": true
+  },
   "/pos-graduacao-em-psiquiatria-forense/": {
    "checkout": false,
    "cta": false,
@@ -391,10 +400,11 @@
    "/pos-graduacao-em-clinica-medica/",
    "/curso-analogos-glp-1/",
    "/curso-psicofarmacos/",
-   "/gestao-e-empreendedorismo-medico/"
+   "/gestao-e-empreendedorismo-medico/",
+   "/pos-graduacao-em-psiquiatria-forense-da-sanar/"
   ],
-  "_rodizio": 48,
-  "checkout_ref": "https://checkout.cetrus.sanar.com.br/produto?productId=577377c2-a4cf-42ff-a46a-2df7b55c2cbf&pricingConfigId=a8850bc7-179b-47fc-af3a-237a81f253a2&utm_source=site-pos&utm_medium=organic&utm_campaign=navegacao-padrao"
+  "_rodizio": 49,
+  "checkout_ref": "https://checkout.cetrus.sanar.com.br/produto?productId=01d1b46b-d3a4-4243-bd75-6b13374506ce&pricingConfigId=0355b32f-d278-4856-8b10-f68d70df82e5&utm_source=site-pos&utm_medium=organic&utm_campaign=navegacao-padrao"
  },
  "falhas": {}
 }
