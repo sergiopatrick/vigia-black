@@ -384,7 +384,6 @@
    "/pos-graduacao-em-medicina-endocanabinoide/",
    "/pos-graduacao-em-medicina-da-dor/",
    "/pos-graduacao-em-medicina-de-emergencia-b/",
-   "/pos-graduacao-em-medicina-de-familia-e-comunidade-b/",
    "/pos-graduacao-em-medicina-do-esporte/",
    "/pos-graduacao-em-medicina-do-sono/",
    "/pos-graduacao-em-medicina-do-trabalho-b/",
@@ -401,10 +400,11 @@
    "/curso-analogos-glp-1/",
    "/curso-psicofarmacos/",
    "/gestao-e-empreendedorismo-medico/",
-   "/pos-graduacao-em-psiquiatria-forense-da-sanar/"
+   "/pos-graduacao-em-psiquiatria-forense-da-sanar/",
+   "/pos-graduacao-em-medicina-de-familia-e-comunidade-b/"
   ],
-  "_rodizio": 66,
-  "checkout_ref": "https://checkout.cetrus.sanar.com.br/produto?productId=01d1b46b-d3a4-4243-bd75-6b13374506ce&pricingConfigId=0355b32f-d278-4856-8b10-f68d70df82e5&utm_source=site-pos&utm_medium=organic&utm_campaign=navegacao-padrao"
+  "_rodizio": 67,
+  "checkout_ref": "https://checkout.cetrus.sanar.com.br/produto?productId=577377c2-a4cf-42ff-a46a-2df7b55c2cbf&pricingConfigId=a8850bc7-179b-47fc-af3a-237a81f253a2&utm_source=site-pos&utm_medium=organic&utm_campaign=navegacao-padrao"
  },
  "falhas": {}
 }
