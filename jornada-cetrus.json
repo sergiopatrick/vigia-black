@@ -2996,7 +2996,6 @@
    "/cursos/formacao-em-infiltracao-musculoesqueletica-e-ondas-de-choque/",
    "/cursos/formacao-basica-em-infiltracao-guiada-por-ultrassom-musculoesqueletica/",
    "/cursos/formacao-em-intervencao-da-coluna-vertebral/",
-   "/cursos/formacao-em-ultrassonografia-infiltracao-musculoesqueletica/",
    "/cursos/formacao-avancada-em-ecocardiografia-transesofagica-e-3d/",
    "/cursos/formacao-basica-em-ecocardiografia/",
    "/cursos/formacao-basica-em-ultrassonografia-para-o-paciente-critico/",
@@ -3081,7 +3080,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-intervencao-em-dor/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-dermatologica/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-em-emergencias-e-uti-point-of-care/",
-   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-musculoesqueletica/",
    "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dr-rafael-negrao-e-dr-jose-carlos-pardal/",
    "/cursos/fellowship-em-ultrassonografia-obstetrica-dr-felipe-fonseca/",
    "/cursos/pos-graduacao-em-ultrassonografia-geral-amaral-costa/",
@@ -3106,7 +3104,6 @@
    "/cursos/pos-graduacao-em-ultrassonografia-geral-imagem-plena/",
    "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica-dras-ilena-budel-e-rhuana-malanche/",
    "/cursos/pos-graduacao-lato-sensu-em-medicina-fetal/",
-   "/cursos/ultrassonografia-musculoesqueletica/",
    "/cursos/ecografia-vascular-arterial-e-venoso-de-membros-inferiores/",
    "/cursos/pratica-em-medicina-interna/",
    "/cursos/ultrassonografia-obstetrica-morfologica-de-2o-trimestre/",
@@ -3165,7 +3162,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-medicina-regenerativa-musculoesqueletica/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-em-reumatologia/",
    "/cursos/ultrassonografia-em-reumatologia/",
-   "/cursos/pos-graduacao-lato-sensu-us-geral/",
    "/cursos/pos-graduacao-lato-sensu-us-ginecologia-e-obstetricia/",
    "/cursos/terapias-peptidicas-na-pratica-medica/",
    "/cursos/terapia-hormonal-na-menopausa-da-ciencia-a-pratica-clinica/",
@@ -3282,7 +3278,6 @@
    "/cursos/monitoria-em-ultrassonografia-em-ginecologia-e-obstetricia/",
    "/cursos/programa-de-monitoria-em-ultrassonografia-geral/",
    "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-e-estetica-ambulatorial/",
-   "/cursos/fellowship-colonoscopia-diagnostica-gastrocenter/",
    "/cursos/pos-graduacao-histeroscopia-cirurgica-joao-pessoa/",
    "/cursos/pos-graduacao-ultrassonografia-geral-mossoro-rn/",
    "/cursos/pos-graduacao-ultrassonografia-da-mulher-irece-ba/",
@@ -3295,7 +3290,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-obesidade-emagrecimento-e-terapias-glp-1/",
    "/cursos/fellowship-em-ecocardiografia-dr-edson-de-oliveira/",
    "/cursos/fellowship-ultrassonografia-ginecologica-avancada-multimed/",
-   "/cursos/fellowship-em-intervencao-em-dor-dr-david-sadigursky/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-adriana-melo-dr-hugo-cesar/",
    "/cursos/fellowship-em-ecocardiografia-dra-mariana-jabur/",
    "/cursos/fellowship-ultrassonografia-musculoesqueletica-pelotas/",
@@ -3314,9 +3308,17 @@
    "/cursos/pos-graduacao-lato-sensu-em-reumatologia/",
    "/cursos/pos-graduacao-lato-sensu-em-geriatria-clinica-e-cuidados-paliativos-dra-joana-noschang/",
    "/cursos/pos-graduacao-ultrassonografia-pediatrica-salvador/",
-   "/cursos/pos-graduacao-reproducao-humana-assistida/"
+   "/cursos/pos-graduacao-reproducao-humana-assistida/",
+   "/cursos/pos-graduacao-lato-sensu-us-geral/",
+   "/cursos/ultrassonografia-musculoesqueletica/",
+   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-musculoesqueletica/",
+   "/cursos/formacao-em-ultrassonografia-infiltracao-musculoesqueletica/",
+   "/cursos/pos-graduacao-lato-sensu-em-histeroscopia-cirurgica-ambulatorial-dra-veruska-amaral/",
+   "/cursos/fellowship-colonoscopia-diagnostica-gastrocenter/",
+   "/cursos/fellowship-em-ultrassonografia-pediatrica-dr-max-mendonca/",
+   "/cursos/fellowship-em-intervencao-em-dor-dr-david-sadigursky/"
   ],
-  "_rodizio": 120
+  "_rodizio": 140
  },
  "falhas": {
   "cetrus|/cursos/fellowship-em-ecocardiograma-avancado-dr-thiago-tomaz/|abre": {
