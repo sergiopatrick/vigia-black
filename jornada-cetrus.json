@@ -294,6 +294,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-artroscopia-de-quadril-dr-marcelo-morozowski/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-cirurgia-de-catarata-hoftalon/": {
    "cta": true,
    "form": true,
@@ -865,6 +871,12 @@
    "index": true
   },
   "/cursos/fellowship-em-ultrassonografia-obstetrica-materno-fetal-dr-luiz-miguel-miltri/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/fellowship-em-ultrassonografia-pediatrica-clinica-medmais/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1717,6 +1729,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-geriatria-clinica-e-cuidados-paliativos-dra-joana-noschang/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-ginecologia-avancada-e-procedimentos/": {
    "cta": true,
    "form": true,
@@ -1916,6 +1934,13 @@
    "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-ressonancia-magnetica-musculoesqueletica/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-reumatologia/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -2300,6 +2325,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-ultrassonografia-geral/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-ultrassonografia-pediatrica-salvador/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -3285,7 +3316,7 @@
    "/cursos/pos-graduacao-ultrassonografia-pediatrica-salvador/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/"
   ],
-  "_rodizio": 428
+  "_rodizio": 448
  },
  "falhas": {}
 }
