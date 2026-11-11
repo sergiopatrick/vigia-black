@@ -3311,9 +3311,10 @@
    "/cursos/fellowship-em-cirurgia-de-endometriose-profunda-multiorgaos-dr-melisandro-lacerda-e-dr-tarcisio-carneiro/",
    "/cursos/pos-graduacao-lato-sensu-em-geriatria-clinica-e-cuidados-paliativos-dra-joana-noschang/",
    "/cursos/pos-graduacao-histeroscopia-cirurgica-joao-pessoa/",
-   "/cursos/monitoria-em-ultrassonografia-em-ginecologia-e-obstetricia/"
+   "/cursos/monitoria-em-ultrassonografia-em-ginecologia-e-obstetricia/",
+   "/cursos/programa-de-monitoria-em-ultrassonografia-geral/"
   ],
-  "_rodizio": 160
+  "_rodizio": 180
  },
  "falhas": {
   "cetrus|/cursos/fellowship-em-ecocardiograma-avancado-dr-thiago-tomaz/|abre": {
