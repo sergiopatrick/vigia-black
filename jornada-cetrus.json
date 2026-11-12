@@ -3298,7 +3298,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-adriana-melo-dr-hugo-cesar/",
    "/cursos/fellowship-em-ecocardiografia-dra-mariana-jabur/",
    "/cursos/fellowship-ultrassonografia-musculoesqueletica-pelotas/",
-   "/cursos/fellowship-em-ecocardiografia-dr-fellipe-lima/",
    "/cursos/fellowship-em-intervencao-em-dor-drs-raimundo-junior-e-juliana-prado/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-danillo-loula-e-clinica-regional/",
    "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica/",
@@ -3308,7 +3307,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-alergia-e-imunologia/",
    "/cursos/pos-graduacao-ultrassonografia-geral-patos-pb/",
    "/cursos/fellowship-em-artroscopia-de-quadril-dr-marcelo-morozowski/",
-   "/cursos/fellowship-em-ultrassonografia-pediatrica-clinica-medmais/",
    "/cursos/pos-graduacao-lato-sensu-em-reumatologia/",
    "/cursos/pos-graduacao-ultrassonografia-pediatrica-salvador/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/",
@@ -3324,9 +3322,11 @@
    "/cursos/pos-graduacao-lato-sensu-em-geriatria-clinica-e-cuidados-paliativos-dra-joana-noschang/",
    "/cursos/pos-graduacao-histeroscopia-cirurgica-joao-pessoa/",
    "/cursos/monitoria-em-ultrassonografia-em-ginecologia-e-obstetricia/",
-   "/cursos/programa-de-monitoria-em-ultrassonografia-geral/"
+   "/cursos/programa-de-monitoria-em-ultrassonografia-geral/",
+   "/cursos/fellowship-em-ecocardiografia-dr-fellipe-lima/",
+   "/cursos/fellowship-em-ultrassonografia-pediatrica-clinica-medmais/"
   ],
-  "_rodizio": 460
+  "_rodizio": 34
  },
  "falhas": {
   "cetrus|/cursos/fellowship-em-ecocardiograma-avancado-dr-thiago-tomaz/|abre": {
