@@ -2964,7 +2964,6 @@
    "/cursos/pos-graduacao-em-ultrassonografia-geral-dr-breno-moll-arruda-e-ana-leonor-riascos/",
    "/cursos/pos-graduacao-em-ultrassonografia-geral-ensinacao-sobral/",
    "/cursos/pos-graduacao-em-pericias-medicas-sanar/",
-   "/cursos/fellowship-em-ultrassonografia-obstetrica-dra-rosy-ane/",
    "/cursos/fellowship-em-ultrassonografia-obstetrica-e-morfologica-doppler-dra-izabela-pires-franco/",
    "/cursos/fellowship-em-ultrassonografia-obstetrica-dr-jose-antonio-martins/",
    "/cursos/fellowship-em-ultrassonografia-obstetrica-dr-luiz-franca/",
@@ -3324,9 +3323,10 @@
    "/cursos/monitoria-em-ultrassonografia-em-ginecologia-e-obstetricia/",
    "/cursos/programa-de-monitoria-em-ultrassonografia-geral/",
    "/cursos/fellowship-em-ecocardiografia-dr-fellipe-lima/",
-   "/cursos/fellowship-em-ultrassonografia-pediatrica-clinica-medmais/"
+   "/cursos/fellowship-em-ultrassonografia-pediatrica-clinica-medmais/",
+   "/cursos/fellowship-em-ultrassonografia-obstetrica-dra-rosy-ane/"
   ],
-  "_rodizio": 34
+  "_rodizio": 54
  },
  "falhas": {
   "cetrus|/cursos/fellowship-em-ecocardiograma-avancado-dr-thiago-tomaz/|abre": {
