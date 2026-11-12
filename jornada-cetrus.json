@@ -3326,16 +3326,7 @@
    "/cursos/fellowship-em-ultrassonografia-pediatrica-clinica-medmais/",
    "/cursos/fellowship-em-ultrassonografia-obstetrica-dra-rosy-ane/"
   ],
-  "_rodizio": 54
+  "_rodizio": 74
  },
- "falhas": {
-  "cetrus|/cursos/fellowship-em-ecocardiograma-avancado-dr-thiago-tomaz/|abre": {
-   "alertado": true,
-   "desde": "2026-11-11T07:24:12-03:00",
-   "desde_s": 1794392652.7129753,
-   "msg": "Página não abriu no navegador (TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:)",
-   "ultimo_alerta": 1794392652.7129753,
-   "vezes": 1
-  }
- }
+ "falhas": {}
 }
