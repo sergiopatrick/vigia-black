@@ -882,6 +882,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-ultrassonografia-pediatrica-dr-max-mendonca/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-us-obstetrica-morfologica-e-doppler-dr-sergio-matos/": {
    "cta": true,
    "form": true,
@@ -1778,6 +1784,12 @@
    "gtm": true,
    "index": true,
    "turmas": true
+  },
+  "/cursos/pos-graduacao-lato-sensu-em-histeroscopia-cirurgica-ambulatorial-dra-veruska-amaral/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-histeroscopia-cirurgica-ambulatorial/": {
    "cta": true,
@@ -3314,7 +3326,7 @@
    "/cursos/monitoria-em-ultrassonografia-em-ginecologia-e-obstetricia/",
    "/cursos/programa-de-monitoria-em-ultrassonografia-geral/"
   ],
-  "_rodizio": 420
+  "_rodizio": 440
  },
  "falhas": {
   "cetrus|/cursos/fellowship-em-ecocardiograma-avancado-dr-thiago-tomaz/|abre": {
