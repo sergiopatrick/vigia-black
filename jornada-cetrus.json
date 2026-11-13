@@ -3311,7 +3311,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-luis-fabrini/",
    "/cursos/pos-graduacao-lato-sensu-em-obesidade-emagrecimento-e-terapias-glp-1/",
    "/cursos/fellowship-em-ecocardiografia-dr-edson-de-oliveira/",
-   "/cursos/fellowship-ultrassonografia-ginecologica-avancada-multimed/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-adriana-melo-dr-hugo-cesar/",
    "/cursos/fellowship-em-ecocardiografia-dra-mariana-jabur/",
    "/cursos/fellowship-ultrassonografia-musculoesqueletica-pelotas/",
@@ -3345,9 +3344,10 @@
    "/cursos/pocus-em-nefrologia-e-vexus/",
    "/cursos/fellowship-em-ecocardiografia-cardion/",
    "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica/",
-   "/cursos/pos-graduacao-ultrassonografia-geral-patos-pb/"
+   "/cursos/pos-graduacao-ultrassonografia-geral-patos-pb/",
+   "/cursos/fellowship-ultrassonografia-ginecologica-avancada-multimed/"
   ],
-  "_rodizio": 45
+  "_rodizio": 65
  },
  "falhas": {}
 }
