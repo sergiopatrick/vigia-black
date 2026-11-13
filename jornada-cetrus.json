@@ -3192,8 +3192,6 @@
    "/cursos/pos-graduacao-lato-sensu-us-ginecologia-e-obstetricia/",
    "/cursos/terapias-peptidicas-na-pratica-medica/",
    "/cursos/terapia-hormonal-na-menopausa-da-ciencia-a-pratica-clinica/",
-   "/cursos/pos-graduacao-lato-sensu-em-psiquiatria-clinica-dr-andre-tavares/",
-   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-danielly-sombra/",
    "/cursos/pos-graduacao-lato-sensu-em-endoscopia-digestiva-alta-diagnostica/",
    "/cursos/pos-graduacao-lato-sensu-em-ressonancia-magnetica-da-mama/",
    "/cursos/ultrassonografia-prostatica-com-biopsia-transretal/",
@@ -3206,8 +3204,6 @@
    "/cursos/ecocardiografia/",
    "/cursos/doppler-transcraniano/",
    "/cursos/anestesia-regional-aplicada-a-medicina-de-emergencia/",
-   "/cursos/pos-graduacao-lato-sensu-em-histeroscopia-cirurgica-dra-carolina-bandeira/",
-   "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dra-keila-matos/",
    "/cursos/tratamento-cirurgico-da-paralisia-facial/",
    "/cursos/intervencao-e-manejo-das-cefaleias-2/",
    "/cursos/ressonancia-magnetica-da-mama/",
@@ -3261,10 +3257,8 @@
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-ultraclinica/",
    "/cursos/fellowship-em-intervencao-em-dor-dr-pedro-ferro-dra-sandra-santos/",
    "/cursos/fellowship-em-cirurgia-ginecologica-minimamente-invasiva-dra-juliane-castro/",
-   "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial/",
    "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dr-helmut-poti/",
    "/cursos/pos-graduacao-em-terapia-intensiva-dr-andrei-leonardo/",
-   "/cursos/pos-graduacao-lato-sensu-em-medicina-do-esporte-dr-rodrigo-sasson/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-aplicada-a-anestesiologia/",
    "/cursos/pos-graduacao-lato-sensu-em-andrologia/",
    "/cursos/pos-graduacao-lato-sensu-em-patologias-obstetricas-e-pre-natal-de-alto-risco/",
@@ -3301,9 +3295,7 @@
    "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-e-estetica-ambulatorial/",
    "/cursos/pos-graduacao-ultrassonografia-geral-mossoro-rn/",
    "/cursos/pos-graduacao-ultrassonografia-da-mulher-irece-ba/",
-   "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-dra-cintia-barros/",
    "/cursos/fellowship-em-ecocardiografia-dra-isabela-nobre/",
-   "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
    "/cursos/fellowship-em-ecocardiografia-congenita-dr-edmundo-camara/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-luis-fabrini/",
    "/cursos/pos-graduacao-lato-sensu-em-obesidade-emagrecimento-e-terapias-glp-1/",
@@ -3346,9 +3338,17 @@
    "/cursos/pos-graduacao-lato-sensu-em-ressonancia-magnetica-da-pelve-2/",
    "/cursos/pos-graduacao-lato-sensu-em-procedimentos-guiados-por-ultrassonografia/",
    "/cursos/pos-graduacao-lato-sensu-em-longevidade-feminina-climaterio-saude-metabolica-e-prevencao-na-mulher/",
-   "/cursos/medicina-canabinoide-pratica-clinica-e-prescricao/"
+   "/cursos/medicina-canabinoide-pratica-clinica-e-prescricao/",
+   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-danielly-sombra/",
+   "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-dra-cintia-barros/",
+   "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial-drs-pedro-conelian-e-fernanda-antoniolli/",
+   "/cursos/pos-graduacao-lato-sensu-em-medicina-do-esporte-dr-rodrigo-sasson/",
+   "/cursos/pos-graduacao-lato-sensu-em-histeroscopia-cirurgica-dra-carolina-bandeira/",
+   "/cursos/fellowship-em-pediatria-clinica-e-ambulatorial/",
+   "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dra-keila-matos/",
+   "/cursos/pos-graduacao-lato-sensu-em-psiquiatria-clinica-dr-andre-tavares/"
   ],
-  "_rodizio": 105
+  "_rodizio": 125
  },
  "falhas": {}
 }
