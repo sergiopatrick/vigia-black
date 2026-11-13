@@ -3206,10 +3206,8 @@
    "/cursos/ecocardiografia/",
    "/cursos/doppler-transcraniano/",
    "/cursos/anestesia-regional-aplicada-a-medicina-de-emergencia/",
-   "/cursos/pos-graduacao-lato-sensu-em-longevidade-feminina-climaterio-saude-metabolica-e-prevencao-na-mulher/",
    "/cursos/pos-graduacao-lato-sensu-em-histeroscopia-cirurgica-dra-carolina-bandeira/",
    "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dra-keila-matos/",
-   "/cursos/medicina-canabinoide-pratica-clinica-e-prescricao/",
    "/cursos/tratamento-cirurgico-da-paralisia-facial/",
    "/cursos/intervencao-e-manejo-das-cefaleias-2/",
    "/cursos/ressonancia-magnetica-da-mama/",
@@ -3346,9 +3344,11 @@
    "/cursos/fellowship-ultrassonografia-ginecologica-avancada-multimed/",
    "/cursos/fellowship-em-ultrassonografia-pediatrica-dr-max-mendonca/",
    "/cursos/pos-graduacao-lato-sensu-em-ressonancia-magnetica-da-pelve-2/",
-   "/cursos/pos-graduacao-lato-sensu-em-procedimentos-guiados-por-ultrassonografia/"
+   "/cursos/pos-graduacao-lato-sensu-em-procedimentos-guiados-por-ultrassonografia/",
+   "/cursos/pos-graduacao-lato-sensu-em-longevidade-feminina-climaterio-saude-metabolica-e-prevencao-na-mulher/",
+   "/cursos/medicina-canabinoide-pratica-clinica-e-prescricao/"
   ],
-  "_rodizio": 85
+  "_rodizio": 105
  },
  "falhas": {}
 }
