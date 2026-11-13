@@ -3318,7 +3318,6 @@
    "/cursos/fellowship-ultrassonografia-musculoesqueletica-pelotas/",
    "/cursos/fellowship-em-intervencao-em-dor-drs-raimundo-junior-e-juliana-prado/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-danillo-loula-e-clinica-regional/",
-   "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica/",
    "/cursos/pos-graduacao-lato-sensu-em-dermatologia-pediatrica-online/",
    "/cursos/pos-graduacao-lato-sensu-em-ecografia-vascular-com-doppler/",
    "/cursos/ultrassonografia-obstetrica-morfologica-de-2-trimestre-dra-christine-rondon/",
@@ -3346,9 +3345,10 @@
    "/cursos/fellowship-em-ultrassonografia-obstetrica-dra-rosy-ane/",
    "/cursos/fellowship-ecocardiografia-fetal-joao-pessoa/",
    "/cursos/pocus-em-nefrologia-e-vexus/",
-   "/cursos/fellowship-em-ecocardiografia-cardion/"
+   "/cursos/fellowship-em-ecocardiografia-cardion/",
+   "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica/"
   ],
-  "_rodizio": 454
+  "_rodizio": 25
  },
  "falhas": {}
 }
