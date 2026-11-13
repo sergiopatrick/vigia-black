@@ -3177,7 +3177,6 @@
    "/cursos/pos-graduacao-psiquiatria-clinica/",
    "/cursos/pos-graduacao-medicina-do-trabalho/",
    "/cursos/pos-graduacao-pneumologia-clinica-funcao-pulmonar/",
-   "/cursos/pos-graduacao-pet-ct/",
    "/cursos/pos-graduacao-lato-sensu-em-cardiointensivismo/",
    "/cursos/histeroscopia-avancada-laser-sistema-chroma-e-mini-ressectoscopio/",
    "/cursos/pos-graduacao-lato-sensu-em-colposcopia-e-ptgi/",
@@ -3322,7 +3321,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-ecografia-vascular-com-doppler/",
    "/cursos/ultrassonografia-obstetrica-morfologica-de-2-trimestre-dra-christine-rondon/",
    "/cursos/pos-graduacao-lato-sensu-em-alergia-e-imunologia/",
-   "/cursos/pos-graduacao-ultrassonografia-geral-patos-pb/",
    "/cursos/fellowship-em-artroscopia-de-quadril-dr-marcelo-morozowski/",
    "/cursos/pos-graduacao-lato-sensu-em-reumatologia/",
    "/cursos/pos-graduacao-ultrassonografia-pediatrica-salvador/",
@@ -3346,9 +3344,10 @@
    "/cursos/fellowship-ecocardiografia-fetal-joao-pessoa/",
    "/cursos/pocus-em-nefrologia-e-vexus/",
    "/cursos/fellowship-em-ecocardiografia-cardion/",
-   "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica/"
+   "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica/",
+   "/cursos/pos-graduacao-ultrassonografia-geral-patos-pb/"
   ],
-  "_rodizio": 25
+  "_rodizio": 45
  },
  "falhas": {}
 }
