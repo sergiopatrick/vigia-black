@@ -1788,7 +1788,8 @@
    "cta": true,
    "form": true,
    "gtm": true,
-   "index": true
+   "index": true,
+   "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-ginecologia-endocrina-e-reprodutiva/": {
    "cta": true,
@@ -3347,7 +3348,7 @@
    "/cursos/translucencia-nucal/",
    "/cursos/calculos-hemodinamicos-em-ecocardiografia/"
   ],
-  "_rodizio": 465
+  "_rodizio": 37
  },
  "falhas": {}
 }
