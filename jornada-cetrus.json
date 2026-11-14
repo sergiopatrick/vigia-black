@@ -1965,6 +1965,13 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-ressonancia-magnetica-da-pelve-2/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-ressonancia-magnetica-musculoesqueletica/": {
    "cta": true,
    "form": true,
@@ -3348,7 +3355,7 @@
    "/cursos/translucencia-nucal/",
    "/cursos/calculos-hemodinamicos-em-ecocardiografia/"
   ],
-  "_rodizio": 137
+  "_rodizio": 157
  },
  "falhas": {}
 }
