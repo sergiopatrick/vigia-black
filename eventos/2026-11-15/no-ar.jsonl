@@ -253,3 +253,9 @@
 {"ts": "2026-11-15T04:10:24-03:00", "tipo": "no-ar", "site": "cetrus", "url": "https://cetrus.com.br/", "ok": true, "s": 3.3}
 {"ts": "2026-11-15T04:10:30-03:00", "tipo": "no-ar", "site": "cetrus", "url": "https://cetrus.com.br/vitrine/", "ok": true, "s": 3.2}
 {"ts": "2026-11-15T04:10:35-03:00", "tipo": "no-ar", "site": "checkout", "ok": true}
+{"ts": "2026-11-15T04:15:22-03:00", "tipo": "no-ar", "site": "pos", "url": "https://pos.sanar.com.br/", "ok": true, "s": 1.9}
+{"ts": "2026-11-15T04:15:27-03:00", "tipo": "no-ar", "site": "pos", "url": "https://pos.sanar.com.br/cursos/", "ok": true, "s": 2.1}
+{"ts": "2026-11-15T04:15:33-03:00", "tipo": "no-ar", "site": "cetrus", "url": "https://cetrus.com.br/", "ok": true, "s": 2.9}
+{"ts": "2026-11-15T04:15:39-03:00", "tipo": "no-ar", "site": "cetrus", "url": "https://cetrus.com.br/vitrine/", "ok": true, "s": 3.1}
+{"ts": "2026-11-15T04:15:43-03:00", "tipo": "no-ar", "site": "checkout", "ok": true}
+{"ts": "2026-11-15T04:15:43-03:00", "tipo": "oscilacao", "id": "pos|no-ar|/", "msg": "/ respondeu 429"}
