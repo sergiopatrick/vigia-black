@@ -3212,7 +3212,6 @@
    "/cursos/fellowship-em-ecocardiografia-drs-alvaro-santana-e-railson-brandao/",
    "/cursos/fellowship-em-ecocardiografia-dr-jarbas-marques-aracaju-se/",
    "/cursos/fellowship-em-ultrassonografia-ginecologica-avancada-endometriose-e-hycosy-dra-maria-capriglione/",
-   "/cursos/pos-graduacao-ultrassonografia-da-mulher-irece-ba/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-ultra-radiologia/",
    "/cursos/pos-graduacao-ultrassonografia-pediatrica-salvador/",
    "/cursos/ecocardiografia-avancada-i-patologias/",
@@ -3353,9 +3352,10 @@
    "/cursos/formacao-avancada-em-ecocardiografia-transesofagica-e-3d/",
    "/cursos/formacao-avancada-em-ultrassonografia-urologica/",
    "/cursos/translucencia-nucal/",
-   "/cursos/calculos-hemodinamicos-em-ecocardiografia/"
+   "/cursos/calculos-hemodinamicos-em-ecocardiografia/",
+   "/cursos/pos-graduacao-ultrassonografia-da-mulher-irece-ba/"
   ],
-  "_rodizio": 121
+  "_rodizio": 141
  },
  "falhas": {}
 }
