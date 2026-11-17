@@ -3238,7 +3238,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-dermatologia-pediatrica-online/",
    "/cursos/pos-graduacao-lato-sensu-em-cardiologia-pediatrica-online/",
    "/cursos/pos-graduacao-em-psiquiatria-da-infancia-e-adolescencia-sanar/",
-   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-adriana-melo-dr-hugo-cesar/",
    "/cursos/pos-graduacao-reproducao-humana-assistida/",
    "/cursos/pos-graduacao-lato-sensu-em-psiquiatria-clinica-dr-andre-tavares/",
    "/cursos/pos-graduacao-lato-sensu-em-histeroscopia-cirurgica-ambulatorial-dra-veruska-amaral/",
@@ -3271,7 +3270,6 @@
    "/cursos/fellowship-em-ecocardiografia-dra-mariana-jabur/",
    "/cursos/fellowship-em-ecocardiografia-dra-isabela-nobre/",
    "/cursos/fellowship-em-ecocardiografia-dr-fellipe-lima/",
-   "/cursos/fellowship-em-ecocardiografia-fetal-cardio-crianca/",
    "/cursos/fellowship-em-ecocardiografia-cardion/",
    "/cursos/fellowship-colonoscopia-diagnostica-gastrocenter/",
    "/cursos/fellowship-em-cirurgia-de-endometriose-profunda-multiorgaos-dr-melisandro-lacerda-e-dr-tarcisio-carneiro/",
@@ -3353,9 +3351,11 @@
    "/cursos/formacao-basica-em-ultrassonografia-para-o-paciente-critico/",
    "/cursos/formacao-em-ultrassonografia-em-ginecologia-e-obstetricia-com-imagem-3d-4d/",
    "/cursos/formacao-em-ultrassonografia-transvaginal/",
-   "/cursos/formacao-em-radiofrequencia-guiada-por-radioscopia/"
+   "/cursos/formacao-em-radiofrequencia-guiada-por-radioscopia/",
+   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-adriana-melo-dr-hugo-cesar/",
+   "/cursos/fellowship-em-ecocardiografia-fetal-cardio-crianca/"
   ],
-  "_rodizio": 173
+  "_rodizio": 193
  },
  "falhas": {}
 }
