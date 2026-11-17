@@ -2990,7 +2990,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-reumatologia/",
    "/cursos/pos-graduacao-lato-sensu-em-ressonancia-magnetica-da-pelve-2/",
    "/cursos/pos-graduacao-psiquiatria-clinica/",
-   "/cursos/pos-graduacao-lato-sensu-em-procedimentos-guiados-por-ultrassonografia/",
    "/cursos/pos-graduacao-pneumologia-clinica-funcao-pulmonar/",
    "/cursos/pos-graduacao-pediatria-ambulatorial-puericultura/",
    "/cursos/capacitacao-em-doppler-peniano-com-farmaco-inducao/",
@@ -3170,7 +3169,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-marcio-brandao/",
    "/cursos/pos-graduacao-ultrassonografia-geral-mossoro-rn/",
    "/cursos/sedacao-com-oxido-nitroso-para-procedimentos-medicos-ambulatoriais/",
-   "/cursos/terapia-hormonal-na-menopausa-da-ciencia-a-pratica-clinica/",
    "/cursos/ecocardiografia-tridimensional/",
    "/cursos/bloqueios-para-dor-pelvica-guiados-por-ultrassom/",
    "/cursos/retalhos-microcirurgicos-de-membro-superior-em-cadaver-fresh-frozen/",
@@ -3353,9 +3351,12 @@
    "/cursos/formacao-em-ultrassonografia-transvaginal/",
    "/cursos/formacao-em-radiofrequencia-guiada-por-radioscopia/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-adriana-melo-dr-hugo-cesar/",
-   "/cursos/fellowship-em-ecocardiografia-fetal-cardio-crianca/"
+   "/cursos/fellowship-em-ecocardiografia-fetal-cardio-crianca/",
+   "/cursos/pos-graduacao-lato-sensu-em-ginecologia-endocrina-e-reprodutiva-dras-carolina-andrade-e-rayana-campos/",
+   "/cursos/terapia-hormonal-na-menopausa-da-ciencia-a-pratica-clinica/",
+   "/cursos/pos-graduacao-lato-sensu-em-procedimentos-guiados-por-ultrassonografia/"
   ],
-  "_rodizio": 253
+  "_rodizio": 273
  },
  "falhas": {}
 }
