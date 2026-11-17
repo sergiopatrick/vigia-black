@@ -3356,7 +3356,16 @@
    "/cursos/terapia-hormonal-na-menopausa-da-ciencia-a-pratica-clinica/",
    "/cursos/pos-graduacao-lato-sensu-em-procedimentos-guiados-por-ultrassonografia/"
   ],
-  "_rodizio": 293
+  "_rodizio": 313
  },
- "falhas": {}
+ "falhas": {
+  "cetrus|robo-bloqueado": {
+   "alertado": true,
+   "desde": "2026-11-17T17:15:46-03:00",
+   "desde_s": 1794946546.9580348,
+   "msg": "O robô foi barrado pelo WordPress.com em 12 páginas, os testes desta hora ficaram cegos",
+   "ultimo_alerta": 1794946546.9580348,
+   "vezes": 1
+  }
+ }
 }
