@@ -3244,7 +3244,6 @@
    "/cursos/pos-graduacao-reproducao-humana-assistida/",
    "/cursos/pos-graduacao-lato-sensu-em-psiquiatria-clinica-dr-andre-tavares/",
    "/cursos/pos-graduacao-lato-sensu-em-histeroscopia-cirurgica-ambulatorial-dra-veruska-amaral/",
-   "/cursos/pos-graduacao-histeroscopia-cirurgica-joao-pessoa/",
    "/cursos/pos-graduacao-lato-sensu-em-medicina-do-esporte-dr-rodrigo-sasson/",
    "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica-dras-ilena-budel-e-rhuana-malanche/",
    "/cursos/pos-graduacao-lato-sensu-em-histeroscopia-cirurgica-dra-carolina-bandeira/",
@@ -3274,7 +3273,6 @@
    "/cursos/fellowship-em-ecocardiografia-dra-isabela-nobre/",
    "/cursos/fellowship-em-ecocardiografia-cardion/",
    "/cursos/fellowship-colonoscopia-diagnostica-gastrocenter/",
-   "/cursos/fellowship-em-cirurgia-de-endometriose-profunda-multiorgaos-dr-melisandro-lacerda-e-dr-tarcisio-carneiro/",
    "/cursos/fellowship-em-artroscopia-de-quadril-dr-marcelo-morozowski/",
    "/cursos/fellowship-em-cirurgia-de-catarata-hoftalon/",
    "/cursos/fellowship-em-artroscopia-de-quadril-dr-davi-veiga/",
@@ -3360,9 +3358,10 @@
    "/cursos/terapia-hormonal-na-menopausa-da-ciencia-a-pratica-clinica/",
    "/cursos/fellowship-em-ecocardiografia-dr-fellipe-lima/",
    "/cursos/intervencao-e-manejo-das-cefaleias-2/",
-   "/cursos/pos-graduacao-lato-sensu-em-procedimentos-guiados-por-ultrassonografia/"
+   "/cursos/pos-graduacao-lato-sensu-em-procedimentos-guiados-por-ultrassonografia/",
+   "/cursos/fellowship-em-cirurgia-de-endometriose-profunda-multiorgaos-dr-melisandro-lacerda-e-dr-tarcisio-carneiro/"
   ],
-  "_rodizio": 204
+  "_rodizio": 224
  },
  "falhas": {}
 }
