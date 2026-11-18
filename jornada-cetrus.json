@@ -3072,7 +3072,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-lairton-do-monte/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-gigliane-rezende/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-edna-cristina-padula-castro-prieto/",
-   "/cursos/intervencao-e-manejo-das-cefaleias-2/",
    "/cursos/ecocardiografia-pediatrica/",
    "/cursos/pratica-em-ultrassonografia-transvaginal-e-pelvica/",
    "/cursos/fellowship-em-ultrassonografia-geral-dr-amauri-brandao/",
@@ -3360,9 +3359,10 @@
    "/cursos/pos-graduacao-lato-sensu-em-ginecologia-endocrina-e-reprodutiva-dras-carolina-andrade-e-rayana-campos/",
    "/cursos/terapia-hormonal-na-menopausa-da-ciencia-a-pratica-clinica/",
    "/cursos/pos-graduacao-lato-sensu-em-procedimentos-guiados-por-ultrassonografia/",
-   "/cursos/fellowship-em-ecocardiografia-dr-fellipe-lima/"
+   "/cursos/fellowship-em-ecocardiografia-dr-fellipe-lima/",
+   "/cursos/intervencao-e-manejo-das-cefaleias-2/"
   ],
-  "_rodizio": 453
+  "_rodizio": 24
  },
  "falhas": {}
 }
