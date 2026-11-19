@@ -1242,7 +1242,7 @@
   },
   "/cursos/intervencoes-na-mama-guiadas-por-ultrassonografia/": {
    "cta": true,
-   "form": false,
+   "form": true,
    "gtm": true,
    "index": true
   },
@@ -2508,7 +2508,7 @@
   },
   "/cursos/ressonancia-magnetica-da-mama/": {
    "cta": true,
-   "form": false,
+   "form": true,
    "gtm": true,
    "index": true
   },
@@ -3361,7 +3361,7 @@
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-edna-cristina-padula-castro-prieto/",
    "/cursos/fellowship-em-ecocardiografia-dra-mariana-jabur/"
   ],
-  "_rodizio": 356
+  "_rodizio": 376
  },
  "falhas": {}
 }
