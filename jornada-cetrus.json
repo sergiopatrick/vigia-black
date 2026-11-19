@@ -3268,7 +3268,6 @@
    "/cursos/fellowship-em-ecocardiografia-clinica-duocor/",
    "/cursos/fellowship-em-ecocardiografia-dra-polyana-brandao/",
    "/cursos/fellowship-em-ecocardiografia-fetal-dr-marcelo-kozak/",
-   "/cursos/fellowship-em-ecocardiografia-dra-mariana-jabur/",
    "/cursos/fellowship-em-ecocardiografia-dra-isabela-nobre/",
    "/cursos/fellowship-em-ecocardiografia-cardion/",
    "/cursos/fellowship-colonoscopia-diagnostica-gastrocenter/",
@@ -3359,9 +3358,10 @@
    "/cursos/intervencao-e-manejo-das-cefaleias-2/",
    "/cursos/pos-graduacao-lato-sensu-em-procedimentos-guiados-por-ultrassonografia/",
    "/cursos/fellowship-em-cirurgia-de-endometriose-profunda-multiorgaos-dr-melisandro-lacerda-e-dr-tarcisio-carneiro/",
-   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-edna-cristina-padula-castro-prieto/"
+   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-edna-cristina-padula-castro-prieto/",
+   "/cursos/fellowship-em-ecocardiografia-dra-mariana-jabur/"
   ],
-  "_rodizio": 196
+  "_rodizio": 216
  },
  "falhas": {}
 }
