@@ -1,4 +1,12 @@
 {
  "base": {},
- "falhas": {}
+ "falhas": {
+  "pos|no-ar|/": {
+   "alertado": false,
+   "desde": "2026-11-19T21:10:35-03:00",
+   "desde_s": 1795133435.9902925,
+   "msg": "Site com erro 504 em /",
+   "vezes": 1
+  }
+ }
 }
