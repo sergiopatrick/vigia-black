@@ -3361,7 +3361,7 @@
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-edna-cristina-padula-castro-prieto/",
    "/cursos/fellowship-em-ecocardiografia-dra-mariana-jabur/"
   ],
-  "_rodizio": 300
+  "_rodizio": 320
  },
  "falhas": {
   "cetrus|/|formulario": {
@@ -3370,7 +3370,7 @@
    "desde_s": 1795249591.693872,
    "msg": "Formulário de contato sumiu da página",
    "ultimo_alerta": 1795267418.2718637,
-   "vezes": 6
+   "vezes": 7
   }
  }
 }
