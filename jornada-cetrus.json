@@ -2918,7 +2918,6 @@
    "index": true
   },
   "_cursos": [
-   "/cursos/ultrassonografia-musculoesqueletica/",
    "/cursos/ultrassonografia-mamaria/",
    "/cursos/fellowship-em-ultrassonografia-dermatologica-dr-estevao-vargas/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-clinica-medmais/",
@@ -3366,9 +3365,10 @@
    "/cursos/fellowship-em-ecocardiografia-dra-mariana-jabur/",
    "/cursos/pos-graduacao-histeroscopia-cirurgica-porto-alegre/",
    "/cursos/pos-graduacao-ultrassonografia-geral-mossoro-rn/",
-   "/cursos/fellowship-em-ecocardiografia-fetal-cardio-crianca/"
+   "/cursos/fellowship-em-ecocardiografia-fetal-cardio-crianca/",
+   "/cursos/ultrassonografia-musculoesqueletica/"
   ],
-  "_rodizio": 35
+  "_rodizio": 55
  },
  "falhas": {
   "cetrus|/|cta": {
@@ -3377,7 +3377,7 @@
    "desde_s": 1795440088.6198936,
    "msg": "Botão de matrícula ou inscrição sumiu",
    "ultimo_alerta": 1795458131.7934723,
-   "vezes": 7
+   "vezes": 8
   }
  }
 }
