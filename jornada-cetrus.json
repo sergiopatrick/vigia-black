@@ -3362,7 +3362,16 @@
    "/cursos/fellowship-em-ecocardiografia-dra-mariana-jabur/",
    "/cursos/pos-graduacao-histeroscopia-cirurgica-porto-alegre/"
   ],
-  "_rodizio": 344
+  "_rodizio": 364
  },
- "falhas": {}
+ "falhas": {
+  "cetrus|/|cta": {
+   "alertado": true,
+   "desde": "2026-11-23T10:21:28-03:00",
+   "desde_s": 1795440088.6198936,
+   "msg": "Botão de matrícula ou inscrição sumiu",
+   "ultimo_alerta": 1795440088.6198936,
+   "vezes": 1
+  }
+ }
 }
