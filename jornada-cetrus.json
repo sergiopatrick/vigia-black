@@ -3171,7 +3171,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-danielly-sombra/",
    "/cursos/pos-graduacao-ultrassonografia-geral-patos-pb/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-marcio-brandao/",
-   "/cursos/pos-graduacao-ultrassonografia-geral-mossoro-rn/",
    "/cursos/sedacao-com-oxido-nitroso-para-procedimentos-medicos-ambulatoriais/",
    "/cursos/ecocardiografia-tridimensional/",
    "/cursos/bloqueios-para-dor-pelvica-guiados-por-ultrassom/",
@@ -3360,9 +3359,10 @@
    "/cursos/fellowship-em-cirurgia-de-endometriose-profunda-multiorgaos-dr-melisandro-lacerda-e-dr-tarcisio-carneiro/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-edna-cristina-padula-castro-prieto/",
    "/cursos/fellowship-em-ecocardiografia-dra-mariana-jabur/",
-   "/cursos/pos-graduacao-histeroscopia-cirurgica-porto-alegre/"
+   "/cursos/pos-graduacao-histeroscopia-cirurgica-porto-alegre/",
+   "/cursos/pos-graduacao-ultrassonografia-geral-mossoro-rn/"
   ],
-  "_rodizio": 384
+  "_rodizio": 404
  },
  "falhas": {
   "cetrus|/|cta": {
@@ -3370,8 +3370,8 @@
    "desde": "2026-11-23T10:21:28-03:00",
    "desde_s": 1795440088.6198936,
    "msg": "Botão de matrícula ou inscrição sumiu",
-   "ultimo_alerta": 1795440088.6198936,
-   "vezes": 2
+   "ultimo_alerta": 1795447422.8758516,
+   "vezes": 3
   }
  }
 }
