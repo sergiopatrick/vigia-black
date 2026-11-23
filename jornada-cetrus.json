@@ -3350,7 +3350,6 @@
    "/cursos/formacao-em-ultrassonografia-transvaginal/",
    "/cursos/formacao-em-radiofrequencia-guiada-por-radioscopia/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-adriana-melo-dr-hugo-cesar/",
-   "/cursos/fellowship-em-ecocardiografia-fetal-cardio-crianca/",
    "/cursos/pos-graduacao-lato-sensu-em-ginecologia-endocrina-e-reprodutiva-dras-carolina-andrade-e-rayana-campos/",
    "/cursos/terapia-hormonal-na-menopausa-da-ciencia-a-pratica-clinica/",
    "/cursos/fellowship-em-ecocardiografia-dr-fellipe-lima/",
@@ -3360,9 +3359,10 @@
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-edna-cristina-padula-castro-prieto/",
    "/cursos/fellowship-em-ecocardiografia-dra-mariana-jabur/",
    "/cursos/pos-graduacao-histeroscopia-cirurgica-porto-alegre/",
-   "/cursos/pos-graduacao-ultrassonografia-geral-mossoro-rn/"
+   "/cursos/pos-graduacao-ultrassonografia-geral-mossoro-rn/",
+   "/cursos/fellowship-em-ecocardiografia-fetal-cardio-crianca/"
   ],
-  "_rodizio": 404
+  "_rodizio": 424
  },
  "falhas": {
   "cetrus|/|cta": {
@@ -3371,7 +3371,7 @@
    "desde_s": 1795440088.6198936,
    "msg": "Botão de matrícula ou inscrição sumiu",
    "ultimo_alerta": 1795447422.8758516,
-   "vezes": 3
+   "vezes": 4
   }
  }
 }
