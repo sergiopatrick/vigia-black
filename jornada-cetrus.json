@@ -3368,7 +3368,7 @@
    "/cursos/pos-graduacao-ultrassonografia-geral-mossoro-rn/",
    "/cursos/fellowship-em-ecocardiografia-fetal-cardio-crianca/"
   ],
-  "_rodizio": 464
+  "_rodizio": 35
  },
  "falhas": {
   "cetrus|/|cta": {
@@ -3377,7 +3377,7 @@
    "desde_s": 1795440088.6198936,
    "msg": "Botão de matrícula ou inscrição sumiu",
    "ultimo_alerta": 1795458131.7934723,
-   "vezes": 6
+   "vezes": 7
   }
  }
 }
