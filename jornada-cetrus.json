@@ -3212,7 +3212,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-endocrinologia/",
    "/cursos/pos-graduacao-lato-sensu-em-medicina-da-dor/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-em-emergencias-e-uti-point-of-care/",
-   "/cursos/pos-graduacao-em-pediatria-sanar/",
    "/cursos/pos-graduacao-lato-sensu-em-alergia-e-imunologia-pediatrica-online/",
    "/cursos/pos-graduacao-em-medicina-do-esporte-sanar/",
    "/cursos/pos-graduacao-lato-sensu-em-us-ginecologica-avancada-e-endometriose/",
@@ -3283,13 +3282,11 @@
    "/cursos/ressonancia-magnetica-da-mama/",
    "/cursos/pocus-em-nefrologia-e-vexus/",
    "/cursos/intervencoes-na-mama-guiadas-por-ultrassonografia/",
-   "/cursos/medicina-canabinoide-pratica-clinica-e-prescricao/",
    "/cursos/histeroscopia-avancada-laser-sistema-chroma-e-mini-ressectoscopio/",
    "/cursos/capacitacao-imersiva-em-ecmo/",
    "/cursos/emergencias-obstetricas/",
    "/cursos/preparatorio-prova-de-titulo-em-ortopedia-e-traumatologia-2a-fase/",
    "/cursos/artroscopia-basica-de-ombro-com-treinamento-em-cadaver-fresh-frozen/",
-   "/cursos/artroscopia-de-quadril-com-treinamento-em-cadaver-fresh-frozen/",
    "/cursos/artroscopia-basica-de-joelho-com-treinamento-em-cadaver-fresh-frozen/",
    "/cursos/estudo-ultrassonografico-das-hernias-abdominais/",
    "/cursos/bi-rads/",
@@ -3366,9 +3363,12 @@
    "/cursos/fellowship-em-ecocardiografia-fetal-cardio-crianca/",
    "/cursos/ultrassonografia-musculoesqueletica/",
    "/cursos/pos-graduacao-em-mba-medicina-e-negocios-sanar/",
-   "/cursos/pos-graduacao-ultrassonografia-geral-mossoro-rn/"
+   "/cursos/pos-graduacao-ultrassonografia-geral-mossoro-rn/",
+   "/cursos/artroscopia-de-quadril-com-treinamento-em-cadaver-fresh-frozen/",
+   "/cursos/medicina-canabinoide-pratica-clinica-e-prescricao/",
+   "/cursos/pos-graduacao-em-pediatria-sanar/"
   ],
-  "_rodizio": 395
+  "_rodizio": 415
  },
  "falhas": {
   "cetrus|/cursos/pos-graduacao-lato-sensu-em-ressonancia-magnetica-da-pelve-2/|abre": {
@@ -3393,14 +3393,6 @@
    "desde_s": 1795472498.0475745,
    "msg": "Página fora do ar, respondeu 429",
    "ultimo_alerta": 1795472498.0475745,
-   "vezes": 1
-  },
-  "cetrus|/|cta": {
-   "alertado": true,
-   "desde": "2026-11-23T22:21:47-03:00",
-   "desde_s": 1795483307.6700003,
-   "msg": "Botão de matrícula ou inscrição sumiu",
-   "ultimo_alerta": 1795483307.6700003,
    "vezes": 1
   }
  }
