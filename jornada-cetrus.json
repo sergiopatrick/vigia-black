@@ -3239,7 +3239,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-cardiointensivismo-pediatrico/",
    "/cursos/pos-graduacao-lato-sensu-em-tomografia-e-ressonancia-em-abdomen-e-torax/",
    "/cursos/pos-graduacao-lato-sensu-em-pneumologia-pediatrica-online/",
-   "/cursos/pos-graduacao-em-mba-medicina-e-negocios-sanar/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-aplicada-a-anestesiologia/",
    "/cursos/pos-graduacao-lato-sensu-em-dermatologia-pediatrica-online/",
    "/cursos/pos-graduacao-lato-sensu-em-cardiologia-pediatrica-online/",
@@ -3364,11 +3363,12 @@
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-edna-cristina-padula-castro-prieto/",
    "/cursos/fellowship-em-ecocardiografia-dra-mariana-jabur/",
    "/cursos/pos-graduacao-histeroscopia-cirurgica-porto-alegre/",
-   "/cursos/pos-graduacao-ultrassonografia-geral-mossoro-rn/",
    "/cursos/fellowship-em-ecocardiografia-fetal-cardio-crianca/",
-   "/cursos/ultrassonografia-musculoesqueletica/"
+   "/cursos/ultrassonografia-musculoesqueletica/",
+   "/cursos/pos-graduacao-em-mba-medicina-e-negocios-sanar/",
+   "/cursos/pos-graduacao-ultrassonografia-geral-mossoro-rn/"
   ],
-  "_rodizio": 375
+  "_rodizio": 395
  },
  "falhas": {
   "cetrus|/cursos/pos-graduacao-lato-sensu-em-ressonancia-magnetica-da-pelve-2/|abre": {
