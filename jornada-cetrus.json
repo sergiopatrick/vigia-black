@@ -1,7 +1,7 @@
 {
  "base": {
   "/": {
-   "cta": true,
+   "cta": false,
    "form": false,
    "gtm": true,
    "index": true
@@ -3368,7 +3368,7 @@
    "/cursos/fellowship-em-ecocardiografia-fetal-cardio-crianca/",
    "/cursos/ultrassonografia-musculoesqueletica/"
   ],
-  "_rodizio": 135
+  "_rodizio": 155
  },
  "falhas": {
   "cetrus|/cursos/pos-graduacao-lato-sensu-em-ressonancia-magnetica-da-pelve-2/|abre": {
@@ -3389,11 +3389,11 @@
   },
   "cetrus|/|cta": {
    "alertado": true,
-   "desde": "2026-11-23T10:21:28-03:00",
-   "desde_s": 1795440088.6198936,
+   "desde": "2026-11-23T22:21:47-03:00",
+   "desde_s": 1795483307.6700003,
    "msg": "Botão de matrícula ou inscrição sumiu",
-   "ultimo_alerta": 1795479790.7103841,
-   "vezes": 12
+   "ultimo_alerta": 1795483307.6700003,
+   "vezes": 1
   }
  }
 }
