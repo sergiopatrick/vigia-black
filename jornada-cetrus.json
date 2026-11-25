@@ -3368,7 +3368,16 @@
    "/cursos/fellowship-em-terapia-intensiva-dr-paulo-gottardo/",
    "/cursos/pos-graduacao-lato-sensu-em-histeroscopia-cirurgica-ambulatorial-dra-veruska-amaral/"
   ],
-  "_rodizio": 57
+  "_rodizio": 77
  },
- "falhas": {}
+ "falhas": {
+  "cetrus|robo-bloqueado": {
+   "alertado": true,
+   "desde": "2026-11-25T15:21:25-03:00",
+   "desde_s": 1795630885.3582637,
+   "msg": "O robô foi barrado pelo WordPress.com em 17 páginas, os testes desta hora ficaram cegos",
+   "ultimo_alerta": 1795630885.3582637,
+   "vezes": 1
+  }
+ }
 }
