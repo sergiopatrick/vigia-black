@@ -3196,7 +3196,6 @@
    "/cursos/histeroscopia/",
    "/cursos/implantes-hormonais-subcutaneos-teoria-e-pratica/",
    "/cursos/infiltracao-as-cegas-do-aparelho-locomotor/",
-   "/cursos/infiltracao-da-coluna-guiada-por-ultrassom/",
    "/cursos/insercao-de-diu-e-implante-subdermico/",
    "/cursos/fellowship-em-cosmiatria-dra-talita-siqueira/",
    "/cursos/medicina-canabinoide-pratica-clinica-e-prescricao/",
@@ -3255,7 +3254,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-dermatologia-clinica-e-estetica-basica-dr-gilvan-alves-e-clinica-aepit/",
    "/cursos/pos-graduacao-lato-sensu-em-ecocardiografia/",
    "/cursos/pos-graduacao-lato-sensu-em-endoscopia-de-coluna/",
-   "/cursos/pos-graduacao-lato-sensu-em-endocrinologia/",
    "/cursos/pos-graduacao-lato-sensu-em-endoscopia-digestiva-alta-diagnostica/",
    "/cursos/pos-graduacao-lato-sensu-em-ginecologia-clinica/",
    "/cursos/pos-graduacao-lato-sensu-em-ginecologia-avancada-e-procedimentos/",
@@ -3280,7 +3278,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-ressonancia-magnetica-musculoesqueletica/",
    "/cursos/pos-graduacao-lato-sensu-em-terapia-intensiva-dr-bruno-leite/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-dermatologica/",
-   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-em-emergencias-e-uti-point-of-care/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-em-reumatologia/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-fredrico-veloso-e-clinica-sao-miguel/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dra-adriana-melo-dr-hugo-cesar/",
@@ -3336,7 +3333,6 @@
    "/cursos/ultrassonografia-ocular/",
    "/cursos/ultrassonografia-para-hepatologistas/",
    "/cursos/ultrassonografia-para-mapeamento-de-lipedema/",
-   "/cursos/ultrassonografia-point-of-care-em-emergencia-e-uti/",
    "/cursos/ultrassonografia-point-of-care-neonatal/",
    "/cursos/ultrassonografia-prostatica-com-biopsia-transretal/",
    "/cursos/ultrassonografia-transvaginal-para-pesquisa-de-endometriose/",
@@ -3366,9 +3362,13 @@
    "/cursos/pos-graduacao-lato-sensu-ecocardiografia-fetal/",
    "/cursos/programa-de-monitoria-em-ultrassonografia-geral/",
    "/cursos/fellowship-em-terapia-intensiva-dr-paulo-gottardo/",
-   "/cursos/pos-graduacao-lato-sensu-em-histeroscopia-cirurgica-ambulatorial-dra-veruska-amaral/"
+   "/cursos/pos-graduacao-lato-sensu-em-histeroscopia-cirurgica-ambulatorial-dra-veruska-amaral/",
+   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-em-emergencias-e-uti-point-of-care/",
+   "/cursos/ultrassonografia-point-of-care-em-emergencia-e-uti/",
+   "/cursos/infiltracao-da-coluna-guiada-por-ultrassom/",
+   "/cursos/pos-graduacao-lato-sensu-em-endocrinologia/"
   ],
-  "_rodizio": 117
+  "_rodizio": 137
  },
  "falhas": {}
 }
