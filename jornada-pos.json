@@ -363,17 +363,7 @@
    "valor": true
   },
   "_cursos": [
-   "/pos-graduacao-em-medicina-de-emergencia-a/",
-   "/pos-graduacao-em-medicina-de-familia-e-comunidade-a/",
-   "/pos-graduacao-em-pediatria-a/",
-   "/pos-graduacao-em-medicina-do-trabalho-a/",
-   "/pos-graduacao-em-medicina-de-emergencia/",
-   "/pos-graduacao-em-medicina-de-familia-e-comunidade/",
-   "/pos-graduacao-em-medicina-do-trabalho/",
-   "/pos-graduacao-em-pediatria/",
-   "/pos-graduacao-em-neurologia/",
    "/pos-graduacao-em-medicina-do-estilo-de-vida/",
-   "/pos-graduacao-em-neurologia-a/",
    "/pos-graduacao-em-dermatologia/",
    "/pos-graduacao-em-cuidados-paliativos/",
    "/pos-graduacao-em-emergencias-pediatricas/",
@@ -382,13 +372,9 @@
    "/pos-graduacao-em-ginecologia-clinica/",
    "/pos-graduacao-em-medicina-endocanabinoide/",
    "/pos-graduacao-em-medicina-da-dor/",
-   "/pos-graduacao-em-medicina-de-emergencia-b/",
    "/pos-graduacao-em-medicina-do-esporte/",
    "/pos-graduacao-em-medicina-do-sono/",
-   "/pos-graduacao-em-medicina-do-trabalho-b/",
-   "/pos-graduacao-em-neurologia-b/",
    "/pos-graduacao-em-obesidade-e-emagrecimento/",
-   "/pos-graduacao-em-pediatria-b/",
    "/pos-graduacao-em-pericias-medicas/",
    "/pos-graduacao-em-terapia-intensiva/",
    "/pos-graduacao-em-psiquiatria-da-infancia-e-da-adolescencia/",
@@ -399,11 +385,15 @@
    "/curso-analogos-glp-1/",
    "/curso-psicofarmacos/",
    "/gestao-e-empreendedorismo-medico/",
-   "/pos-graduacao-em-medicina-de-familia-e-comunidade-b/",
-   "/pos-graduacao-em-psiquiatria-forense-da-sanar/"
+   "/pos-graduacao-em-psiquiatria-forense-da-sanar/",
+   "/pos-graduacao-em-neurologia/",
+   "/pos-graduacao-em-medicina-de-emergencia/",
+   "/pos-graduacao-em-medicina-de-familia-e-comunidade/",
+   "/pos-graduacao-em-medicina-do-trabalho/",
+   "/pos-graduacao-em-pediatria/"
   ],
-  "_rodizio": 42,
-  "checkout_ref": "https://checkout.cetrus.sanar.com.br/produto?productId=e9502133-219d-4d63-a21b-868aa81979c0&pricingConfigId=65e54d81-2cce-4c4f-942f-0979c6d9b948&utm_source=site-pos&utm_medium=organic&utm_campaign=navegacao-padrao"
+  "_rodizio": 54,
+  "checkout_ref": "https://checkout.cetrus.sanar.com.br/produto?productId=951d27c1-5de6-4b60-8ef8-b76935384be4&pricingConfigId=a900a1e5-61f8-4148-92f0-2f29e7341466&utm_source=site-pos&utm_medium=organic&utm_campaign=navegacao-padrao"
  },
  "falhas": {}
 }
