@@ -1617,6 +1617,13 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-angiologia-e-doenca-vascular-abordagem-clinica-e-preventiva/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true,
+   "turmas": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-cardiointensivismo-pediatrico/": {
    "cta": true,
    "form": true,
@@ -3367,9 +3374,10 @@
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-em-emergencias-e-uti-point-of-care/",
    "/cursos/ultrassonografia-point-of-care-em-emergencia-e-uti/",
    "/cursos/infiltracao-da-coluna-guiada-por-ultrassom/",
-   "/cursos/pos-graduacao-lato-sensu-em-endocrinologia/"
+   "/cursos/pos-graduacao-lato-sensu-em-endocrinologia/",
+   "/cursos/pos-graduacao-lato-sensu-em-angiologia-e-doenca-vascular-abordagem-clinica-e-preventiva/"
   ],
-  "_rodizio": 437
+  "_rodizio": 457
  },
  "falhas": {}
 }
