@@ -1860,7 +1860,8 @@
    "cta": true,
    "form": true,
    "gtm": true,
-   "index": true
+   "index": true,
+   "turmas": true
   },
   "/cursos/pos-graduacao-lato-sensu-em-medicina-da-dor/": {
    "cta": true,
@@ -3368,7 +3369,7 @@
    "/cursos/infiltracao-da-coluna-guiada-por-ultrassom/",
    "/cursos/pos-graduacao-lato-sensu-em-endocrinologia/"
   ],
-  "_rodizio": 337
+  "_rodizio": 357
  },
  "falhas": {}
 }
