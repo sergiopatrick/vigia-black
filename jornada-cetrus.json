@@ -3375,9 +3375,15 @@
    "/cursos/ultrassonografia-point-of-care-em-emergencia-e-uti/",
    "/cursos/infiltracao-da-coluna-guiada-por-ultrassom/",
    "/cursos/pos-graduacao-lato-sensu-em-endocrinologia/",
-   "/cursos/pos-graduacao-lato-sensu-em-angiologia-e-doenca-vascular-abordagem-clinica-e-preventiva/"
+   "/cursos/pos-graduacao-lato-sensu-em-angiologia-e-doenca-vascular-abordagem-clinica-e-preventiva/",
+   "/cursos/pos-graduacao-em-cardiologia-sanar/",
+   "/cursos/pos-graduacao-em-clinica-medica-sanar/",
+   "/cursos/pos-graduacao-em-medicina-de-emergencia-sanar/",
+   "/cursos/pos-graduacao-em-medicina-do-estilo-de-vida-sanar/",
+   "/cursos/pos-graduacao-em-neurologia-sanar/",
+   "/cursos/pos-graduacao-em-psiquiatria-forense-sanar/"
   ],
-  "_rodizio": 27
+  "_rodizio": 47
  },
  "falhas": {
   "cetrus|/cursos/fellowship-em-us-tv-avancado-e-endometriose-dr-fernando-guastella/|formulario": {
