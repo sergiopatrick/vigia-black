@@ -908,7 +908,7 @@
   },
   "/cursos/fellowship-em-us-tv-avancado-e-endometriose-dr-fernando-guastella/": {
    "cta": true,
-   "form": true,
+   "form": false,
    "gtm": true,
    "index": true
   },
@@ -3383,16 +3383,7 @@
    "/cursos/pos-graduacao-em-neurologia-sanar/",
    "/cursos/pos-graduacao-em-psiquiatria-forense-sanar/"
   ],
-  "_rodizio": 247
+  "_rodizio": 267
  },
- "falhas": {
-  "cetrus|/cursos/fellowship-em-us-tv-avancado-e-endometriose-dr-fernando-guastella/|formulario": {
-   "alertado": true,
-   "desde": "2026-11-26T11:23:54-03:00",
-   "desde_s": 1795703034.746507,
-   "msg": "Formulário de contato sumiu da página",
-   "ultimo_alerta": 1795703034.746507,
-   "vezes": 1
-  }
- }
+ "falhas": {}
 }
