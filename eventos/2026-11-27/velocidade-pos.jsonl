@@ -1,0 +1,3 @@
+{"ts": "2026-11-27T08:01:18-03:00", "tipo": "velocidade", "site": "pos", "url": "https://pos.sanar.com.br/", "fonte": "lighthouse", "nota": 28, "lcp": 18.2, "cls": 0, "tbt": 2389, "lcp_campo": null, "inp_campo": null, "cls_campo": null}
+{"ts": "2026-11-27T08:02:28-03:00", "tipo": "velocidade", "site": "pos", "url": "https://pos.sanar.com.br/cursos/", "fonte": "lighthouse", "nota": 33, "lcp": 14.3, "cls": 0, "tbt": 1477, "lcp_campo": null, "inp_campo": null, "cls_campo": null}
+{"ts": "2026-11-27T08:02:58-03:00", "tipo": "velocidade", "site": "pos", "url": "https://pos.sanar.com.br/pos-graduacao-em-pediatria-a/", "fonte": "lighthouse", "nota": 30, "lcp": 15.7, "cls": 0, "tbt": 1876, "lcp_campo": null, "inp_campo": null, "cls_campo": null}
