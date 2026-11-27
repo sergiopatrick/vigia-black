@@ -3043,7 +3043,6 @@
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-alphasonic/",
    "/cursos/fellowship-em-ultrassonografia-obstetrica-dr-christine-rondon/",
    "/cursos/fellowship-em-ultrassonografia-obstetrica-dr-jair-braga/",
-   "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-clinica-endhos/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-ultramed/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-drs-guilherme-e-amanda-chandretti/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-lairton-do-monte/",
@@ -3090,7 +3089,6 @@
    "/cursos/fellowship-em-intervencao-em-dor-dr-francisco-morato/",
    "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dr-orestes-borges/",
    "/cursos/fellowship-em-ecocardiografia-dr-anderson-lima/",
-   "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-instituto-falcao/",
    "/cursos/fellowship-em-ecocardiografia-dra-joicely-costa/",
    "/cursos/fellowship-em-ultrassonografia-obstetrica-clinica-prodclin/",
    "/cursos/fellowship-em-cosmiatria-dra-juliana-martins/",
@@ -3257,7 +3255,6 @@
    "/cursos/fellowship-em-ecocardiografia-dr-edmundo-camara/",
    "/cursos/fellowship-em-ecocardiografia-drs-alvaro-santana-e-railson-brandao/",
    "/cursos/fellowship-em-ecocardiografia-fetal-cardio-crianca/",
-   "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dra-keila-matos/",
    "/cursos/fellowship-em-ginecologia-funcional-e-regenerativa-dra-eliana-zucchi/",
    "/cursos/fellowship-em-intervencao-em-dor-dr-david-sadigursky/",
    "/cursos/fellowship-em-intervencao-em-dor-dr-pedro-ferro-dra-sandra-santos/",
@@ -3420,9 +3417,21 @@
    "/cursos/pos-graduacao-em-psiquiatria-forense-sanar/",
    "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-messias-mendonca-2/",
    "/cursos/fellowship-em-ecocardiografia-dra-carolina-santana/",
-   "/cursos/pos-graduacao-ultrassonografia-geral-sao-paulo/"
+   "/cursos/pos-graduacao-ultrassonografia-geral-sao-paulo/",
+   "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-instituto-falcao/",
+   "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-clinica-endhos/",
+   "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dra-keila-matos/"
   ],
-  "_rodizio": 149
+  "_rodizio": 169
  },
- "falhas": {}
+ "falhas": {
+  "cetrus|/cursos/pos-graduacao-lato-sensu-em-colonoscopia-diagnostica/|turmas": {
+   "alertado": true,
+   "desde": "2026-11-27T18:22:57-03:00",
+   "desde_s": 1795814577.8727913,
+   "msg": "Curso sem turma para escolher, o aluno não consegue se inscrever",
+   "ultimo_alerta": 1795814577.8727913,
+   "vezes": 1
+  }
+ }
 }
