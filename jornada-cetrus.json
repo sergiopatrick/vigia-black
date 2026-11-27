@@ -1,7 +1,7 @@
 {
  "base": {
   "/": {
-   "cta": false,
+   "cta": true,
    "form": false,
    "gtm": true,
    "index": true
@@ -1346,6 +1346,18 @@
    "index": true,
    "turmas": true
   },
+  "/cursos/pos-graduacao-em-cardiologia-sanar/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-em-clinica-medica-sanar/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-em-ecocardiografia-dr-edmundo-camara/": {
    "cta": true,
    "form": true,
@@ -1382,6 +1394,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-em-medicina-de-emergencia-sanar/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-em-medicina-de-familia-e-comunidade-sanar/": {
    "cta": true,
    "form": true,
@@ -1389,6 +1407,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-em-medicina-do-esporte-sanar/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-em-medicina-do-estilo-de-vida-sanar/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -1412,6 +1436,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-em-neurologia-sanar/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-em-pediatria-sanar/": {
    "cta": true,
    "form": true,
@@ -1425,6 +1455,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-em-psiquiatria-da-infancia-e-adolescencia-sanar/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-em-psiquiatria-forense-sanar/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -3383,7 +3419,7 @@
    "/cursos/pos-graduacao-em-neurologia-sanar/",
    "/cursos/pos-graduacao-em-psiquiatria-forense-sanar/"
   ],
-  "_rodizio": 447
+  "_rodizio": 467
  },
  "falhas": {}
 }
