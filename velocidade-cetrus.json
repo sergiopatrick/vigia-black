@@ -2,7 +2,6 @@
  "base": {
   "/": {
    "notas": [
-    35,
     39,
     39,
     29,
@@ -16,12 +15,12 @@
     35,
     33,
     37,
-    35
+    35,
+    34
    ]
   },
   "/cursos/pos-graduacao-lato-sensu-em-ressonancia-magnetica-musculoesqueletica/": {
    "notas": [
-    32,
     33,
     34,
     30,
@@ -35,12 +34,12 @@
     32,
     30,
     34,
-    33
+    33,
+    29
    ]
   },
   "/vitrine/": {
    "notas": [
-    39,
     40,
     43,
     37,
@@ -54,7 +53,8 @@
     36,
     36,
     40,
-    43
+    43,
+    37
    ]
   }
  },
