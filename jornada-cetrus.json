@@ -456,6 +456,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/fellowship-em-ecocardiografia-dra-carolina-santana/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/fellowship-em-ecocardiografia-dra-flavia-vernin/": {
    "cta": true,
    "form": true,
@@ -2198,6 +2204,12 @@
    "gtm": true,
    "index": true
   },
+  "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-messias-mendonca-2/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
   "/cursos/pos-graduacao-lato-sensu-em-ultrassonografia-geral-dr-thiago-ribeiro-dr-carlos-frota/": {
    "cta": true,
    "form": true,
@@ -2414,6 +2426,12 @@
    "index": true
   },
   "/cursos/pos-graduacao-ultrassonografia-geral-patos-pb/": {
+   "cta": true,
+   "form": true,
+   "gtm": true,
+   "index": true
+  },
+  "/cursos/pos-graduacao-ultrassonografia-geral-sao-paulo/": {
    "cta": true,
    "form": true,
    "gtm": true,
@@ -3422,7 +3440,7 @@
    "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-clinica-endhos/",
    "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dra-keila-matos/"
   ],
-  "_rodizio": 449
+  "_rodizio": 469
  },
  "falhas": {
   "cetrus|/cursos/colposcopia/|turmas": {
