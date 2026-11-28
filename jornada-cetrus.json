@@ -3422,7 +3422,7 @@
    "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-clinica-endhos/",
    "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dra-keila-matos/"
   ],
-  "_rodizio": 349
+  "_rodizio": 369
  },
  "falhas": {
   "cetrus|/cursos/colposcopia/|turmas": {
@@ -3463,6 +3463,14 @@
    "desde_s": 1795846963.2138004,
    "msg": "Curso sem turma para escolher, o aluno não consegue se inscrever",
    "ultimo_alerta": 1795846963.2138004,
+   "vezes": 1
+  },
+  "cetrus|/vitrine/|abre": {
+   "alertado": true,
+   "desde": "2026-11-28T04:26:38-03:00",
+   "desde_s": 1795850798.4030228,
+   "msg": "Página não abriu no navegador (TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:)",
+   "ultimo_alerta": 1795850798.4030228,
    "vezes": 1
   }
  }
