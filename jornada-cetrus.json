@@ -3422,7 +3422,7 @@
    "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-clinica-endhos/",
    "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dra-keila-matos/"
   ],
-  "_rodizio": 429
+  "_rodizio": 449
  },
  "falhas": {
   "cetrus|/cursos/colposcopia/|turmas": {
@@ -3479,6 +3479,14 @@
    "desde_s": 1795857858.0266237,
    "msg": "Curso sem turma para escolher, o aluno não consegue se inscrever",
    "ultimo_alerta": 1795857858.0266237,
+   "vezes": 1
+  },
+  "cetrus|/cursos/ultrassonografia-point-of-care-em-emergencia-e-uti/|turmas": {
+   "alertado": true,
+   "desde": "2026-11-28T08:22:29-03:00",
+   "desde_s": 1795864949.5309374,
+   "msg": "Curso sem turma para escolher, o aluno não consegue se inscrever",
+   "ultimo_alerta": 1795864949.5309374,
    "vezes": 1
   }
  }
