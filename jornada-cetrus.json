@@ -1705,7 +1705,7 @@
    "form": true,
    "gtm": true,
    "index": true,
-   "turmas": true
+   "turmas": false
   },
   "/cursos/pos-graduacao-lato-sensu-em-colposcopia-e-ptgi/": {
    "cta": true,
@@ -3422,7 +3422,7 @@
    "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-clinica-endhos/",
    "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dra-keila-matos/"
   ],
-  "_rodizio": 389
+  "_rodizio": 409
  },
  "falhas": {
   "cetrus|/cursos/colposcopia/|turmas": {
@@ -3449,14 +3449,6 @@
    "ultimo_alerta": 1795836405.6931648,
    "vezes": 1
   },
-  "cetrus|/cursos/pos-graduacao-lato-sensu-em-colonoscopia-diagnostica/|turmas": {
-   "alertado": true,
-   "desde": "2026-11-27T18:22:57-03:00",
-   "desde_s": 1795814577.8727913,
-   "msg": "Curso sem turma para escolher, o aluno não consegue se inscrever",
-   "ultimo_alerta": 1795814577.8727913,
-   "vezes": 1
-  },
   "cetrus|/cursos/pos-graduacao-lato-sensu-em-intervencao-em-dor/|turmas": {
    "alertado": true,
    "desde": "2026-11-28T03:22:43-03:00",
@@ -3471,6 +3463,22 @@
    "desde_s": 1795854399.3958523,
    "msg": "Curso sem turma para escolher, o aluno não consegue se inscrever",
    "ultimo_alerta": 1795854399.3958523,
+   "vezes": 1
+  },
+  "cetrus|/cursos/ultrassonografia-da-bolsa-testicular-e-penis/|turmas": {
+   "alertado": true,
+   "desde": "2026-11-28T06:24:18-03:00",
+   "desde_s": 1795857858.0266237,
+   "msg": "Curso sem turma para escolher, o aluno não consegue se inscrever",
+   "ultimo_alerta": 1795857858.0266237,
+   "vezes": 1
+  },
+  "cetrus|/cursos/ultrassonografia-em-hernias-da-regiao-inguinal-e-da-parede-abdominal/|turmas": {
+   "alertado": true,
+   "desde": "2026-11-28T06:24:18-03:00",
+   "desde_s": 1795857858.0266237,
+   "msg": "Curso sem turma para escolher, o aluno não consegue se inscrever",
+   "ultimo_alerta": 1795857858.0266237,
    "vezes": 1
   }
  }
