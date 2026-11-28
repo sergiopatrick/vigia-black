@@ -3422,7 +3422,7 @@
    "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-clinica-endhos/",
    "/cursos/fellowship-em-endoscopia-digestiva-alta-diagnostica-dra-keila-matos/"
   ],
-  "_rodizio": 329
+  "_rodizio": 349
  },
  "falhas": {
   "cetrus|/cursos/colposcopia/|turmas": {
@@ -3455,6 +3455,14 @@
    "desde_s": 1795814577.8727913,
    "msg": "Curso sem turma para escolher, o aluno não consegue se inscrever",
    "ultimo_alerta": 1795814577.8727913,
+   "vezes": 1
+  },
+  "cetrus|/cursos/pos-graduacao-lato-sensu-em-intervencao-em-dor/|turmas": {
+   "alertado": true,
+   "desde": "2026-11-28T03:22:43-03:00",
+   "desde_s": 1795846963.2138004,
+   "msg": "Curso sem turma para escolher, o aluno não consegue se inscrever",
+   "ultimo_alerta": 1795846963.2138004,
    "vezes": 1
   }
  }
